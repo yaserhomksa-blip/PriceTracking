@@ -316,23 +316,37 @@ async def visit(browser, store, item, mode, target):
         info["final_url"] = page.url
         info["title"] = await page.title()
         if mode == "product":
-            prod = await page.evaluate(PRODUCT_JS)
+            prod = await page.evaluate(PRODUCT_JS) or {}
             info["product_read"] = prod
-            ld = []
-            for sc in await page.eval_on_selector_all("script[type='application/ld+json']", "els => els.map(e => e.textContent)"):
+            h1 = prod.get("name") or ""
+            words = [w for w in norm(h1).split() if len(w) > 2 and not re.match(r"^[0-9]", w)]
+
+            def same(n):
+                nn = norm(n)
+                return bool(words) and sum(w in nn for w in words) >= max(1, len(words) - 1)
+
+            pool = []
+            for sc in await page.eval_on_selector_all(
+                    "script[type='application/ld+json'], script#__NEXT_DATA__, script[type='application/json']",
+                    "els => els.map(e => e.textContent).slice(0, 40)"):
                 try:
-                    walk_json(json.loads(sc), ld)
+                    walk_json(json.loads(sc), pool)
                 except Exception:
                     pass
-            if ld:
-                c = ld[0]
-                if prod and prod.get("out_of_stock"):
-                    c["in_stock"] = False
-                candidates.append(dict(c, url=target, source="product"))
-            elif prod and prod.get("price"):
-                candidates.append({"name": prod["name"], "price": float(prod["price"]),
-                                   "old_price": prod.get("old_price"),
-                                   "in_stock": False if prod.get("out_of_stock") else None,
+            pool += candidates          # network data seen while the page loaded
+            best = next((c for c in pool if same(c["name"])), None)
+            price, old = (best["price"], best.get("old_price")) if best else (prod.get("price"), prod.get("old_price"))
+            if not price and h1:
+                body = await page.inner_text("body")
+                i = body.find(h1)
+                m = re.search(r"(?<![0-9])([0-9]{1,4}[.,][0-9]{2})(?![0-9])", body[i:i + 400] if i >= 0 else "")
+                if m:
+                    price = float(m.group(1).replace(",", "."))
+            candidates.clear()
+            if price:
+                candidates.append({"name": h1 or (best or {}).get("name"), "price": float(price),
+                                   "old_price": old if old and old > float(price) else None,
+                                   "in_stock": False if prod.get("out_of_stock") or (best and best.get("in_stock") is False) else None,
                                    "url": target, "source": "product"})
             info["page_start"] = re.sub(r"\s+", " ", (await page.inner_text("body"))[:300])
             raise StopIteration
@@ -442,7 +456,7 @@ async def main():
                 elif not hits:
                     row[store["id"]] = {"status": "not_found"}
                 else:
-                    hits.sort(key=lambda h: (h["in_stock"] is False, h["price"]))
+                    hits.sort(key=lambda h: (h["in_stock"] is False, h["price"], -len(h["name"])))
                     best = hits[0]
                     row[store["id"]] = {
                         "status": "out_of_stock" if best["in_stock"] is False else "found",
