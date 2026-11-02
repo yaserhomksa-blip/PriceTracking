@@ -108,6 +108,11 @@ def walk_json(obj, out, depth=0, parent=None):
         elif isinstance(name, str) and SIZE_ONLY.match(name.strip()):
             name = None
         if isinstance(name, str) and 3 < len(name) < 250:
+            brand = obj.get("brand") or obj.get("brandName") or obj.get("brand_name")
+            if isinstance(brand, dict):
+                brand = first(brand, ["name", "title", "en"])
+            if isinstance(brand, str) and brand.strip() and brand.lower() not in name.lower():
+                name = f"{brand.strip()} {name}"
             price = None
             for k in PRICE_KEYS:
                 if k in obj:
@@ -193,7 +198,8 @@ DOM_JS = r"""
 
 
 SEARCH_BOX = ("input[type='search'], input[placeholder*='earch' i], input[aria-label*='earch' i], "
-              "input[name*='search' i], input[name='q'], input[placeholder*='بحث'], input[id*='search' i]")
+              "input[name*='search' i], input[name='q'], input[placeholder*='بحث'], input[id*='search' i], "
+              "input[class*='search' i], header input[type='text'], nav input[type='text']")
 
 
 async def visit(browser, store, item, mode, target):
@@ -228,6 +234,9 @@ async def visit(browser, store, item, mode, target):
             pass
         if mode == "box":
             candidates.clear()   # ignore home-page products, keep only search results
+            await page.wait_for_timeout(4000)
+            info["inputs"] = await page.eval_on_selector_all(
+                "input", "els => els.slice(0,15).map(e => [e.type, e.name, e.id, e.placeholder, e.className.toString().slice(0,40), e.offsetParent !== null])")
             box = None
             for el in await page.query_selector_all(SEARCH_BOX):
                 if await el.is_visible():
@@ -235,7 +244,7 @@ async def visit(browser, store, item, mode, target):
                     break
             if box is None:
                 # some sites hide the field behind a search icon
-                for icon in await page.query_selector_all("[aria-label*='earch' i], [class*='search' i] button, button[class*='search' i]"):
+                for icon in await page.query_selector_all("[aria-label*='earch' i], [class*='search' i], [data-testid*='search' i]"):
                     if await icon.is_visible():
                         await icon.click()
                         await page.wait_for_timeout(1200)
