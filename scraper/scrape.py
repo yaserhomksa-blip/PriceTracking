@@ -384,8 +384,8 @@ def blocked(info):
 
 
 async def check_store(browser, store, item, debug):
-    q = quote_plus(item.get("search") or item["name"])
-    attempts = [("url", u.replace("{q}", q)) for u in store.get("urls", [])]
+    queries = [item.get("search") or item["name"]] + item.get("extra_searches", [])
+    attempts = [("url", u.replace("{q}", quote_plus(qq))) for qq in queries for u in store.get("urls", [])]
     if store.get("home"):
         attempts.append(("box", store["home"]))
     tried, reachable, info = [], False, {}
@@ -404,12 +404,13 @@ async def check_store(browser, store, item, debug):
         candidates, info = await visit(browser, store, item, mode, target)
         hits = [c for c in candidates if matches(c["name"], item)]
         relevant = [c for c in candidates if any(norm(a) in norm(c["name"]) for a in first_group)]
+        info["all_products"] = [[c["name"][:90], c["price"]] for c in relevant][:40]
         info.update({"products_seen": len(candidates), "relevant": len(relevant), "matches": len(hits),
                      "sample_names": sorted({c["name"] for c in (relevant or candidates)})[:15]})
         tried.append(info)
         if not blocked(info):
             reachable = True
-        if hits or relevant:
+        if hits:
             debug[store["id"]] = tried
             return hits, info
     debug[store["id"]] = tried
