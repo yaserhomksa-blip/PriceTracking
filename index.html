@@ -78,6 +78,32 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":
 const issueUrl = (title, body) =>
   `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body || "")}`;
 
+const fmtDay = d => new Date(d + "T12:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"});
+
+function historyHtml(item, hist) {
+  const days = [...new Set(Object.values(hist).flatMap(h => Object.keys(h)))].sort().reverse();
+  if (!days.length) return "";
+  const t = item.target;
+  // when was it below target, per store
+  const below = [];
+  for (const [id, label] of STORES) {
+    const h = hist[id] || {};
+    const hits = Object.keys(h).filter(d => t && h[d] < t).sort();
+    if (hits.length) below.push(`${label}: last on <b>${fmtDay(hits[hits.length - 1])}</b> (${sar(h[hits[hits.length - 1]])}), ${hits.length} day${hits.length > 1 ? "s" : ""} in total`);
+  }
+  const summary = t ? (below.length ? "Below " + sar(t) + " — " + below.join(" · ")
+                                    : "Not below " + sar(t) + " at any store since tracking began")
+                    : "";
+  const used = STORES.filter(([id]) => hist[id] && Object.keys(hist[id]).length);
+  const head = "<tr><td class='store'>Date</td>" + used.map(([, l]) => `<td class="price">${l}</td>`).join("") + "</tr>";
+  const body = days.slice(0, 60).map(d => "<tr><td>" + fmtDay(d) + "</td>" + used.map(([id]) => {
+    const v = (hist[id] || {})[d];
+    return `<td class="price"${v != null && t && v < t ? ' style="color:var(--good);font-weight:700"' : ""}>${v != null ? v.toFixed(2) : "–"}</td>`;
+  }).join("") + "</tr>").join("");
+  return `<details class="note"><summary>Price history (since ${fmtDay(days[days.length - 1])})</summary>
+    ${summary ? `<p>${summary}</p>` : ""}<table>${head}${body}</table></details>`;
+}
+
 async function load(path) {
   try { const r = await fetch(path + "?t=" + Date.now()); return r.ok ? r.json() : null; }
   catch (e) { return null; }
@@ -129,6 +155,7 @@ async function load(path) {
       <div class="best">${best ? `Cheapest now: <b>${sar(best.price)}</b> at ${best.store}` +
           (item.target && best.price < item.target ? " 🎉 below your target" : "") : "No prices yet"}</div>
       <table>${rows}</table>
+      ${historyHtml(item, hist)}
       <div class="note"><button class="remove" data-name="${esc(item.name)}">Stop tracking this item</button></div>`;
     box.appendChild(card);
   }
