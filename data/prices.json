@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T13:08+03:00",
+  "updated": "2026-11-02T13:23+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -22,7 +22,39 @@
         "url": "https://gcc.luluhypermarket.com/en-sa/ocean-spray-no-added-sugar-cranberry-drink-1-litre/p/20726/"
       },
       "ninja": {
-        "status": "app_only"
+        "status": "not_found"
+      }
+    },
+    "Dari Frozen Raspberry 350g": {
+      "danube": {
+        "status": "found",
+        "price": 32.5,
+        "old_price": null,
+        "product": "Dari Frozen Raspberry",
+        "url": "https://danube.sa/en/products/rz-byry-twt-llyq-mjmd"
+      },
+      "tamimi": {
+        "status": "found",
+        "price": 24.5,
+        "old_price": null,
+        "product": "dari raspberry",
+        "url": "https://shop.tamimimarkets.com/product/raspberry-26"
+      },
+      "panda": {
+        "status": "not_found"
+      },
+      "carrefour": {
+        "status": "unreachable"
+      },
+      "lulu": {
+        "status": "found",
+        "price": 14.3,
+        "old_price": null,
+        "product": "Banana Rasakadali India 500 g",
+        "url": null
+      },
+      "ninja": {
+        "status": "not_found"
       }
     }
   }

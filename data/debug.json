@@ -10,10 +10,10 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By Chefz (4) Departments (5) Hungerstation (1) Jahez V2 (2) Mrsool V2 (3) Price  0.00 -  19.00  19.00 -  23.00  23.00 -  27.00  27.00 -  31.00  31.00 -  36.00  36.00 -  41.00  41.00 or greater",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=226e5b92-3c1b-4733-93cb-e55479436152",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=9ff41e3e-a1b0-4c60-9848-62501c912fac",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2562&s=0&ref=https://www.danube.sa/en/search&ptid=854",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=609a77e8e5ea3ab1",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2514&s=0&ref=https://www.danube.sa/en/search&ptid=bf6",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=2d532988d96b95a8",
           "https://www.danube.sa/en/store_selector"
         ],
         "products_seen": 7,
@@ -37,9 +37,9 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/announcement",
           "https://shop.tamimimarkets.com/api/nav",
-          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
         ],
@@ -73,10 +73,10 @@
         "title": "Shop Ocean spray cranberry Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Ocean Breeze 450ml Cleaning 2",
         "json_urls": [
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
-          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "products_seen": 53,
@@ -127,11 +127,9 @@
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Ocean Breeze 450ml Cleaning 2",
         "json_urls": [
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cdomain%2Cfile-document-outline%2Cheart-outline%2Cmap-marker%2Cminus%2Cplus%2Creceipt-text-outlin",
           "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cdomain%2Cfile-document-outline%2Cheart-outline%2Cmap-marker%2Cminus%2Cplus%2Creceipt-text-outlin",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
-          "https://api.simplesvg.com/ic.json?icons=round-arrow-drop-down",
-          "https://api.simplesvg.com/mdi.json?icons=cart%2Cchevron-down%2Cdomain%2Cfile-document-outline%2Cheart-outline%2Cmap-marker%2Cminus%2Cplus%2Creceipt-text-outline",
           "https://panda.sa/api/interactions",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right"
         ],
@@ -188,14 +186,14 @@
         "title": "Buy Online Groceries, Electronics, Mobiles & Home Appliances with Fast & Free Delivery",
         "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (74) Men's Anti-Perspirant (67) Anti-Perspirant (64) Aerosols (51) Hair Cream (50) View All Brand ABC (1) Adidas (8) Adriana (1",
         "json_urls": [
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/auth/session",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936142"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936151"
         ],
         "products_seen": 30,
         "relevant": 5,
@@ -204,6 +202,301 @@
           "Ocean Spray",
           "Ocean Spray Cranberry Classic Juice Drink 1 Litre",
           "Ocean Spray No Added Sugar Cranberry Drink 1 Litre"
+        ]
+      }
+    ],
+    "ninja": [
+      {
+        "mode": "url",
+        "url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+cranberry",
+        "status": 200,
+        "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+cranberry",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Cleaning & Laundry Household & Gathering Essentials Cream & Labneh Breakfast Cereals Cleaning and Laundry Conditioner Intimate Care & Hygiene Hair Styling Hair Colorant Hair Oils & Serums Hair Care Glass Cleansers Toilet Cleansers Air fr",
+        "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=97549032&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793615208697&dep=2%2CPAGE_LOAD",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T13%3A26%3A49.868Z%2B0300&sent_at=2026-11-02T13%3A26%3A51."
+        ],
+        "products_seen": 141,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "6X Spray Perfume London",
+          "6X Spray Perfume Vienna",
+          "Afle Daily Contact Lenses Ocean 2 Pcs",
+          "All Health Kids Sunscreen Spray 50+ SPF 200ml",
+          "Almehbaj Dried Cranberry 200 gm",
+          "Armaf Club De Nuit Body Spray For Women 200 ml",
+          "Armaf Club De Nuit Body Spray Untold 200 ml",
+          "Aroma Spray Earth 50 ml",
+          "Asmaco Foaming Spray Ac Cleaner 2 In 1 Cleans And Disinfects",
+          "Avalon Active Muscle Pain Relief Cold Spray 118 ml",
+          "Axe Men Deodorant Body Spray for long lasting odour protection Black Night 150ml",
+          "Axe Mini Men Deodorant Body Spray Dark Temptation 120ml",
+          "Beauty Mafia Intensive Tanning Oil Spf 6 Spray 140 ml",
+          "Bioderma Photoderm Spray Spf50 200 ml",
+          "Bogenia Makeup Fixing Spray 100 ml"
+        ]
+      },
+      {
+        "mode": "box",
+        "url": "https://ananinja.com/sa/en",
+        "status": 200,
+        "inputs": [
+          [
+            "text",
+            "",
+            "search",
+            "Search: Apple",
+            "flex rounded-md border border-neutral-20",
+            true
+          ]
+        ],
+        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
+        "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://api64.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=104231355&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793615231129&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T13%3A27%3A12.424Z%2B0300&sent_at=2026-11-02T13%3A27%3A14.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=104231355&appName=ninja-website&environment=default"
+        ],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      }
+    ]
+  },
+  "Dari Frozen Raspberry 350g": {
+    "danube": [
+      {
+        "mode": "product",
+        "url": "https://danube.sa/en/products/rz-byry-twt-llyq-mjmd",
+        "status": 200,
+        "final_url": "https://danube.sa/en/products/rz-byry-twt-llyq-mjmd",
+        "title": "Buy Dari Frozen Raspberry 350g and Frozen Food online - Danube",
+        "product_read": {
+          "name": "Dari Frozen Raspberry 350g",
+          "price": null
+        },
+        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Dari Frozen Raspberry 350g  32.50 33 pts Quantity Add To Cart With Dari Frozen Raspberry, you can shop for Raspberry anytime of the year despite the season. It is packed in such a way that the nutrient value is not altered. RATING No re",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1793615270879",
+          "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1793615270959",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=1b31657b-aa59-44b2-a340-074d294df6e9",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1493&s=0&ref=https://danube.sa/en/products/rz-byry-tw",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=9a47ed94f8b025d6"
+        ],
+        "products_seen": 1
+      }
+    ],
+    "tamimi": [
+      {
+        "mode": "product",
+        "url": "https://shop.tamimimarkets.com/en/product/raspberry-26",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/product/raspberry-26",
+        "title": "Dari Raspberry-350g - Buy online on Tamimi Markets",
+        "product_read": null,
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE Home > Raspberry Raspberry-350g Brand Dari Size 350g Price 24.50 25.95 Additional Information Mercha",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/category"
+        ],
+        "products_seen": 0
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/en/search?query=dari+raspberry",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=dari+raspberry",
+        "title": "dari raspberry | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Dari Clear Filter Dari Raspberry Home > Dari Raspberry 6% OFF 24.50 25.95 D",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=dari%20raspberry&page=2&orderType="
+        ],
+        "products_seen": 31,
+        "relevant": 8,
+        "matches": 4,
+        "sample_names": [
+          "BrandDari",
+          "BrandDariClear Filter",
+          "Dari Raspberry",
+          "Dari Raspberry 350g",
+          "Dari Raspberry-350g",
+          "FilterBrandDariClear Filter",
+          "FilterBrandDariClear FilterBrandDariClear FilterSORT BYPopularityRelevancyNewestPopularity",
+          "dari raspberry"
+        ]
+      }
+    ],
+    "panda": [
+      {
+        "mode": "url",
+        "url": "https://panda.sa/en/plp?search_key=dari+raspberry",
+        "status": 200,
+        "final_url": "https://panda.sa/en/plp?search_key=dari+raspberry",
+        "title": "Shop Dari raspberry Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Search Results: \"Dari raspberry\" 31 Products Found 350 gm Dari Frozen Raspberries 350g Fruits & Vegetables 27.5 1 30% Off 2.75 kg Dari Labneh 2.75kg Cheese & Labneh 89.99 62.99 1 50% Off 400 gm D",
+        "json_urls": [
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cheart-outline%2Cminus%2Cplus"
+        ],
+        "products_seen": 51,
+        "relevant": 21,
+        "matches": 0,
+        "sample_names": [
+          "Dari Aloha Mixchunks 350g",
+          "Dari Butter Chicken 400g",
+          "Dari Cheese Halloumi Slice 200G",
+          "Dari Cheese Halloumi With Red Chili 225G",
+          "Dari Frozen Blueberries 350g",
+          "Dari Frozen Duck 2200g",
+          "Dari Frozen Molokhia 400g",
+          "Dari Frozen Quail 600g",
+          "Dari Frozen Tender Chicken Breast 2kg",
+          "Dari Guava Pulp (1kg)",
+          "Dari Halloumi Burger Slice 200G",
+          "Dari Lamb Mince 400G",
+          "Dari Medium Shrimps 400g",
+          "Dari Minced Spinach 400g",
+          "Dari Mozzarella Analogue Cheese 900g"
+        ]
+      }
+    ],
+    "carrefour": [
+      {
+        "mode": "product",
+        "url": "https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "products_seen": 0
+      },
+      {
+        "mode": "url",
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=dari+raspberry",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=dari+raspberry\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "mode": "box",
+        "url": "https://www.carrefourksa.com/mafsau/en",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      }
+    ],
+    "lulu": [
+      {
+        "mode": "product",
+        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223",
+        "status": 200,
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223",
+        "title": "Dari Frozen Raspberry 350 g Online at Best Price | Lulu KSA",
+        "product_read": {
+          "name": "Dari Frozen Raspberry 350 g",
+          "price": null
+        },
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Home > Grocery > Food Cupboard > Frozen Food > Fruits & Vegetables Dari Dari Frozen Raspberry 350 g 25.70 ( Inclusive of VAT ) ADD TO CART Product Highlights Specificati",
+        "json_urls": [
+          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/client/products/202056/similar-by-id/?page_size=20",
+          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
+          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review/?sku=1710223&status=approved&limit=2",
+          "https://media.flixcar.com/modular/web-api/d2/14565/6281051007345Z2NjLmx1bHVoeXBlcm1hcmtldC5jb20/t.json?mpn=&ean=6281051007345&distId=14565&iso=d2&flIso=",
+          "https://gcc.luluhypermarket.com/api/client/products/202056/similar-by-id/?page_size=20",
+          "https://availability.loadbee.com/v3/EAN/document.getElementById('productEAN').value/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration",
+          "https://availability.loadbee.com/v3/EAN/document.getElementById('productEAN').value/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration",
+          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
+          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936154"
+        ],
+        "products_seen": 81
+      }
+    ],
+    "ninja": [
+      {
+        "mode": "url",
+        "url": "https://ananinja.com/sa/en/product/search?q=dari+raspberry",
+        "status": 200,
+        "final_url": "https://ananinja.com/sa/en/product/search?q=dari+raspberry",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Malt Drinks Single Pack Best Offers Buy Together Organic Breakfast Organic Baby Bath Hand Moisturizer Soft Drinks Single Pack Fresh Juices Single Pack Ice Cream Sticks Cups & Tubs Family Packs Ice Cream Shower Gel Energy Drinks Single Pa",
+        "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=355532052&appName=ninja-website&environment=default",
+          "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793615491064&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T13%3A31%3A32.268Z%2B0300&sent_at=2026-11-02T13%3A31%3A34."
+        ],
+        "products_seen": 87,
+        "relevant": 10,
+        "matches": 0,
+        "sample_names": [
+          "Dari BlueBerry Frozen 350 gm",
+          "Dari Canned Red Beans Kidney 400 gm",
+          "Dari Chicken Breast Tenderized 1 kg",
+          "Dari Chicken Breast Tenderized 2 kg",
+          "Dari Mayonnaise 300 ml",
+          "Dari Medium Frozen Shrimp 400 gm",
+          "Dari Molokhia 400 gm",
+          "Dari Plain Paratha 400 gm",
+          "Dari Strawberry 1 kg",
+          "Dari Very Berry Mix 350 gm"
         ]
       }
     ]
