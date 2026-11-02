@@ -91,7 +91,10 @@ def first(d, keys):
     return None
 
 
-def walk_json(obj, out, depth=0):
+SIZE_ONLY = re.compile(r"^[0-9.,x\s]*(l|ml|g|gm|kg|oz|ltr|lt|litre|liter|pcs|pc|pack)?$", re.I)
+
+
+def walk_json(obj, out, depth=0, parent=None):
     """Find product-like dicts (have a name and a price) anywhere in a JSON blob."""
     if depth > 14:
         return
@@ -99,6 +102,11 @@ def walk_json(obj, out, depth=0):
         name = first(obj, NAME_KEYS)
         if isinstance(name, dict):
             name = first(name, ["en", "english", "value"]) or next(iter(name.values()), None)
+        own_name = name if isinstance(name, str) and len(name) > 3 and not SIZE_ONLY.match(name.strip()) else None
+        if isinstance(name, str) and SIZE_ONLY.match(name.strip()) and parent:
+            name = f"{parent} {name}"   # variant named only by size, e.g. "1.89L"
+        elif isinstance(name, str) and SIZE_ONLY.match(name.strip()):
+            name = None
         if isinstance(name, str) and 3 < len(name) < 250:
             price = None
             for k in PRICE_KEYS:
@@ -145,10 +153,10 @@ def walk_json(obj, out, depth=0):
                             "url": url if isinstance(url, str) else None,
                             "source": "data"})
         for v in obj.values():
-            walk_json(v, out, depth + 1)
+            walk_json(v, out, depth + 1, own_name or parent)
     elif isinstance(obj, list):
         for v in obj[:400]:
-            walk_json(v, out, depth + 1)
+            walk_json(v, out, depth + 1, parent)
 
 
 DOM_JS = r"""
@@ -160,7 +168,7 @@ DOM_JS = r"""
   for (const el of els) {
     if (el.children.length > 3) continue;
     const t = (el.innerText || '').trim();
-    if (t.length < 6 || t.length > 160 || priceRe.test(t)) continue;
+    if (t.length < 6 || t.length > 160 || priceRe.test(t) || !/[a-z\u0600-\u06FF]{3}/i.test(t)) continue;
     let node = el, price = null, card = null;
     for (let i = 0; i < 6 && node; i++) {
       node = node.parentElement;
@@ -184,80 +192,128 @@ DOM_JS = r"""
 """
 
 
-async def check_store(browser, store, item, debug):
-    q = quote_plus(item.get("search") or item["name"])
-    tried = []
-    for tmpl in store["urls"]:
-        url = tmpl.replace("{q}", q)
-        candidates = []
-        json_count = 0
-        ctx = await browser.new_context(
-            locale="en-US", timezone_id="Asia/Riyadh",
-            user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                        "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"),
-            viewport={"width": 1366, "height": 900})
-        page = await ctx.new_page()
-        pending = []
+SEARCH_BOX = ("input[type='search'], input[placeholder*='earch' i], input[aria-label*='earch' i], "
+              "input[name*='search' i], input[name='q'], input[placeholder*='بحث'], input[id*='search' i]")
 
-        async def on_response(resp):
-            nonlocal json_count
-            try:
-                ct = resp.headers.get("content-type", "")
-                if "json" not in ct:
-                    return
-                body = await resp.json()
-                json_count += 1
-                walk_json(body, candidates)
-            except Exception:
-                pass
 
-        page.on("response", lambda r: pending.append(asyncio.ensure_future(on_response(r))))
-        info = {"url": url}
+async def visit(browser, store, item, mode, target):
+    q_text = item.get("search") or item["name"]
+    candidates, json_urls = [], []
+    ctx = await browser.new_context(
+        locale="en-US", timezone_id="Asia/Riyadh",
+        user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"),
+        viewport={"width": 1366, "height": 900})
+    page = await ctx.new_page()
+    pending = []
+
+    async def on_response(resp):
         try:
-            resp = await page.goto(url, wait_until="domcontentloaded", timeout=45000)
-            info["status"] = resp.status if resp else None
-            try:
-                await page.wait_for_load_state("networkidle", timeout=20000)
-            except Exception:
-                pass
-            for _ in range(3):
-                await page.mouse.wheel(0, 2500)
+            if "json" not in resp.headers.get("content-type", ""):
+                return
+            body = await resp.json()
+            json_urls.append(resp.url[:160])
+            walk_json(body, candidates)
+        except Exception:
+            pass
+
+    page.on("response", lambda r: pending.append(asyncio.ensure_future(on_response(r))))
+    info = {"mode": mode, "url": target}
+    try:
+        resp = await page.goto(target, wait_until="domcontentloaded", timeout=45000)
+        info["status"] = resp.status if resp else None
+        try:
+            await page.wait_for_load_state("networkidle", timeout=15000)
+        except Exception:
+            pass
+        if mode == "box":
+            candidates.clear()   # ignore home-page products, keep only search results
+            box = None
+            for el in await page.query_selector_all(SEARCH_BOX):
+                if await el.is_visible():
+                    box = el
+                    break
+            if box is None:
+                # some sites hide the field behind a search icon
+                for icon in await page.query_selector_all("[aria-label*='earch' i], [class*='search' i] button, button[class*='search' i]"):
+                    if await icon.is_visible():
+                        await icon.click()
+                        await page.wait_for_timeout(1200)
+                        for el in await page.query_selector_all(SEARCH_BOX):
+                            if await el.is_visible():
+                                box = el
+                                break
+                        break
+            if box is None:
+                info["error"] = "no search box found"
+            else:
+                await box.click()
+                await box.fill("")
+                await box.type(q_text, delay=60)
                 await page.wait_for_timeout(1500)
-            info["final_url"] = page.url
-            info["title"] = await page.title()
-            # embedded JSON (Next.js / Nuxt / JSON-LD)
-            scripts = await page.eval_on_selector_all(
-                "script[type='application/ld+json'], script#__NEXT_DATA__, script[type='application/json']",
-                "els => els.map(e => e.textContent).slice(0, 40)")
-            for s in scripts:
+                await box.press("Enter")
                 try:
-                    walk_json(json.loads(s), candidates)
+                    await page.wait_for_load_state("networkidle", timeout=20000)
                 except Exception:
                     pass
-            for c in await page.evaluate(DOM_JS):
-                p = to_price(c["price"])
-                if p:
-                    candidates.append({"name": c["name"], "price": p, "old_price": None,
-                                       "in_stock": False if c["out_of_stock"] else None,
-                                       "url": c["url"], "source": "page"})
-            text = (await page.inner_text("body"))[:400]
-            info["page_start"] = re.sub(r"\s+", " ", text)
-        except Exception as e:
-            info["error"] = f"{type(e).__name__}: {str(e)[:200]}"
-        if pending:
-            await asyncio.gather(*pending, return_exceptions=True)
-        await ctx.close()
+                await page.wait_for_timeout(3000)
+        for _ in range(3):
+            await page.mouse.wheel(0, 2500)
+            await page.wait_for_timeout(1200)
+        info["final_url"] = page.url
+        info["title"] = await page.title()
+        scripts = await page.eval_on_selector_all(
+            "script[type='application/ld+json'], script#__NEXT_DATA__, script[type='application/json']",
+            "els => els.map(e => e.textContent).slice(0, 40)")
+        for sc in scripts:
+            try:
+                walk_json(json.loads(sc), candidates)
+            except Exception:
+                pass
+        for c in await page.evaluate(DOM_JS):
+            p = to_price(c["price"])
+            if p:
+                candidates.append({"name": c["name"], "price": p, "old_price": None,
+                                   "in_stock": False if c["out_of_stock"] else None,
+                                   "url": c["url"], "source": "page"})
+        info["page_start"] = re.sub(r"\s+", " ", (await page.inner_text("body"))[:300])
+    except Exception as e:
+        info["error"] = f"{type(e).__name__}: {str(e)[:200]}"
+    if pending:
+        await asyncio.gather(*pending, return_exceptions=True)
+    await ctx.close()
+    info["json_urls"] = json_urls[:20]
+    return candidates, info
 
+
+def blocked(info):
+    t = (info.get("title") or "") + " " + (info.get("page_start") or "")
+    return bool(info.get("error") and "search box" not in info["error"]) or \
+        (info.get("status") or 0) in (401, 403, 429) or \
+        bool(re.search(r"blocked|attention required|access denied|captcha|cloudflare", t, re.I))
+
+
+async def check_store(browser, store, item, debug):
+    q = quote_plus(item.get("search") or item["name"])
+    attempts = [("url", u.replace("{q}", q)) for u in store.get("urls", [])]
+    if store.get("home"):
+        attempts.append(("box", store["home"]))
+    tried, reachable, info = [], False, {}
+    first_group = item["require"][0] if item["require"] else []
+    for mode, target in attempts:
+        candidates, info = await visit(browser, store, item, mode, target)
         hits = [c for c in candidates if matches(c["name"], item)]
-        info.update({"json_responses": json_count, "products_seen": len(candidates),
-                     "matches": len(hits),
-                     "sample_names": sorted({c["name"] for c in candidates})[:15]})
+        relevant = [c for c in candidates if any(norm(a) in norm(c["name"]) for a in first_group)]
+        info.update({"products_seen": len(candidates), "relevant": len(relevant), "matches": len(hits),
+                     "sample_names": sorted({c["name"] for c in (relevant or candidates)})[:15]})
         tried.append(info)
-        if candidates or hits:
+        if not blocked(info):
+            reachable = True
+        if hits or relevant:
             debug[store["id"]] = tried
             return hits, info
     debug[store["id"]] = tried
-    return None, tried[-1] if tried else {}
+    return ([] if reachable else None), info
 
 
 def absolutize(u, base):
@@ -281,7 +337,7 @@ async def main():
     debug = {}
 
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(args=["--disable-blink-features=AutomationControlled"])
+        browser = await pw.chromium.launch(args=["--disable-blink-features=AutomationControlled", "--disable-http2"])
         for item in items:
             if only and item["name"] != only:
                 prev = old.get("items", {}).get(item["name"])
