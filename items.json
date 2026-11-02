@@ -52,26 +52,5 @@
       "carrefour": "https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122",
       "tamimi": "https://shop.tamimimarkets.com/en/product/raspberry-26"
     }
-  },
-  {
-    "name": "Oceanspray cranberry no sugar 1l",
-    "search": "Oceanspray cranberry no sugar 1l",
-    "require": [
-      [
-        "oceanspray"
-      ],
-      [
-        "cranberry"
-      ],
-      [
-        "no"
-      ],
-      [
-        "sugar"
-      ],
-      [
-        "1l"
-      ]
-    ]
   }
 ]
