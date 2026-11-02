@@ -10,10 +10,10 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By Chefz (4) Departments (5) Hungerstation (1) Jahez V2 (2) Mrsool V2 (3) Price  0.00 -  19.00  19.00 -  23.00  23.00 -  27.00  27.00 -  31.00  31.00 -  36.00  36.00 -  41.00  41.00 or greater",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=e5264a57-5f73-4bcd-ac41-6ae0fb61409c",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=3e4507ed9bbfc049",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=bbb82abb-60bd-445d-92c1-49793f67c233",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1727&s=0&ref=https://www.danube.sa/en/search&ptid=725",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2556&s=0&ref=https://www.danube.sa/en/search&ptid=970",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=fa2f139ea5918782",
           "https://www.danube.sa/en/store_selector"
         ],
         "products_seen": 7,
@@ -37,93 +37,24 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
         ],
         "products_seen": 8,
-        "relevant": 0,
+        "relevant": 8,
         "matches": 0,
         "sample_names": [
-          "Cranberry 100 % Juice 2.04L",
-          "Cranberry And Grape Juice 1.89L",
-          "Cranberry Cherry Juice 1.89L",
-          "Cranberry Juice 1.89L",
-          "Cranberry Pomegranate Juice 1.89L",
-          "Cranberry Raspberry Juice 1.89L",
-          "Lite Cranberry Cocktail Juice 1.89L",
-          "Whole Dried Cranberries 64oz"
-        ]
-      },
-      {
-        "mode": "url",
-        "url": "https://shop.tamimimarkets.com/search?query=ocean+spray+cranberry",
-        "status": 200,
-        "final_url": "https://shop.tamimimarkets.com/search?query=ocean+spray+cranberry",
-        "title": "ocean spray cranberry | Tamimi Markets",
-        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Ocean Spray Clear Filter Ocean Spray Cranberry Home > Ocean Spray Cranberry 7% ",
-        "json_urls": [
-          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://sessions.bugsnag.com/",
-          "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/organization",
-          "https://shop.tamimimarkets.com/api/nav",
-          "https://shop.tamimimarkets.com/api/category",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
-        ],
-        "products_seen": 8,
-        "relevant": 0,
-        "matches": 0,
-        "sample_names": [
-          "Cranberry 100 % Juice 2.04L",
-          "Cranberry And Grape Juice 1.89L",
-          "Cranberry Cherry Juice 1.89L",
-          "Cranberry Juice 1.89L",
-          "Cranberry Pomegranate Juice 1.89L",
-          "Cranberry Raspberry Juice 1.89L",
-          "Lite Cranberry Cocktail Juice 1.89L",
-          "Whole Dried Cranberries 64oz"
-        ]
-      },
-      {
-        "mode": "box",
-        "url": "https://shop.tamimimarkets.com/en",
-        "status": 200,
-        "error": "no search box found",
-        "final_url": "https://shop.tamimimarkets.com/en",
-        "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE WEEKLY OFFERS EXCLUSIVE BRANDS Shop by Department FRUITS & VEGETABLES BAKERY MEAT POULTRY SEAFOOD DELI GRAB",
-        "json_urls": [
-          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://sessions.bugsnag.com/",
-          "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/nav",
-          "https://shop.tamimimarkets.com/api/organization",
-          "https://shop.tamimimarkets.com/api/category"
-        ],
-        "products_seen": 57,
-        "relevant": 0,
-        "matches": 0,
-        "sample_names": [
-          "Banana 1.0 KG",
-          "Banana 1.5 KG",
-          "Banana 2.0 KG",
-          "Banana 500 G",
-          "Blueberry 125g",
-          "Chicken Breast Fillet 450g",
-          "Cooking Cream 1L",
-          "Cooking Cream 250ml",
-          "Cooking Cream 500ml",
-          "Eggs Large 30 pcs",
-          "Fine Sugar 10kg",
-          "Fine Sugar 5kg",
-          "Grape White 1.0 KG",
-          "Grape White 1.5 KG",
-          "Grape White 2.0 KG"
+          "Ocean Spray Cranberry 100 % Juice 2.04L",
+          "Ocean Spray Cranberry And Grape Juice 1.89L",
+          "Ocean Spray Cranberry Cherry Juice 1.89L",
+          "Ocean Spray Cranberry Juice 1.89L",
+          "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+          "Ocean Spray Cranberry Raspberry Juice 1.89L",
+          "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+          "Ocean Spray Whole Dried Cranberries 64oz"
         ]
       }
     ],
@@ -132,38 +63,39 @@
         "mode": "box",
         "url": "https://panda.sa/en",
         "status": 200,
-        "error": "no search box found",
-        "final_url": "https://panda.sa/en",
-        "title": "Panda KSA - Supermarket Deals & Online Shopping",
-        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup All Fresh Snacks Household Electronics Beauty Pets Cashback Best Offers for Limited Time View all 39% Off 10 kg Al Mas Indian Mazaa Basmati Rice 10kg Rice & Grains 93.99 56.99 1 47% Off 1 Piece Mou",
+        "inputs": [
+          [
+            "text",
+            "",
+            "",
+            "Search for products, brand and more",
+            "min-w-0 flex-1 truncate border-none bg-t",
+            false
+          ],
+          [
+            "text",
+            "",
+            "",
+            "Search for products, brand and more",
+            "min-w-0 flex-1 truncate border-none bg-t",
+            true
+          ]
+        ],
+        "final_url": "https://panda.sa/en/plp?search_key=ocean+spray+cranberry",
+        "title": "Shop Ocean spray cranberry Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Ocean Breeze 450ml Cleaning 2",
         "json_urls": [
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cdomain%2Cfile-document-outline%2Cheart-outline%2Cmap-marker%2Cminus%2Cplus%2Creceipt-text-outlin",
           "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cdomain%2Cfile-document-outline%2Cheart-outline%2Cmap-marker%2Cminus%2Cplus%2Creceipt-text-outlin",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
-          "https://api.unisvg.com/mdi.json?icons=cart%2Cchevron-down%2Cdomain%2Cfile-document-outline%2Cheart-outline%2Cmap-marker%2Cminus%2Cplus%2Creceipt-text-outline%2C",
-          "https://api.unisvg.com/ic.json?icons=round-arrow-drop-down"
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right"
         ],
-        "products_seen": 22,
+        "products_seen": 0,
         "relevant": 0,
         "matches": 0,
-        "sample_names": [
-          "80 Pieces",
-          "96 Pieces",
-          "Afia Natural Sea Salt – 700g",
-          "Afia Natural Sea Salt – 700g\nCooking Ingredients",
-          "Afia Natural Sea Salt – 700g\nCooking Ingredients\n\n4.5\n\n2.5\n\n1",
-          "Babyjoy Diapers Jumbo Box Size (4 Large) 96 pcs",
-          "Babyjoy Diapers Jumbo Box Size (4 Large) 96 pcs\nDiapers & Pants",
-          "Babyjoy Diapers Jumbo Box Size (4 Large) 96 pcs\nDiapers & Pants\n\n122.99\n\n80\n\n1",
-          "Babyjoy Diapers Jumbo Box Size (5 Junior) 80 pcs",
-          "Babyjoy Diapers Jumbo Box Size (5 Junior) 80 pcs\nDiapers & Pants",
-          "Babyjoy Diapers Jumbo Box Size (5 Junior) 80 pcs\nDiapers & Pants\n\n122.99\n\n80\n\n1",
-          "Bambi Baby Jumbo Box Size (5 Extra Large) 80pcs",
-          "Bambi Baby Jumbo Box Size (5 Extra Large) 80pcs\nDiapers & Pants",
-          "Bambi Baby Jumbo Box Size (5 Extra Large) 80pcs\nDiapers & Pants\n\n114.99\n\n49.99\n\n1",
-          "Cooking Ingredients"
-        ]
+        "sample_names": []
       }
     ],
     "carrefour": [
@@ -194,16 +126,9 @@
         "url": "https://gcc.luluhypermarket.com/en-sa/search/?text=ocean+spray+cranberry",
         "status": 404,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/search/?text=ocean+spray+cranberry",
-        "title": "Buy Online Groceries, Electronics, Mobiles & Home Appliances with Fast & Free Delivery",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals 404 Page Not Found It looks like the page you're looking for doesn't exist. Return to Home Page Social Know Us About Us Feedback FAQs News & Events Winners Policies Te",
-        "json_urls": [
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
-          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936137"
-        ],
+        "title": "Attention Required! | Cloudflare",
+        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
+        "json_urls": [],
         "products_seen": 0,
         "relevant": 0,
         "matches": 0,
@@ -214,15 +139,10 @@
         "url": "https://www.luluhypermarket.com/en-sa/search?q=ocean+spray+cranberry",
         "status": 404,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/search?q=ocean+spray+cranberry",
-        "title": "Buy Online Groceries, Electronics, Mobiles & Home Appliances with Fast & Free Delivery",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals 404 Page Not Found It looks like the page you're looking for doesn't exist. Return to Home Page Social Know Us About Us Feedback FAQs News & Events Winners Policies Te",
+        "title": "Attention Required! | Cloudflare",
+        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
         "json_urls": [
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
-          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936137"
+          "https://gcc.luluhypermarket.com/api/auth/session"
         ],
         "products_seen": 0,
         "relevant": 0,
@@ -233,13 +153,42 @@
         "mode": "box",
         "url": "https://gcc.luluhypermarket.com/en-sa",
         "status": 200,
-        "error": "no search box found",
-        "final_url": "https://gcc.luluhypermarket.com/en-sa",
-        "title": "Attention Required! | Cloudflare",
-        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
+        "inputs": [
+          [
+            "text",
+            "",
+            "header-v2-search",
+            "Search for",
+            "h-full w-full bg-transparent pe-v2-s ps-",
+            true
+          ],
+          [
+            "text",
+            "",
+            "header-v2-search",
+            "Search for",
+            "h-full w-full bg-transparent pe-v2-s ps-",
+            false
+          ]
+        ],
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry",
+        "title": "Best Online Store for Groceries, Fresh foods ,Electronics & Mobiles with free delivery",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (74) Men's Anti-Perspirant (67) Anti-Perspirant (64) Aerosols (51) Hair Cream (50) View All Brand ABC (1) Adidas (8) Adriana (1",
         "json_urls": [
           "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa"
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
+          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936139",
+          "https://gcc.luluhypermarket.com/api/client/autocomplete/?search_text=ocean%20spray%20cranberry",
+          "https://gcc.luluhypermarket.com/api/search-redirection?search_text=ocean+spray+cranberry",
+          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://st-eu.dynamicyield.com/spa/json?sec=9882999&ref=&scriptVersion=2.105.0&id=-3850576717535485799&jsession=827hc0edcst4mihwwiom1tcjfby85v0u&isSesNew=false&",
+          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
+          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936140"
         ],
         "products_seen": 0,
         "relevant": 0,
