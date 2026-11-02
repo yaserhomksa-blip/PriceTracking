@@ -1,214 +1,296 @@
 {
-  "Oceanspray cranberry no sugar 1l": {
+  "Ocean Spray Cranberry No Sugar Added 1L": {
     "danube": [
       {
-        "mode": "url",
-        "url": "https://www.danube.sa/en/search?query=Oceanspray+cranberry+no+sugar+1l",
+        "mode": "product",
+        "url": "https://danube.sa/en/products/ocean-spray-cranberry-mixed-fruit-drink-no-sugar-added-1l",
         "status": 200,
-        "final_url": "https://www.danube.sa/en/search?query=Oceanspray+cranberry+no+sugar+1l",
-        "title": "Danube - Danube",
-        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (8) Brands (1) Chefz (22) Departments (23) Hungerstation (16) Jahez (10) Jahez V2 (21) Mrsool (13) Mrsool V2 (22) Price  0.00 -  1.00  1.00 -  9.00  9.00 -  17.00  17.00 -  25.00  25.00 -  ",
+        "final_url": "https://danube.sa/en/products/ocean-spray-cranberry-mixed-fruit-drink-no-sugar-added-1l",
+        "title": "Buy Ocean Spray Cranberry Mixed Fruit Drink No Sugar Added 1L and Beverages & Water online - Danube",
+        "product_read": {
+          "name": "Ocean Spray Cranberry Mixed Fruit Drink No Sugar Added 1L",
+          "price": null
+        },
+        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Ocean Spray Cranberry Mixed Fruit Drink No Sugar Added 1L  18.50 19 pts Quantity Add To Cart Ocean Spray Zero Sugar Cranberry Juice Drink is made with real fruit juice, delivering the crisp, refreshing taste of cranberries with no added ",
         "json_urls": [
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1793644383874",
+          "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=3ce45a64-f833-4c56-ba64-3214c7eff4b1",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2139&s=0&ref=https://www.danube.sa/en/search&ptid=dbb",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=7417dbebcc9b53a7",
-          "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://www.danube.sa/en/store_selector"
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1793644383966",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=97dfedaa-eb59-47ce-a858-df627442e585",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=3354&s=0&ref=https://danube.sa/en/products/ocean-spra",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=694c4482dbcd57f4"
         ],
-        "products_seen": 20,
-        "relevant": 0,
-        "matches": 0,
-        "sample_names": [
-          "Cranberry Mixed Fruit Drink No Sugar Added",
-          "Digestive Sugar Free Wheat Biscuit",
-          "Mentos White Sugar Free Chewing Gum Spearmint Flavor 2*72 pc",
-          "No Sugar Added Cake Slices",
-          "No Sugar Added Hazelnut Spread & Milk Chocolate",
-          "Sugar Free Arabic Sweets Syrup",
-          "Sugar Free Bubblemint Gum Extra",
-          "Sugar Free Caramel Syrup",
-          "Sugar Free Cinnamon Gum",
-          "Sugar Free Coconut Finger",
-          "Sugar Free Hazelnut Spread & Dark Chocolate",
-          "Sugar Free Maria Biscuits",
-          "Sugar Free Spearmint Gum Extra",
-          "Sugar Free Strawberry & Mixed Berry Candy",
-          "Sugar Free Watermelon Gum Extra"
-        ]
-      },
-      {
-        "mode": "box",
-        "url": "https://www.danube.sa/en",
-        "status": 200,
-        "inputs": [
-          [
-            "search",
-            "query",
-            "query",
-            "Search Danube...",
-            "form-control danube-header__search-input",
-            true
-          ],
-          [
-            "hidden",
-            "utf8",
-            "",
-            "",
-            "",
-            false
-          ],
-          [
-            "hidden",
-            "variant_id",
-            "variant_id",
-            "",
-            "",
-            false
-          ],
-          [
-            "hidden",
-            "quantity",
-            "quantity",
-            "",
-            "",
-            false
-          ],
-          [
-            "hidden",
-            "utf8",
-            "",
-            "",
-            "",
-            false
-          ],
-          [
-            "hidden",
-            "variant_id",
-            "variant_id",
-            "",
-            "",
-            false
-          ],
-          [
-            "number",
-            "quantity",
-            "quantity",
-            "",
-            "add-to-cart__quantity-input title",
-            false
-          ],
-          [
-            "hidden",
-            "utf8",
-            "",
-            "",
-            "",
-            false
-          ],
-          [
-            "email",
-            "email",
-            "newsletter-email",
-            "Enter your email address...",
-            "form-control danube-footer__newsletter__",
-            true
-          ],
-          [
-            "submit",
-            "commit",
-            "",
-            "",
-            "btn btn-primary danube-footer__newslette",
-            true
-          ],
-          [
-            "hidden",
-            "utf8",
-            "",
-            "",
-            "",
-            false
-          ],
-          [
-            "hidden",
-            "authenticity_token",
-            "",
-            "",
-            "",
-            false
-          ],
-          [
-            "text",
-            "",
-            "coupon-code-field",
-            "Have a code? Enter it here...",
-            "form-control",
-            false
-          ]
-        ],
-        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
-        "json_urls": [
-          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=d04843d3-1e05-4931-99ab-7d6341ec3db9",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=717618388f23a2f6",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=3174&s=0&ref=https://www.danube.sa/en&ptid=b2a7296782",
-          "https://www.danube.sa/en/store_selector"
-        ],
-        "products_seen": 0,
-        "relevant": 0,
-        "matches": 0,
-        "sample_names": []
+        "products_seen": 1
       }
     ],
     "tamimi": [
       {
         "mode": "url",
-        "url": "https://shop.tamimimarkets.com/en/search?query=Oceanspray+cranberry+no+sugar+1l",
+        "url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray+cranberry",
         "status": 200,
-        "final_url": "https://shop.tamimimarkets.com/en/search?query=Oceanspray+cranberry+no+sugar+1l",
-        "title": "Oceanspray cranberry no sugar 1l | Tamimi Markets",
-        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Tamimi Markets Tamimi Markets Basics Tamimi Markets At Home Tamimi Markets Sinc",
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray+cranberry",
+        "title": "ocean spray cranberry | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Ocean Spray Clear Filter Ocean Spray Cranberry Home > Ocean Spray Cranberry 7% ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/announcement",
           "https://shop.tamimimarkets.com/api/organization",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag"
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
         ],
-        "products_seen": 429,
-        "relevant": 0,
+        "all_products": [
+          [
+            "Ocean Spray Cranberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry 100 % Juice 2.04L",
+            49.95
+          ],
+          [
+            "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry And Grape Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries 64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Raspberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Cherry Juice 1.89L",
+            42.95
+          ],
+          [
+            "FilterBrandOcean SprayClear Filter",
+            39.99
+          ],
+          [
+            "BrandOcean SprayClear Filter",
+            39.99
+          ],
+          [
+            "BrandOcean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray Cranberry",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries-64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray",
+            85.95
+          ]
+        ],
+        "products_seen": 22,
+        "relevant": 17,
         "matches": 0,
         "sample_names": [
-          "/ 15 pcs",
-          "/ 30 pcs",
-          "/ 6 pcs",
-          "100 - 120g",
-          "12% OFF",
-          "13% OFF",
-          "14% OFF",
-          "16% OFF",
-          "19% OFF",
-          "1gal",
-          "22% OFF",
-          "25% OFF",
-          "27% OFF",
-          "28% OFF",
-          "30% OFF"
+          "BrandOcean Spray",
+          "BrandOcean SprayClear Filter",
+          "FilterBrandOcean SprayClear Filter",
+          "Ocean Spray",
+          "Ocean Spray Cranberry",
+          "Ocean Spray Cranberry 100 % Juice 2.04L",
+          "Ocean Spray Cranberry And Grape Juice 1.89L",
+          "Ocean Spray Cranberry Cherry Juice 1.89L",
+          "Ocean Spray Cranberry Juice 1.89L",
+          "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+          "Ocean Spray Cranberry Raspberry Juice 1.89L",
+          "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+          "Ocean Spray Whole Dried Cranberries 64oz",
+          "Ocean Spray Whole Dried Cranberries-64oz"
         ]
       },
       {
         "mode": "url",
-        "url": "https://shop.tamimimarkets.com/search?query=Oceanspray+cranberry+no+sugar+1l",
+        "url": "https://shop.tamimimarkets.com/search?query=ocean+spray+cranberry",
         "status": 200,
-        "final_url": "https://shop.tamimimarkets.com/search?query=Oceanspray+cranberry+no+sugar+1l",
-        "title": "Oceanspray cranberry no sugar 1l | Tamimi Markets",
-        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Tamimi Markets Tamimi Markets Basics Tamimi Markets At Home Tamimi Markets Sinc",
+        "final_url": "https://shop.tamimimarkets.com/search?query=ocean+spray+cranberry",
+        "title": "ocean spray cranberry | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Ocean Spray Clear Filter Ocean Spray Cranberry Home > Ocean Spray Cranberry 7% ",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
+        ],
+        "all_products": [
+          [
+            "Ocean Spray Cranberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry 100 % Juice 2.04L",
+            49.95
+          ],
+          [
+            "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry And Grape Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries 64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Raspberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Cherry Juice 1.89L",
+            42.95
+          ],
+          [
+            "FilterBrandOcean SprayClear Filter",
+            39.99
+          ],
+          [
+            "BrandOcean SprayClear Filter",
+            39.99
+          ],
+          [
+            "BrandOcean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray Cranberry",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries-64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray",
+            85.95
+          ]
+        ],
+        "products_seen": 22,
+        "relevant": 17,
+        "matches": 0,
+        "sample_names": [
+          "BrandOcean Spray",
+          "BrandOcean SprayClear Filter",
+          "FilterBrandOcean SprayClear Filter",
+          "Ocean Spray",
+          "Ocean Spray Cranberry",
+          "Ocean Spray Cranberry 100 % Juice 2.04L",
+          "Ocean Spray Cranberry And Grape Juice 1.89L",
+          "Ocean Spray Cranberry Cherry Juice 1.89L",
+          "Ocean Spray Cranberry Juice 1.89L",
+          "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+          "Ocean Spray Cranberry Raspberry Juice 1.89L",
+          "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+          "Ocean Spray Whole Dried Cranberries 64oz",
+          "Ocean Spray Whole Dried Cranberries-64oz"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray+no+sugar",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray+no+sugar",
+        "title": "ocean spray no sugar | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Tamimi Markets Tamimi Markets Since 1979 7 UP Al Bayt Al Khair Al Nahla Al Rabi",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=2&orderType=",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=3&orderType=",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=4&orderType="
+        ],
+        "all_products": [
+          [
+            "Ocean Spray Cranberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ]
+        ],
+        "products_seen": 333,
+        "relevant": 4,
+        "matches": 0,
+        "sample_names": [
+          "Ocean Spray",
+          "Ocean Spray Cranberry Juice 1.89L"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/search?query=ocean+spray+no+sugar",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/search?query=ocean+spray+no+sugar",
+        "title": "ocean spray no sugar | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Tamimi Markets Tamimi Markets Since 1979 7 UP Al Bayt Al Khair Al Nahla Al Rabi",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
@@ -217,29 +299,286 @@
           "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag"
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=2&orderType=",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=3&orderType=",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=4&orderType="
         ],
-        "products_seen": 429,
+        "all_products": [
+          [
+            "Ocean Spray Cranberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ]
+        ],
+        "products_seen": 333,
+        "relevant": 4,
+        "matches": 0,
+        "sample_names": [
+          "Ocean Spray",
+          "Ocean Spray Cranberry Juice 1.89L"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray",
+        "title": "ocean spray | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Glade Ocean Spray Clear Filter Ocean Spray Home > Ocean Spray 7% OFF 39.99 ",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray&page=2&orderType="
+        ],
+        "all_products": [
+          [
+            "Ocean Spray Cranberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry 100 % Juice 2.04L",
+            49.95
+          ],
+          [
+            "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry And Grape Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries 64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Raspberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Cherry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries-64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray",
+            85.95
+          ]
+        ],
+        "products_seen": 24,
+        "relevant": 13,
+        "matches": 0,
+        "sample_names": [
+          "Ocean Spray",
+          "Ocean Spray Cranberry 100 % Juice 2.04L",
+          "Ocean Spray Cranberry And Grape Juice 1.89L",
+          "Ocean Spray Cranberry Cherry Juice 1.89L",
+          "Ocean Spray Cranberry Juice 1.89L",
+          "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+          "Ocean Spray Cranberry Raspberry Juice 1.89L",
+          "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+          "Ocean Spray Whole Dried Cranberries 64oz",
+          "Ocean Spray Whole Dried Cranberries-64oz"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/search?query=ocean+spray",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/search?query=ocean+spray",
+        "title": "ocean spray | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Glade Ocean Spray Clear Filter Ocean Spray Home > Ocean Spray 7% OFF 39.99 ",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray&page=2&orderType="
+        ],
+        "all_products": [
+          [
+            "Ocean Spray Cranberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry 100 % Juice 2.04L",
+            49.95
+          ],
+          [
+            "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry And Grape Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries 64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Raspberry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray Cranberry Cherry Juice 1.89L",
+            42.95
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries-64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray",
+            85.95
+          ]
+        ],
+        "products_seen": 24,
+        "relevant": 13,
+        "matches": 0,
+        "sample_names": [
+          "Ocean Spray",
+          "Ocean Spray Cranberry 100 % Juice 2.04L",
+          "Ocean Spray Cranberry And Grape Juice 1.89L",
+          "Ocean Spray Cranberry Cherry Juice 1.89L",
+          "Ocean Spray Cranberry Juice 1.89L",
+          "Ocean Spray Cranberry Pomegranate Juice 1.89L",
+          "Ocean Spray Cranberry Raspberry Juice 1.89L",
+          "Ocean Spray Lite Cranberry Cocktail Juice 1.89L",
+          "Ocean Spray Whole Dried Cranberries 64oz",
+          "Ocean Spray Whole Dried Cranberries-64oz"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/en/search?query=cranberry+no+sugar",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=cranberry+no+sugar",
+        "title": "cranberry no sugar | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Diablo Clear Filter Cranberry No Sugar Home > Cranberry No Sugar 14% OFF 17.9",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=cranberry%20no%20sugar&page=2&orderType="
+        ],
+        "all_products": [],
+        "products_seen": 32,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
-          "/ 15 pcs",
-          "/ 30 pcs",
-          "/ 6 pcs",
-          "100 - 120g",
-          "12% OFF",
-          "13% OFF",
           "14% OFF",
-          "16% OFF",
-          "19% OFF",
-          "1gal",
-          "22% OFF",
-          "25% OFF",
-          "27% OFF",
-          "28% OFF",
-          "30% OFF"
+          "BACK TO SCHOOL",
+          "BrandDiablo",
+          "BrandDiabloClear Filter",
+          "Chocolate Chips & Cranberry Cookies No Added Sugar-135g",
+          "Clear Filter",
+          "Collect from:Select Your Store",
+          "Cranberry No Sugar",
+          "Diablo",
+          "Diablo Chocolate Chips & Cranberry Cookies No Added Sugar 135g",
+          "Diablo Chocolate Chips & Cranberry Cookies No Added Sugar-135g",
+          "FOOD & BEVERAGES",
+          "Filter",
+          "FilterBrandDiabloClear Filter",
+          "FilterBrandDiabloClear FilterBrandDiabloClear FilterSORT BYPopularityRelevancyNewestPopularity"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/search?query=cranberry+no+sugar",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/search?query=cranberry+no+sugar",
+        "title": "cranberry no sugar | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Diablo Clear Filter Cranberry No Sugar Home > Cranberry No Sugar 14% OFF 17.9",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=cranberry%20no%20sugar&page=2&orderType="
+        ],
+        "all_products": [],
+        "products_seen": 32,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "14% OFF",
+          "BACK TO SCHOOL",
+          "BrandDiablo",
+          "BrandDiabloClear Filter",
+          "Chocolate Chips & Cranberry Cookies No Added Sugar-135g",
+          "Clear Filter",
+          "Collect from:Select Your Store",
+          "Cranberry No Sugar",
+          "Diablo",
+          "Diablo Chocolate Chips & Cranberry Cookies No Added Sugar 135g",
+          "Diablo Chocolate Chips & Cranberry Cookies No Added Sugar-135g",
+          "FOOD & BEVERAGES",
+          "Filter",
+          "FilterBrandDiabloClear Filter",
+          "FilterBrandDiabloClear FilterBrandDiabloClear FilterSORT BYPopularityRelevancyNewestPopularity"
         ]
       },
       {
@@ -256,9 +595,9 @@
             true
           ]
         ],
-        "final_url": "https://shop.tamimimarkets.com/en/search?query=Oceanspray%20cranberry%20no%20sugar%201l",
-        "title": "Oceanspray cranberry no sugar 1l | Tamimi Markets",
-        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Tamimi Markets Tamimi Markets Basics Tamimi Markets At Home Tamimi Markets Sinc",
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=ocean%20spray%20cranberry",
+        "title": "ocean spray cranberry | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Ocean Spray Clear Filter Ocean Spray Cranberry Home > Ocean Spray Cranberry 7% ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
@@ -267,69 +606,205 @@
           "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
-          "https://shop.tamimimarkets.com/api/product?q=Oceanspray%20cranberry%20no%20sugar%201l",
-          "https://shop.tamimimarkets.com/api/layout/search?q=Oceanspray%20cranberry%20no%20sugar%201l",
+          "https://shop.tamimimarkets.com/api/product?q=ocean%20spray%20cranberry",
+          "https://shop.tamimimarkets.com/api/layout/search?q=ocean%20spray%20cranberry",
           "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag",
-          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=Oceanspray%20cranberry%20no%20sugar%201l&pag"
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
         ],
-        "products_seen": 530,
-        "relevant": 0,
+        "all_products": [
+          [
+            "FilterBrandOcean SprayClear Filter",
+            39.99
+          ],
+          [
+            "BrandOcean SprayClear Filter",
+            39.99
+          ],
+          [
+            "BrandOcean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            39.99
+          ],
+          [
+            "Ocean Spray Cranberry",
+            39.99
+          ],
+          [
+            "Ocean Spray",
+            49.95
+          ],
+          [
+            "Ocean Spray",
+            42.95
+          ],
+          [
+            "Ocean Spray Whole Dried Cranberries-64oz",
+            85.95
+          ],
+          [
+            "Ocean Spray",
+            85.95
+          ]
+        ],
+        "products_seen": 88,
+        "relevant": 9,
         "matches": 0,
         "sample_names": [
-          "/ 15 pcs",
-          "/ 30 pcs",
-          "/ 6 pcs",
-          "100 - 120g",
-          "12% OFF",
-          "13% OFF",
-          "14% OFF",
-          "16% OFF",
-          "19% OFF",
-          "1gal",
-          "22% OFF",
-          "25% OFF",
-          "27% OFF",
-          "28% OFF",
-          "30% OFF"
+          "BrandOcean Spray",
+          "BrandOcean SprayClear Filter",
+          "FilterBrandOcean SprayClear Filter",
+          "Ocean Spray",
+          "Ocean Spray Cranberry",
+          "Ocean Spray Whole Dried Cranberries-64oz"
         ]
       }
     ],
     "panda": [
       {
         "mode": "url",
-        "url": "https://panda.sa/en/plp?search_key=Oceanspray+cranberry+no+sugar+1l",
+        "url": "https://panda.sa/en/plp?search_key=ocean+spray+cranberry",
         "status": 200,
-        "final_url": "https://panda.sa/en/plp?search_key=Oceanspray+cranberry+no+sugar+1l",
-        "title": "Shop Oceanspray cranberry no sugar 1l Online | Panda KSA",
-        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Oceanspray cranberry no sugar 1l Search Results: \"Oceanspray cranberry no sugar 1l\" 31 Products Found 27% Off 1 L Coca-Cola Zero Sugar 1L Carbonated Drinks 5.5 3.99 1 1 L Ceres 100% Pure Cranb",
+        "final_url": "https://panda.sa/en/plp?search_key=ocean+spray+cranberry",
+        "title": "Shop Ocean spray cranberry Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray cranberry Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Oce",
         "json_urls": [
+          "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
-          "https://panda.sa/api/interactions",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
+        "all_products": [],
+        "products_seen": 53,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "11% Off",
+          "20% Off",
+          "37% Off",
+          "43% Off",
+          "45% Off",
+          "53% Off",
+          "57% Off",
+          "Air Freshener",
+          "Al Mehbag Cranberry Bag 250 g",
+          "Candies & Jelly sweets",
+          "Carbonated Drinks",
+          "Cereal",
+          "Ceres 100% Pure Cranberry Kiwi Juice 1L",
+          "Chupa Chups Ocean Fun Jelly Candy 90g",
+          "Cleaning"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://panda.sa/en/plp?search_key=ocean+spray+no+sugar",
+        "status": 200,
+        "final_url": "https://panda.sa/en/plp?search_key=ocean+spray+no+sugar",
+        "title": "Shop Ocean spray no sugar Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray no sugar Search Results: \"Ocean spray no sugar\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 500 gm Al Osra Icing Sugar 500G Sugar & Swee",
+        "json_urls": [
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
+        ],
+        "all_products": [],
+        "products_seen": 58,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "100 Pieces",
+          "11% Off",
+          "29% Off",
+          "36% Off",
+          "37% Off",
+          "43% Off",
+          "45% Off",
+          "46% Off",
+          "57% Off",
+          "Air Freshener",
+          "Al Osra Brown Sugar Fine 500g",
+          "Al Osra Brown Sugar Sachets 500g",
+          "Al Osra Natural Brown Sugar 2kg",
+          "Al Osra Sugar Coarse Bag 10Kg",
+          "Al Osra Sugar Fine Bag 10Kg"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://panda.sa/en/plp?search_key=ocean+spray",
+        "status": 200,
+        "final_url": "https://panda.sa/en/plp?search_key=ocean+spray",
+        "title": "Shop Ocean spray Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray Search Results: \"Ocean spray\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Ocean Breeze 450ml Clea",
+        "json_urls": [
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
+        ],
+        "all_products": [],
+        "products_seen": 58,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "11% Off",
+          "31% Off",
+          "35% Off",
+          "37% Off",
+          "43% Off",
+          "45% Off",
+          "48% Off",
+          "57% Off",
+          "AXE Body Spray Blue Lavender 150 ml",
+          "Air Freshener",
+          "Axe Apollo Body Spray Deodorant 150ml",
+          "Axe Black Body Spray Deodorant 150ml",
+          "Candies & Jelly sweets",
+          "Chupa Chups Ocean Fun Jelly Candy 90g",
+          "Cleaning"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://panda.sa/en/plp?search_key=cranberry+no+sugar",
+        "status": 200,
+        "final_url": "https://panda.sa/en/plp?search_key=cranberry+no+sugar",
+        "title": "Shop Cranberry no sugar Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Cranberry no sugar Search Results: \"Cranberry no sugar\" 31 Products Found 500 gm Al Osra Icing Sugar 500G Sugar & Sweeteners 10.5 1 1 500 gm SIS Icing Sugar 500g Sugar & Sweeteners 14.99 1 50",
+        "json_urls": [
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
+        ],
+        "all_products": [],
         "products_seen": 46,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
           "100 Pieces",
           "20% Off",
-          "27% Off",
+          "33% Off",
           "36% Off",
           "46% Off",
           "53% Off",
-          "6% Off",
-          "7 Up Zero Sugar 1l",
           "Al Mehbag Cranberry Bag 250 g",
           "Al Osra Brown Sugar Fine 500g",
           "Al Osra Brown Sugar Sachets 500g",
+          "Al Osra Fitness Sugar Rich In Natural Fiber 500g",
           "Al Osra Natural Brown Sugar 2kg",
+          "Al Osra Sugar Coarse Bag 10Kg",
+          "Al Osra Sugar Fine 2Kg",
           "Al Osra Sugar Fine Bag 10Kg",
-          "Carbonated Drinks",
-          "Cereal"
+          "Carbonated Drinks"
         ]
       },
       {
@@ -354,45 +829,80 @@
             true
           ]
         ],
-        "final_url": "https://panda.sa/en/plp?search_key=Oceanspray+cranberry+no+sugar+1l",
-        "title": "Shop Oceanspray cranberry no sugar 1l Online | Panda KSA",
-        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Oceanspray cranberry no sugar 1l Search Results: \"Oceanspray cranberry no sugar 1l\" 31 Products Found 27% Off 1 L Coca-Cola Zero Sugar 1L Carbonated Drinks 5.5 3.99 1 1 L Ceres 100% Pure Cranb",
+        "final_url": "https://panda.sa/en/plp?search_key=ocean+spray+cranberry",
+        "title": "Shop Ocean spray cranberry Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray cranberry Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Oce",
         "json_urls": [
-          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
-          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
-          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus",
           "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right"
         ],
-        "products_seen": 46,
+        "all_products": [],
+        "products_seen": 53,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
-          "100 Pieces",
+          "11% Off",
           "20% Off",
-          "27% Off",
-          "36% Off",
-          "46% Off",
+          "37% Off",
+          "43% Off",
+          "45% Off",
           "53% Off",
-          "6% Off",
-          "7 Up Zero Sugar 1l",
+          "57% Off",
+          "Air Freshener",
           "Al Mehbag Cranberry Bag 250 g",
-          "Al Osra Brown Sugar Fine 500g",
-          "Al Osra Brown Sugar Sachets 500g",
-          "Al Osra Natural Brown Sugar 2kg",
-          "Al Osra Sugar Fine Bag 10Kg",
+          "Candies & Jelly sweets",
           "Carbonated Drinks",
-          "Cereal"
+          "Cereal",
+          "Ceres 100% Pure Cranberry Kiwi Juice 1L",
+          "Chupa Chups Ocean Fun Jelly Candy 90g",
+          "Cleaning"
         ]
       }
     ],
     "carrefour": [
       {
         "mode": "url",
-        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=Oceanspray+cranberry+no+sugar+1l",
-        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=Oceanspray+cranberry+no+sugar+1l\", waiting until \"domcontentloaded\"\n",
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray+cranberry",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray+cranberry\", waiting until \"domcontentloaded\"\n",
         "json_urls": [],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "mode": "url",
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray+no+sugar",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray+no+sugar\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "mode": "url",
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "mode": "url",
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=cranberry+no+sugar",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=cranberry+no+sugar\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "all_products": [],
         "products_seen": 0,
         "relevant": 0,
         "matches": 0,
@@ -403,6 +913,7 @@
         "url": "https://www.carrefourksa.com/mafsau/en",
         "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en\", waiting until \"domcontentloaded\"\n",
         "json_urls": [],
+        "all_products": [],
         "products_seen": 0,
         "relevant": 0,
         "matches": 0,
@@ -412,11 +923,11 @@
     "lulu": [
       {
         "mode": "url",
-        "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=Oceanspray+cranberry+no+sugar+1l",
+        "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry",
         "status": 200,
-        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=Oceanspray+cranberry+no+sugar+1l",
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry",
         "title": "Buy Online Groceries, Electronics, Mobiles & Home Appliances with Fast & Free Delivery",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Long Life Juices (7) Cookies (2) Dried Fruits (2) Granola (2) Non Alcoholic Beer (1) View All Brand Dorset (1) Harvest (1) Holsten (1) L",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (75) Men's Anti-Perspirant (67) Anti-Perspirant (63) Aerosols (51) Hair Cream (50) View All Brand ABC (1) Adidas (8) Adriana (1",
         "json_urls": [
           "https://gcc.luluhypermarket.com/api/auth/session",
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
@@ -424,110 +935,189 @@
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936442"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936448"
         ],
-        "products_seen": 32,
-        "relevant": 0,
-        "matches": 0,
-        "sample_names": [
-          "15% OFF",
-          "19% OFF",
-          "36% OFF",
-          "Dorset",
-          "Dorset Cranberry Cherry & Almond Cereal 540 g",
-          "Dry Cranberry 250 g",
-          "Fitness",
-          "Gluten Free",
-          "Harvest",
-          "Holsten",
-          "Holsten Cranberry Flavour Non Alcoholic Beer 330 ml",
-          "Lacnor",
-          "Lacnor Essentials Cranberry Fruit Drink 1 Litre",
-          "LuLu Gluten Free Cranberry & Raisin Butter Cookies 180 g",
-          "LuLu PL"
-        ]
-      },
-      {
-        "mode": "box",
-        "url": "https://gcc.luluhypermarket.com/en-sa",
-        "status": 200,
-        "inputs": [
+        "all_products": [
           [
-            "text",
-            "",
-            "header-v2-search",
-            "Search for",
-            "h-full w-full bg-transparent pe-v2-s ps-",
-            true
+            "Ocean Spray",
+            15.95
           ],
           [
-            "text",
-            "",
-            "header-v2-search",
-            "Search for",
-            "h-full w-full bg-transparent pe-v2-s ps-",
-            false
+            "Ocean Spray Cranberry Classic Juice Drink 1 Litre",
+            15.95
+          ],
+          [
+            "Ocean Spray",
+            1.89
+          ],
+          [
+            "Ocean Spray",
+            14.35
+          ],
+          [
+            "Ocean Spray No Added Sugar Cranberry Drink 1 Litre",
+            14.35
           ]
         ],
-        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry+no+sugar+1l",
-        "title": "Buy Online Groceries, Electronics, Mobiles & Home Appliances with Fast & Free Delivery",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (75) Men's Anti-Perspirant (67) Anti-Perspirant (63) Aerosols (51) Hair Cream (50) View All Brand ABC (1) Adidas (8) Adriana (1",
-        "json_urls": [
-          "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
-          "https://gcc.luluhypermarket.com/api/client/autocomplete/?search_text=Oceanspray%20cranberry%20no%20sugar%201l",
-          "https://gcc.luluhypermarket.com/api/search-redirection?search_text=Oceanspray+cranberry+no+sugar+1l",
-          "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://st-eu.dynamicyield.com/spa/json?sec=9882999&ref=https%3A%2F%2Fgcc.luluhypermarket.com%2Fen-sa&scriptVersion=2.105.0&id=3765010239463151307&jsession=a9ee"
-        ],
-        "products_seen": 29,
-        "relevant": 0,
-        "matches": 0,
+        "products_seen": 30,
+        "relevant": 5,
+        "matches": 1,
         "sample_names": [
-          "19% OFF",
-          "27% OFF",
-          "35% OFF",
-          "46% OFF",
-          "Al Kabeer",
-          "Al Kabeer Breaded Shrimps 250 g",
-          "Dettol",
-          "Dettol Antiseptic Anti-Bacterial Disinfectant Liquid Value Pack 2 x 1 Litre",
-          "Dettol Glass Cleaner Spray Bottle 500 ml",
-          "Dry Cranberry 250 g",
-          "Harvest",
-          "Jif Cream Cleaner with Lemon Scent 750 ml",
-          "Jif Cream with Micro Crystals Lemon Scent 1.5 Litres",
-          "Jif Ocean Breeze Kitchen Hygienic Foam 450 ml",
-          "Jif Ultra Fast Ocean Bathroom Cleaner Spray 470 ml"
+          "Ocean Spray",
+          "Ocean Spray Cranberry Classic Juice Drink 1 Litre",
+          "Ocean Spray No Added Sugar Cranberry Drink 1 Litre"
         ]
       }
     ],
     "ninja": [
       {
         "mode": "url",
-        "url": "https://ananinja.com/sa/en/product/search?q=Oceanspray+cranberry+no+sugar+1l",
+        "url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+cranberry",
         "status": 200,
-        "final_url": "https://ananinja.com/sa/en/product/search?q=Oceanspray+cranberry+no+sugar+1l",
+        "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+cranberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Personal Care Cooking Needs Home Care Baby Food & Snacks Supplements Organic & Keto Protein Bars Healthy Dairy Healthy Drinks Special Offer Personal Care Cooking Best Offers Mehbaj Wet Food Personal Care Iced Coffee Manual Dishwashing Co",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Spary Mixed Nuts Healthy Juices Sun Care Hair Mask Anti static - starch Minerals Dried Fruits Eyeshadow Foundation Highlighter Lenses Makeup Hair Care Perfumes Deteregents & Cleaning Personal Care Pet Supplies Juices Salty Snacks Sweet S",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=398569348&appName=ninja-website&environment=default",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=995893683&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644264233&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644851316&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A31%3A05.812Z%2B0300&sent_at=2026-11-02T21%3A31%3A07."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A40%3A52.717Z%2B0300&sent_at=2026-11-02T21%3A40%3A54."
         ],
-        "products_seen": 258,
+        "all_products": [],
+        "products_seen": 140,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "6X Spray Perfume London",
+          "6X Spray Perfume Vienna",
+          "Afle Daily Contact Lenses Ocean 2 Pcs",
+          "All Health Kids Sunscreen Spray 50+ SPF 200ml",
+          "Almehbaj Dried Cranberry 200 gm",
+          "Armaf Club De Nuit Body Spray For Women 200 ml",
+          "Armaf Club De Nuit Body Spray Untold 200 ml",
+          "Aroma Spray Earth 50 ml",
+          "Asmaco Foaming Spray Ac Cleaner 2 In 1 Cleans And Disinfects",
+          "Avalon Active Muscle Pain Relief Cold Spray 118 ml",
+          "Axe Men Deodorant Body Spray for long lasting odour protection Black Night 150ml",
+          "Axe Mini Men Deodorant Body Spray Dark Temptation 120ml",
+          "Beauty Mafia Intensive Tanning Oil Spf 6 Spray 140 ml",
+          "Bioderma Photoderm Spray Spf50 200 ml",
+          "Bogenia Makeup Fixing Spray 100 ml"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+no+sugar",
+        "status": 200,
+        "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+no+sugar",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Skin Care Hair Care Personal Care Cooking Needs Home Care Baby Food & Snacks Supplements Organic & Keto Protein Bars Healthy Dairy Healthy Drinks Special Offer Makeup Hair Care Perfumes Personal Care Cooking Pet Supplies Best Offers Wet ",
+        "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=243095198&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
+          "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644877851&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A41%3A19.010Z%2B0300&sent_at=2026-11-02T21%3A41%3A21."
+        ],
+        "all_products": [],
+        "products_seen": 300,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "6X Spray Perfume London",
+          "6X Spray Perfume Vienna",
+          "Afle Daily Contact Lenses Ocean 2 Pcs",
+          "Al Hatab Rusk Yellow Sugar Free Box 230 gm",
+          "Al Nahla White Sugar 100 Sticks 500 gm",
+          "AlKhair Karak Tea Saffron Sugar Free 12 Saches",
+          "Albayt White Fine Sugar 1 kg",
+          "Alkhair Sugar 100 Envelop",
+          "All Health Kids Sunscreen Spray 50+ SPF 200ml",
+          "Almarai Juice Apple No Added Sugar 200 ml",
+          "Almarai Juice Apple No Added Sugar 300 ml",
+          "Almarai Juice Apple Premium No Added Sugar 1.4 L",
+          "Almarai Juice Kids Apple No Added Sugar 180 ml",
+          "Almarai Juice Mixed Fruit Mango No Added Sugar 1.4 L",
+          "Almarai Juice Orange & Mix Fruit No Added Sugar 300 ml"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://ananinja.com/sa/en/product/search?q=ocean+spray",
+        "status": 200,
+        "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Lenses Makeup And Accessories Cleaning & Laundry Household & Gathering Essentials Cream & Labneh Cleaning and Laundry Conditioner Hair Styling Hair Colorant Hair Oils & Serums Skin Care Hair Care Personal Care Home Care Supplements Makeu",
+        "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://api64.ipify.org/?format=json",
+          "https://api.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=837809553&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644902186&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A41%3A43.088Z%2B0300&sent_at=2026-11-02T21%3A41%3A45."
+        ],
+        "all_products": [],
+        "products_seen": 126,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": [
+          "6X Spray Perfume London",
+          "6X Spray Perfume Vienna",
+          "Afle Daily Contact Lenses Ocean 2 Pcs",
+          "All Health Kids Sunscreen Spray 50+ SPF 200ml",
+          "Armaf Club De Nuit Body Spray For Women 200 ml",
+          "Armaf Club De Nuit Body Spray Untold 200 ml",
+          "Aroma Spray Earth 50 ml",
+          "Asmaco Foaming Spray Ac Cleaner 2 In 1 Cleans And Disinfects",
+          "Avalon Active Muscle Pain Relief Cold Spray 118 ml",
+          "Axe Men Deodorant Body Spray for long lasting odour protection Black Night 150ml",
+          "Axe Mini Men Deodorant Body Spray Dark Temptation 120ml",
+          "Beauty Mafia Intensive Tanning Oil Spf 6 Spray 140 ml",
+          "Bioderma Photoderm Spray Spf50 200 ml",
+          "Bogenia Makeup Fixing Spray 100 ml",
+          "Bogenia Professional Hair Spray Marula Oil 250 ml"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://ananinja.com/sa/en/product/search?q=cranberry+no+sugar",
+        "status": 200,
+        "final_url": "https://ananinja.com/sa/en/product/search?q=cranberry+no+sugar",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Diet & Zero Sugar Soft Drinks Mixed Nuts Karak Tea Healthy Juices Hydration & Energy Drinks Protien Drink Candies Chocolates Grain Bars Organic Bars Rice Cake Fresh Juice Single Pack Lip Care Protein Rich Milk Rusk Fresh Juices Dried Fru",
+        "json_urls": [
+          "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=237036818&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644927971&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A42%3A09.013Z%2B0300&sent_at=2026-11-02T21%3A42%3A11."
+        ],
+        "all_products": [],
+        "products_seen": 244,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -538,14 +1128,14 @@
           "Al Hatab Rusk Yellow Sugar Free Box 230 gm",
           "Al Nahla White Sugar 100 Sticks 500 gm",
           "AlKhair Karak Tea Saffron Sugar Free 12 Saches",
-          "Alajeeb Abaya Shampoo 1L",
           "Albayt White Fine Sugar 1 kg",
-          "Alemlaq Chlor 1L",
           "Alkhair Karak Tea With Cardamom Without Sugar 12 Envelop 180 gm",
           "Alkhair Sugar 100 Envelop",
-          "Almarai Full Fat Cooking Cream 1L",
           "Almarai Juice Apple No Added Sugar 200 ml",
-          "Almarai Juice Apple No Added Sugar 300 ml"
+          "Almarai Juice Apple No Added Sugar 300 ml",
+          "Almarai Juice Apple Premium No Added Sugar 1.4 L",
+          "Almarai Juice Kids Apple No Added Sugar 180 ml",
+          "Almarai Juice Mixed Fruit Mango No Added Sugar 1.4 L"
         ]
       },
       {
@@ -564,18 +1154,568 @@
         ],
         "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
         "json_urls": [
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=811323376&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=52511364&appName=ninja-website&environment=default",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644951865&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A42%3A32.829Z%2B0300&sent_at=2026-11-02T21%3A42%3A34."
+        ],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      }
+    ]
+  },
+  "Dari Frozen Raspberry 350g": {
+    "danube": [
+      {
+        "mode": "product",
+        "url": "https://danube.sa/en/products/rz-byry-twt-llyq-mjmd",
+        "status": 200,
+        "final_url": "https://danube.sa/en/products/rz-byry-twt-llyq-mjmd",
+        "title": "Buy Dari Frozen Raspberry 350g and Frozen Food online - Danube",
+        "product_read": {
+          "name": "Dari Frozen Raspberry 350g",
+          "price": null
+        },
+        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Dari Frozen Raspberry 350g  32.50 33 pts Quantity Add To Cart With Dari Frozen Raspberry, you can shop for Raspberry anytime of the year despite the season. It is packed in such a way that the nutrient value is not altered. RATING No re",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1793644994529",
+          "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1793644994577",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=6cc1a219-dc2f-4abc-85b0-831f8c4f1dc3",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2963&s=0&ref=https://danube.sa/en/products/rz-byry-tw",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=6cfc7058cc7262db"
+        ],
+        "products_seen": 1
+      }
+    ],
+    "tamimi": [
+      {
+        "mode": "product",
+        "url": "https://shop.tamimimarkets.com/en/product/raspberry-26",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/product/raspberry-26",
+        "title": "Dari Raspberry-350g - Buy online on Tamimi Markets",
+        "product_read": {},
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE Home > Raspberry Raspberry-350g Brand Dari Size 350g Price 24.50 25.95 Additional Information Mercha",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/category"
+        ],
+        "products_seen": 0
+      },
+      {
+        "mode": "url",
+        "url": "https://shop.tamimimarkets.com/en/search?query=dari+raspberry",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=dari+raspberry",
+        "title": "dari raspberry | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Dari Clear Filter Dari Raspberry Home > Dari Raspberry 6% OFF 24.50 25.95 D",
+        "json_urls": [
+          "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+          "https://sessions.bugsnag.com/",
+          "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=dari%20raspberry&page=2&orderType="
+        ],
+        "all_products": [
+          [
+            "Dari Raspberry 350g",
+            25.95
+          ],
+          [
+            "dari raspberry",
+            24.5
+          ],
+          [
+            "FilterBrandDariClear FilterBrandDariClear FilterSORT BYPopularityRelevancyNewestPopularity",
+            24.5
+          ],
+          [
+            "FilterBrandDariClear Filter",
+            24.5
+          ],
+          [
+            "BrandDariClear Filter",
+            24.5
+          ],
+          [
+            "BrandDari",
+            24.5
+          ],
+          [
+            "Dari Raspberry",
+            24.5
+          ],
+          [
+            "Dari Raspberry-350g",
+            24.5
+          ]
+        ],
+        "products_seen": 31,
+        "relevant": 8,
+        "matches": 4,
+        "sample_names": [
+          "BrandDari",
+          "BrandDariClear Filter",
+          "Dari Raspberry",
+          "Dari Raspberry 350g",
+          "Dari Raspberry-350g",
+          "FilterBrandDariClear Filter",
+          "FilterBrandDariClear FilterBrandDariClear FilterSORT BYPopularityRelevancyNewestPopularity",
+          "dari raspberry"
+        ]
+      }
+    ],
+    "panda": [
+      {
+        "mode": "url",
+        "url": "https://panda.sa/en/plp?search_key=dari+raspberry",
+        "status": 200,
+        "final_url": "https://panda.sa/en/plp?search_key=dari+raspberry",
+        "title": "Shop Dari raspberry Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Dari raspberry Search Results: \"Dari raspberry\" 31 Products Found 350 gm Dari Frozen Raspberries 350g Fruits & Vegetables 27.5 1 30% Off 2.75 kg Dari Labneh 2.75kg Cheese & Labneh 89.99 62.99",
+        "json_urls": [
+          "https://panda.sa/api/interactions",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cheart-outline%2Cminus%2Cplus"
+        ],
+        "all_products": [
+          [
+            "Dari Frozen Molokhia 400g",
+            6.99
+          ],
+          [
+            "Dari Minced Spinach 400g",
+            5.99
+          ],
+          [
+            "Dari Mozzarella Analogue Cheese 900g",
+            39.99
+          ],
+          [
+            "Dari Cheese Halloumi Slice 200G",
+            14.99
+          ],
+          [
+            "Dari Tropical Mix 350g",
+            24.99
+          ],
+          [
+            "Dari Aloha Mixchunks 350g",
+            24.99
+          ],
+          [
+            "Dari Cheese Halloumi With Red Chili 225G",
+            14.99
+          ],
+          [
+            "Dari Very Berry 350g",
+            23.99
+          ],
+          [
+            "Dari Frozen Blueberries 350g",
+            23.99
+          ],
+          [
+            "Dari Medium Shrimps 400g",
+            36.99
+          ],
+          [
+            "Dari Frozen Tender Chicken Breast 2kg",
+            56.99
+          ],
+          [
+            "Dari Butter Chicken 400g",
+            25.99
+          ],
+          [
+            "Dari Halloumi Burger Slice 200G",
+            19.99
+          ],
+          [
+            "Dari Spreadable Creamy Cheese Analogue 500 g",
+            10.95
+          ],
+          [
+            "Dari Lamb Mince 400G",
+            8.75
+          ],
+          [
+            "Dari Guava Pulp (1kg)",
+            14.99
+          ],
+          [
+            "Dari Shredded Mozzarella Cheese 450g",
+            25.99
+          ],
+          [
+            "Dari Frozen Quail 600g",
+            40.99
+          ],
+          [
+            "Dari Frozen Duck 2200g",
+            79.99
+          ],
+          [
+            "Dari Okra Zero 400g",
+            9.99
+          ],
+          [
+            "Dari Okra Fine 400g",
+            7.99
+          ]
+        ],
+        "products_seen": 51,
+        "relevant": 21,
+        "matches": 0,
+        "sample_names": [
+          "Dari Aloha Mixchunks 350g",
+          "Dari Butter Chicken 400g",
+          "Dari Cheese Halloumi Slice 200G",
+          "Dari Cheese Halloumi With Red Chili 225G",
+          "Dari Frozen Blueberries 350g",
+          "Dari Frozen Duck 2200g",
+          "Dari Frozen Molokhia 400g",
+          "Dari Frozen Quail 600g",
+          "Dari Frozen Tender Chicken Breast 2kg",
+          "Dari Guava Pulp (1kg)",
+          "Dari Halloumi Burger Slice 200G",
+          "Dari Lamb Mince 400G",
+          "Dari Medium Shrimps 400g",
+          "Dari Minced Spinach 400g",
+          "Dari Mozzarella Analogue Cheese 900g"
+        ]
+      },
+      {
+        "mode": "box",
+        "url": "https://panda.sa/en",
+        "status": 200,
+        "inputs": [
+          [
+            "text",
+            "",
+            "",
+            "Search for products, brand and more",
+            "min-w-0 flex-1 truncate border-none bg-t",
+            false
+          ],
+          [
+            "text",
+            "",
+            "",
+            "Search for products, brand and more",
+            "min-w-0 flex-1 truncate border-none bg-t",
+            true
+          ]
+        ],
+        "final_url": "https://panda.sa/en/plp?search_key=dari+raspberry",
+        "title": "Shop Dari raspberry Online | Panda KSA",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Dari raspberry Search Results: \"Dari raspberry\" 31 Products Found 350 gm Dari Frozen Raspberries 350g Fruits & Vegetables 27.5 1 30% Off 2.75 kg Dari Labneh 2.75kg Cheese & Labneh 89.99 62.99",
+        "json_urls": [
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
+          "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=chevron-down"
+        ],
+        "all_products": [
+          [
+            "Dari Frozen Molokhia 400g",
+            6.99
+          ],
+          [
+            "Dari Minced Spinach 400g",
+            5.99
+          ],
+          [
+            "Dari Mozzarella Analogue Cheese 900g",
+            39.99
+          ],
+          [
+            "Dari Cheese Halloumi Slice 200G",
+            14.99
+          ],
+          [
+            "Dari Tropical Mix 350g",
+            24.99
+          ],
+          [
+            "Dari Aloha Mixchunks 350g",
+            24.99
+          ],
+          [
+            "Dari Cheese Halloumi With Red Chili 225G",
+            14.99
+          ],
+          [
+            "Dari Very Berry 350g",
+            23.99
+          ],
+          [
+            "Dari Frozen Blueberries 350g",
+            23.99
+          ],
+          [
+            "Dari Medium Shrimps 400g",
+            36.99
+          ],
+          [
+            "Dari Frozen Tender Chicken Breast 2kg",
+            56.99
+          ],
+          [
+            "Dari Butter Chicken 400g",
+            25.99
+          ],
+          [
+            "Dari Halloumi Burger Slice 200G",
+            19.99
+          ],
+          [
+            "Dari Spreadable Creamy Cheese Analogue 500 g",
+            10.95
+          ],
+          [
+            "Dari Lamb Mince 400G",
+            8.75
+          ],
+          [
+            "Dari Guava Pulp (1kg)",
+            14.99
+          ],
+          [
+            "Dari Shredded Mozzarella Cheese 450g",
+            25.99
+          ],
+          [
+            "Dari Frozen Quail 600g",
+            40.99
+          ],
+          [
+            "Dari Frozen Duck 2200g",
+            79.99
+          ],
+          [
+            "Dari Okra Zero 400g",
+            9.99
+          ],
+          [
+            "Dari Okra Fine 400g",
+            7.99
+          ]
+        ],
+        "products_seen": 51,
+        "relevant": 21,
+        "matches": 0,
+        "sample_names": [
+          "Dari Aloha Mixchunks 350g",
+          "Dari Butter Chicken 400g",
+          "Dari Cheese Halloumi Slice 200G",
+          "Dari Cheese Halloumi With Red Chili 225G",
+          "Dari Frozen Blueberries 350g",
+          "Dari Frozen Duck 2200g",
+          "Dari Frozen Molokhia 400g",
+          "Dari Frozen Quail 600g",
+          "Dari Frozen Tender Chicken Breast 2kg",
+          "Dari Guava Pulp (1kg)",
+          "Dari Halloumi Burger Slice 200G",
+          "Dari Lamb Mince 400G",
+          "Dari Medium Shrimps 400g",
+          "Dari Minced Spinach 400g",
+          "Dari Mozzarella Analogue Cheese 900g"
+        ]
+      }
+    ],
+    "carrefour": [
+      {
+        "mode": "product",
+        "url": "https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "products_seen": 0
+      },
+      {
+        "mode": "url",
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=dari+raspberry",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=dari+raspberry\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "mode": "box",
+        "url": "https://www.carrefourksa.com/mafsau/en",
+        "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en\", waiting until \"domcontentloaded\"\n",
+        "json_urls": [],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      }
+    ],
+    "lulu": [
+      {
+        "mode": "product",
+        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223",
+        "status": 200,
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223",
+        "title": "Dari Frozen Raspberry 350 g Online at Best Price | Lulu KSA",
+        "product_read": {
+          "name": "Dari Frozen Raspberry 350 g",
+          "price": null
+        },
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Home > Grocery > Food Cupboard > Frozen Food > Fruits & Vegetables Dari Dari Frozen Raspberry 350 g 25.70 ( Inclusive of VAT ) ADD TO CART Product Highlights Specificati",
+        "json_urls": [
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
+          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
+          "https://gcc.luluhypermarket.com/api/client/products/202056/similar-by-id/?page_size=20",
+          "https://availability.loadbee.com/v3/EAN/6281051007345/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration=v2026-06-02&payload=eyJyZWYiO",
+          "https://media.flixcar.com/modular/web-api/d2/14565/6281051007345Z2NjLmx1bHVoeXBlcm1hcmtldC5jb20/t.json?mpn=&ean=6281051007345&distId=14565&iso=d2&flIso=",
+          "https://availability.loadbee.com/v3/EAN/6281051007345/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration=v2026-06-02&payload=eyJyZWYiO",
+          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
+          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17936452"
+        ],
+        "products_seen": 1
+      }
+    ],
+    "ninja": [
+      {
+        "mode": "url",
+        "url": "https://ananinja.com/sa/en/product/search?q=dari+raspberry",
+        "status": 200,
+        "final_url": "https://ananinja.com/sa/en/product/search?q=dari+raspberry",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Baby Food & Cereals Soft & Energy Drinks Hand Wash Fresh Dairy Dairy & Eggs Halawa & Jam Buy Together Breakfast and Bakery Halawa & Jam The Best Seller & Offers Jam Sparkling Water Single Pack Flavoured Water Canned Beans Frozen Vegetabl",
+        "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=214829263&appName=ninja-website&environment=default",
           "https://api64.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793644288294&dep=2%2CPAGE_LOAD",
-          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://app.adjust.com/session",
           "https://graphql.ananinja.com/graphql",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A31%3A29.757Z%2B0300&sent_at=2026-11-02T21%3A31%3A31."
+          "https://api.ipify.org/?format=json",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793645237933&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A47%3A19.128Z%2B0300&sent_at=2026-11-02T21%3A47%3A21."
         ],
+        "all_products": [
+          [
+            "Dari Mayonnaise 300 ml",
+            12.95
+          ],
+          [
+            "Dari Molokhia 400 gm",
+            7.25
+          ],
+          [
+            "Dari Strawberry 1 kg",
+            15.95
+          ],
+          [
+            "Dari BlueBerry Frozen 350 gm",
+            23.95
+          ],
+          [
+            "Dari Plain Paratha 400 gm",
+            7.95
+          ],
+          [
+            "Dari Medium Frozen Shrimp 400 gm",
+            36.95
+          ],
+          [
+            "Dari Chicken Breast Tenderized 1 kg",
+            22.95
+          ],
+          [
+            "Dari Chicken Breast Tenderized 2 kg",
+            44.95
+          ],
+          [
+            "Dari Canned Red Beans Kidney 400 gm",
+            3.95
+          ]
+        ],
+        "products_seen": 84,
+        "relevant": 9,
+        "matches": 0,
+        "sample_names": [
+          "Dari BlueBerry Frozen 350 gm",
+          "Dari Canned Red Beans Kidney 400 gm",
+          "Dari Chicken Breast Tenderized 1 kg",
+          "Dari Chicken Breast Tenderized 2 kg",
+          "Dari Mayonnaise 300 ml",
+          "Dari Medium Frozen Shrimp 400 gm",
+          "Dari Molokhia 400 gm",
+          "Dari Plain Paratha 400 gm",
+          "Dari Strawberry 1 kg"
+        ]
+      },
+      {
+        "mode": "box",
+        "url": "https://ananinja.com/sa/en",
+        "status": 200,
+        "inputs": [
+          [
+            "text",
+            "",
+            "search",
+            "Search: Apple",
+            "flex rounded-md border border-neutral-20",
+            true
+          ]
+        ],
+        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
+        "json_urls": [
+          "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=262861265&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1793645262369&dep=2%2CPAGE_LOAD",
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-02T21%3A47%3A43.348Z%2B0300&sent_at=2026-11-02T21%3A47%3A45.",
+          "https://graphql.ananinja.com/graphql"
+        ],
+        "all_products": [],
         "products_seen": 0,
         "relevant": 0,
         "matches": 0,
