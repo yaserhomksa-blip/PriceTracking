@@ -166,22 +166,26 @@ def walk_json(obj, out, depth=0, parent=None):
 
 DOM_JS = r"""
 () => {
-  const priceRe = /(?:SAR|SR|ر\.?\s?س|﷼)\s*([0-9]+(?:[.,][0-9]{1,2})?)|([0-9]+(?:[.,][0-9]{1,2})?)\s*(?:SAR|SR|ر\.?\s?س|﷼)/i;
+  const curRe = /(?:SAR|SR|ر\.?\s?س|﷼|⃁)\s*([0-9]+(?:[.,][0-9]{1,2})?)|([0-9]+(?:[.,][0-9]{1,2})?)\s*(?:SAR|SR|ر\.?\s?س|﷼|⃁)/i;
+  const bareRe = /(?:^|\s)([0-9]{1,4}[.,][0-9]{2})(?:\s|$)/;
   const out = [];
   const seen = new Set();
   const els = document.querySelectorAll('a, h1, h2, h3, h4, h5, p, span, div');
   for (const el of els) {
     if (el.children.length > 3) continue;
     const t = (el.innerText || '').trim();
-    if (t.length < 6 || t.length > 160 || priceRe.test(t) || !/[a-z\u0600-\u06FF]{3}/i.test(t)) continue;
+    if (t.length < 6 || t.length > 160 || t.includes('\n') || /[0-9]{1,4}[.,][0-9]{2}/.test(t) ||
+        !/[a-z؀-ۿ]{3}/i.test(t)) continue;
     let node = el, price = null, card = null;
     for (let i = 0; i < 6 && node; i++) {
       node = node.parentElement;
       if (!node) break;
       const txt = node.innerText || '';
       if (txt.length > 600) break;
-      const m = txt.match(priceRe);
+      let m = txt.match(curRe);
       if (m) { price = m[1] || m[2]; card = node; break; }
+      m = txt.match(bareRe);
+      if (m && node.querySelector('img')) { price = m[1]; card = node; break; }
     }
     if (!price) continue;
     const key = t + '|' + price;
@@ -266,9 +270,10 @@ async def visit(browser, store, item, mode, target):
                 except Exception:
                     pass
                 await page.wait_for_timeout(3000)
+        await page.wait_for_timeout(4000)
         for _ in range(3):
             await page.mouse.wheel(0, 2500)
-            await page.wait_for_timeout(1200)
+            await page.wait_for_timeout(1500)
         info["final_url"] = page.url
         info["title"] = await page.title()
         scripts = await page.eval_on_selector_all(

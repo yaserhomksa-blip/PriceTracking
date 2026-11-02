@@ -19,7 +19,9 @@
   {
     "id": "panda",
     "name": "Panda",
-    "urls": [],
+    "urls": [
+      "https://panda.sa/en/plp?search_key={q}"
+    ],
     "home": "https://panda.sa/en"
   },
   {
@@ -34,8 +36,7 @@
     "id": "lulu",
     "name": "Lulu",
     "urls": [
-      "https://gcc.luluhypermarket.com/en-sa/search/?text={q}",
-      "https://www.luluhypermarket.com/en-sa/search?q={q}"
+      "https://gcc.luluhypermarket.com/en-sa/list/?search_text={q}"
     ],
     "home": "https://gcc.luluhypermarket.com/en-sa"
   },
