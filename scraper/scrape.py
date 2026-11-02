@@ -201,6 +201,45 @@ DOM_JS = r"""
 """
 
 
+PRODUCT_JS = r"""
+() => {
+  const h1 = document.querySelector('h1');
+  if (!h1) return null;
+  const name = h1.innerText.trim();
+  const curRe = /(?:SAR|SR|ر\.?\s?س|﷼|\u20C1)\s*([0-9]+(?:[.,][0-9]{1,2})?)|([0-9]+(?:[.,][0-9]{1,2})?)\s*(?:SAR|SR|ر\.?\s?س|﷼|\u20C1)/i;
+  const bareRe = /^\s*(?:SAR|SR)?\s*([0-9]{1,4}(?:[.,][0-9]{1,2})?)\s*(?:SAR|SR)?\s*$/i;
+  let node = h1;
+  for (let i = 0; i < 9 && node; i++) {
+    node = node.parentElement;
+    if (!node) break;
+    const found = [];
+    for (const el of node.querySelectorAll('*')) {
+      if (el.children.length > 2) continue;
+      const t = (el.innerText || '').trim();
+      if (!t || t.length > 30) continue;
+      let m = t.match(curRe), v = m ? (m[1] || m[2]) : null;
+      if (!v && /price|amount|cost/i.test(el.className + ' ' + (el.parentElement ? el.parentElement.className : ''))) {
+        const b = t.match(bareRe); if (b) v = b[1];
+      }
+      if (!v) continue;
+      const st = getComputedStyle(el), pst = el.parentElement ? getComputedStyle(el.parentElement) : st;
+      const struck = /line-through/.test(st.textDecorationLine + pst.textDecorationLine) || el.closest('del, s, strike');
+      found.push({v: parseFloat(v.replace(',', '.')), struck: !!struck});
+    }
+    if (found.length) {
+      const now = found.filter(f => !f.struck && f.v > 0);
+      const old = found.filter(f => f.struck && f.v > 0);
+      const txt = (node.innerText || '').toLowerCase();
+      return {name, price: now.length ? now[0].v : found[0].v,
+              old_price: old.length ? old[0].v : null,
+              out_of_stock: /out of stock|sold out|غير متوفر|نفذت?|notify me/.test(txt)};
+    }
+  }
+  return {name, price: null};
+}
+"""
+
+
 SEARCH_BOX = ("input[type='search'], input[placeholder*='earch' i], input[aria-label*='earch' i], "
               "input[name*='search' i], input[name='q'], input[placeholder*='بحث'], input[id*='search' i], "
               "input[class*='search' i], header input[type='text'], nav input[type='text']")
@@ -276,6 +315,27 @@ async def visit(browser, store, item, mode, target):
             await page.wait_for_timeout(1500)
         info["final_url"] = page.url
         info["title"] = await page.title()
+        if mode == "product":
+            prod = await page.evaluate(PRODUCT_JS)
+            info["product_read"] = prod
+            ld = []
+            for sc in await page.eval_on_selector_all("script[type='application/ld+json']", "els => els.map(e => e.textContent)"):
+                try:
+                    walk_json(json.loads(sc), ld)
+                except Exception:
+                    pass
+            if ld:
+                c = ld[0]
+                if prod and prod.get("out_of_stock"):
+                    c["in_stock"] = False
+                candidates.append(dict(c, url=target, source="product"))
+            elif prod and prod.get("price"):
+                candidates.append({"name": prod["name"], "price": float(prod["price"]),
+                                   "old_price": prod.get("old_price"),
+                                   "in_stock": False if prod.get("out_of_stock") else None,
+                                   "url": target, "source": "product"})
+            info["page_start"] = re.sub(r"\s+", " ", (await page.inner_text("body"))[:300])
+            raise StopIteration
         scripts = await page.eval_on_selector_all(
             "script[type='application/ld+json'], script#__NEXT_DATA__, script[type='application/json']",
             "els => els.map(e => e.textContent).slice(0, 40)")
@@ -291,6 +351,8 @@ async def visit(browser, store, item, mode, target):
                                    "in_stock": False if c["out_of_stock"] else None,
                                    "url": c["url"], "source": "page"})
         info["page_start"] = re.sub(r"\s+", " ", (await page.inner_text("body"))[:300])
+    except StopIteration:
+        pass
     except Exception as e:
         info["error"] = f"{type(e).__name__}: {str(e)[:200]}"
     if pending:
@@ -313,6 +375,16 @@ async def check_store(browser, store, item, debug):
     if store.get("home"):
         attempts.append(("box", store["home"]))
     tried, reachable, info = [], False, {}
+    page_url = (item.get("pages") or {}).get(store["id"])
+    if page_url:
+        candidates, info = await visit(browser, store, item, "product", page_url)
+        info["products_seen"] = len(candidates)
+        tried.append(info)
+        if candidates:
+            debug[store["id"]] = tried
+            return candidates[:1], info
+        if not blocked(info):
+            reachable = True
     first_group = item["require"][0] if item["require"] else []
     for mode, target in attempts:
         candidates, info = await visit(browser, store, item, mode, target)

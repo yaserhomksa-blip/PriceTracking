@@ -3,11 +3,54 @@
     "name": "Ocean Spray Cranberry No Sugar Added 1L",
     "search": "ocean spray cranberry",
     "require": [
-      ["ocean spray"],
-      ["cranberry"],
-      ["no sugar", "no added sugar", "sugar free", "zero sugar", "sugar-free", "no-sugar", "no sugar added"],
-      ["1l", "1 l", "1 liter", "1 litre", "1000ml", "1000 ml", "1ltr", "1 ltr", "1lt", "1 lt"]
+      [
+        "ocean spray"
+      ],
+      [
+        "cranberry"
+      ],
+      [
+        "no sugar",
+        "no added sugar",
+        "sugar free",
+        "zero sugar",
+        "sugar-free",
+        "no-sugar",
+        "no sugar added"
+      ],
+      [
+        "1l",
+        "1 l",
+        "1 liter",
+        "1 litre",
+        "1000ml",
+        "1000 ml",
+        "1ltr",
+        "1 ltr",
+        "1lt",
+        "1 lt"
+      ]
     ],
     "target": 15
+  },
+  {
+    "name": "Dari Frozen Raspberry 350g",
+    "search": "dari raspberry",
+    "require": [
+      [
+        "dari"
+      ],
+      [
+        "raspberr",
+        "rasberr",
+        "raspbery"
+      ]
+    ],
+    "pages": {
+      "danube": "https://danube.sa/en/products/rz-byry-twt-llyq-mjmd",
+      "lulu": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223",
+      "carrefour": "https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122",
+      "tamimi": "https://shop.tamimimarkets.com/en/product/raspberry-26"
+    }
   }
 ]

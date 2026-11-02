@@ -43,7 +43,9 @@
   {
     "id": "ninja",
     "name": "Ninja",
-    "app_only": true,
-    "urls": []
+    "urls": [
+      "https://ananinja.com/sa/en/product/search?q={q}"
+    ],
+    "home": "https://ananinja.com/sa/en"
   }
 ]
