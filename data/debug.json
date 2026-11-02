@@ -1,0 +1,113 @@
+{
+  "Ocean Spray Cranberry No Sugar Added 1L": {
+    "danube": [
+      {
+        "url": "https://www.danube.sa/en/search?q=ocean+spray+cranberry",
+        "status": 200,
+        "final_url": "https://www.danube.sa/en/search?q=ocean+spray+cranberry",
+        "title": "Danube - Danube",
+        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Refine By BigBag (4672) Brands (307) Chefz (25169) Deals of the Day (1) Departments (27286) Featured Products (8) Flash Deals (21) Hungerstation (10279) Jahez (6485) Jahez V2 (24938) Most Viewed (7) Mrsool (6869) Mrsool V2 (11229) Recommended Products (110) Price  0.00 -  1.00  1.00 -  29.00  29.00 -  57.00  57.00 -  85.0",
+        "json_responses": 6,
+        "products_seen": 20,
+        "matches": 0,
+        "sample_names": [
+          "Banana (Tray)",
+          "Blueberry (Pack)",
+          "Cucumber (Tray)",
+          "Full Fat Premium Labneh",
+          "Gala Apple (Pack)",
+          "Green Capsicum",
+          "Green Coriander Leaves",
+          "Imported Banana",
+          "Mint Leaves",
+          "Natural Mozzarella Cheese",
+          "Parsley Leaves",
+          "Potatoe Baladi (Bag)",
+          "Samoli Bread Big",
+          "Shami Bread",
+          "Spreadable Cream Cheese Squares 24 Portions"
+        ]
+      }
+    ],
+    "tamimi": [
+      {
+        "url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray+cranberry",
+        "status": 200,
+        "final_url": "https://shop.tamimimarkets.com/en/search?query=ocean+spray+cranberry",
+        "title": "ocean spray cranberry | Tamimi Markets",
+        "page_start": "Search Store Pickup or Home Delivery Themari العربية Hot Deals FRESH FOOD & BEVERAGES HEALTHY LIVING HEALTH & BEAUTY HOUSEHOLD BABY PETS TAMIMI IMPORTED ✈ Influencers BACK TO SCHOOL SAUDI MADE SORT BY Popularity Brand Ocean Spray Clear Filter Ocean Spray Cranberry Home > Ocean Spray Cranberry 7% OFF 39.99 42.95 Ocean Spray Cranberry Juice-1.89L 49.95 Ocean Spray Cranberry 100 % Juice-2.04",
+        "json_responses": 8,
+        "products_seen": 8,
+        "matches": 0,
+        "sample_names": [
+          "1.89L",
+          "2.04L",
+          "64oz"
+        ]
+      }
+    ],
+    "panda": [
+      {
+        "url": "https://panda.sa/en/search?q=ocean+spray+cranberry",
+        "status": 404,
+        "final_url": "https://panda.sa/en",
+        "title": "Panda KSA - Supermarket Deals & Online Shopping",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup All Fresh Snacks Household Electronics Beauty Pets Cashback Best Offers for Limited Time View all 39% Off 10 kg Al Mas Indian Mazaa Basmati Rice 10kg Rice & Grains 93.99 56.99 1 47% Off 1 Piece Moulinex Grinder Orange 180W, 50G New Shape Kitchen Essentials 179 95 1 Fresh & Daily Essentials Bak",
+        "json_responses": 6,
+        "products_seen": 34,
+        "matches": 0,
+        "sample_names": [
+          "114.99",
+          "114.99\n\n49.99",
+          "114.99\n\n49.99\n\n1",
+          "122.99",
+          "122.99\n\n80",
+          "122.99\n\n80\n\n1",
+          "4.5\n\n2.5",
+          "4.5\n\n2.5\n\n1",
+          "450 gm",
+          "6.25\n\n3.75",
+          "6.25\n\n3.75\n\n1",
+          "700 gm",
+          "80 Pieces",
+          "96 Pieces",
+          "Afia Natural Sea Salt – 700g"
+        ]
+      }
+    ],
+    "carrefour": [
+      {
+        "url": "https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray+cranberry",
+        "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.carrefourksa.com/mafsau/en/search?keyword=ocean+spray+cranberry\nCall log:\nnavigating to \"https://www.carrefourksa.com/mafsau/en/search?keyword=o",
+        "json_responses": 0,
+        "products_seen": 0,
+        "matches": 0,
+        "sample_names": []
+      }
+    ],
+    "lulu": [
+      {
+        "url": "https://gcc.luluhypermarket.com/en-sa/search/?text=ocean+spray+cranberry",
+        "status": 403,
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/search/?text=ocean+spray+cranberry",
+        "title": "Attention Required! | Cloudflare",
+        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to res",
+        "json_responses": 0,
+        "products_seen": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "url": "https://www.luluhypermarket.com/en-sa/search?q=ocean+spray+cranberry",
+        "status": 403,
+        "final_url": "https://www.luluhypermarket.com/en-sa/search?q=ocean+spray+cranberry",
+        "title": "Attention Required! | Cloudflare",
+        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to res",
+        "json_responses": 0,
+        "products_seen": 0,
+        "matches": 0,
+        "sample_names": []
+      }
+    ]
+  }
+}
