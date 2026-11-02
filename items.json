@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ocean Spray Cranberry No Sugar Added 1L",
+    "search": "ocean spray cranberry",
+    "require": [
+      ["ocean spray"],
+      ["cranberry"],
+      ["no sugar", "no added sugar", "sugar free", "zero sugar", "sugar-free", "no-sugar", "no sugar added"],
+      ["1l", "1 l", "1 liter", "1 litre", "1000ml", "1000 ml", "1ltr", "1 ltr", "1lt", "1 lt"]
+    ],
+    "target": 15
+  }
+]

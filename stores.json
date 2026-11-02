@@ -1,0 +1,47 @@
+[
+  {
+    "id": "danube",
+    "name": "Danube",
+    "urls": [
+      "https://www.danube.sa/en/search?q={q}",
+      "https://danube.sa/en/search?query={q}"
+    ]
+  },
+  {
+    "id": "tamimi",
+    "name": "Tamimi",
+    "urls": [
+      "https://shop.tamimimarkets.com/en/search?query={q}",
+      "https://shop.tamimimarkets.com/search?query={q}"
+    ]
+  },
+  {
+    "id": "panda",
+    "name": "Panda",
+    "urls": [
+      "https://panda.sa/en/search?q={q}",
+      "https://www.panda.sa/en/search?query={q}"
+    ]
+  },
+  {
+    "id": "carrefour",
+    "name": "Carrefour",
+    "urls": [
+      "https://www.carrefourksa.com/mafsau/en/search?keyword={q}"
+    ]
+  },
+  {
+    "id": "lulu",
+    "name": "Lulu",
+    "urls": [
+      "https://gcc.luluhypermarket.com/en-sa/search/?text={q}",
+      "https://www.luluhypermarket.com/en-sa/search?q={q}"
+    ]
+  },
+  {
+    "id": "ninja",
+    "name": "Ninja",
+    "app_only": true,
+    "urls": []
+  }
+]

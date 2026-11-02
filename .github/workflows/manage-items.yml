@@ -1,0 +1,55 @@
+name: Add or remove item
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  manage:
+    # only the owner of this project can add or remove items
+    if: github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update item list
+        id: items
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python scraper/manage_items.py
+      - name: Install browser
+        if: steps.items.outputs.action == 'add'
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+      - name: Check prices for the new item
+        if: steps.items.outputs.action == 'add'
+        env:
+          ITEM_NAME: ${{ steps.items.outputs.name }}
+        run: python scraper/scrape.py "$ITEM_NAME"
+      - name: Save
+        env:
+          ITEM_NAME: ${{ steps.items.outputs.name }}
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add items.json data
+          git diff --cached --quiet || git commit -m "Item update: $ITEM_NAME [skip ci]"
+          git pull --rebase origin main
+          git push
+      - name: Close the request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} --comment "Done. Refresh your price page in a minute."

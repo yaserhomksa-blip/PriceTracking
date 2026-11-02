@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Supermarket Prices</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --card: #ffffff; --ink: #1d1d1b; --muted: #6f6d66;
+    --line: #e4e1d8; --good: #1f7a4d; --good-bg: #e3f3ea; --warn: #9a6a00;
+    --bad: #a23b2a; --accent: #1d4e89;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #151514; --card: #1f1f1d; --ink: #f0eee8; --muted: #a29f96;
+      --line: #34332f; --good: #6fd19c; --good-bg: #1c3a2a; --warn: #e2b44c;
+      --bad: #f08a76; --accent: #8fb6e8;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 20px 16px 60px; }
+  h1 { font-size: 1.5rem; margin: 0 0 2px; }
+  .sub { color: var(--muted); font-size: .9rem; margin-bottom: 20px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+          padding: 16px; margin-bottom: 16px; }
+  .head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+  .head h2 { font-size: 1.1rem; margin: 0; }
+  .target { color: var(--muted); font-size: .85rem; }
+  .best { margin: 8px 0 10px; font-size: .95rem; }
+  .best b { color: var(--good); }
+  table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  td { padding: 9px 4px; border-top: 1px solid var(--line); vertical-align: top; }
+  td.store { font-weight: 600; width: 30%; }
+  td.price { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .deal td { background: var(--good-bg); }
+  .deal td.price { color: var(--good); font-weight: 700; }
+  .old { color: var(--muted); text-decoration: line-through; font-size: .8rem; margin-left: 4px; }
+  .prod { color: var(--muted); font-size: .8rem; display: block; }
+  .prod a { color: var(--accent); }
+  .tag { font-size: .8rem; color: var(--muted); }
+  .tag.out { color: var(--bad); }
+  .low { color: var(--muted); font-size: .8rem; display: block; }
+  form { display: grid; grid-template-columns: 1fr 110px auto; gap: 8px; }
+  input, button { font: inherit; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line);
+                  background: var(--bg); color: var(--ink); min-width: 0; }
+  button { background: var(--accent); color: #fff; border: 0; cursor: pointer; font-weight: 600; }
+  .remove { background: none; color: var(--muted); border: 0; padding: 0; font-size: .8rem;
+            text-decoration: underline; cursor: pointer; }
+  .note { color: var(--muted); font-size: .85rem; margin-top: 8px; }
+  @media (max-width: 480px) { form { grid-template-columns: 1fr 1fr; } form button { grid-column: span 2; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Supermarket Prices</h1>
+  <div class="sub" id="updated">Loading…</div>
+
+  <div class="card">
+    <div class="head"><h2>Track a new item</h2></div>
+    <form id="add">
+      <input id="newName" placeholder="e.g. Snickers 50g" required>
+      <input id="newTarget" type="number" step="0.25" min="0" placeholder="Alert below (SAR)">
+      <button type="submit">Add</button>
+    </form>
+    <div class="note">Opens GitHub with your request filled in. Tap “Submit new issue” and the item appears here within a few minutes.</div>
+  </div>
+
+  <div id="items"></div>
+</main>
+<script>
+const REPO = "yaserhomksa-blip/PriceTracking";
+const STORES = [["danube","Danube"],["tamimi","Tamimi"],["panda","Panda"],
+                ["carrefour","Carrefour"],["lulu","Lulu"],["ninja","Ninja"]];
+const sar = n => n.toFixed(2) + " SAR";
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const issueUrl = (title, body) =>
+  `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body || "")}`;
+
+async function load(path) {
+  try { const r = await fetch(path + "?t=" + Date.now()); return r.ok ? r.json() : null; }
+  catch (e) { return null; }
+}
+
+(async () => {
+  const [items, prices, history] = await Promise.all(
+    [load("items.json"), load("data/prices.json"), load("data/history.json")]);
+  const upd = document.getElementById("updated");
+  if (prices && prices.updated) {
+    const d = new Date(prices.updated);
+    upd.textContent = "Last checked " + d.toLocaleString("en-GB",
+      {weekday:"short", day:"numeric", month:"short", hour:"2-digit", minute:"2-digit", timeZone:"Asia/Riyadh"})
+      + " · checks every morning";
+  } else upd.textContent = "First check is running. Refresh in a few minutes.";
+
+  const box = document.getElementById("items");
+  for (const item of (items || [])) {
+    const row = (prices && prices.items && prices.items[item.name]) || {};
+    const hist = (history && history[item.name]) || {};
+    let best = null;
+    const rows = STORES.map(([id, label]) => {
+      const r = row[id];
+      const h = Object.values(hist[id] || {});
+      const low = h.length > 1 ? Math.min(...h) : null;
+      let price = "", info = "", cls = "";
+      if (!r) info = '<span class="tag">Waiting for first check</span>';
+      else if (r.status === "app_only") info = '<span class="tag">App only, can’t be checked online</span>';
+      else if (r.status === "unreachable") info = '<span class="tag">Website didn’t respond</span>';
+      else if (r.status === "not_found") info = '<span class="tag">Not found</span>';
+      else {
+        price = sar(r.price) + (r.old_price ? `<span class="old">${sar(r.old_price)}</span>` : "");
+        const link = r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.product)}</a>` : esc(r.product);
+        info = `<span class="prod">${link}</span>` + (r.status === "out_of_stock" ? '<span class="tag out">Out of stock</span>' : "");
+        if (low !== null) info += `<span class="low">Lowest seen: ${sar(low)}</span>`;
+        if (r.status !== "out_of_stock") {
+          if (item.target && r.price < item.target) cls = "deal";
+          if (!best || r.price < best.price) best = {price: r.price, store: label};
+        }
+      }
+      return `<tr class="${cls}"><td class="store">${label}${info ? "" : ""}</td>
+              <td>${info}</td><td class="price">${price}</td></tr>`;
+    }).join("");
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="head"><h2>${esc(item.name)}</h2>
+        <span class="target">${item.target ? "Alert below " + sar(item.target) : ""}</span></div>
+      <div class="best">${best ? `Cheapest now: <b>${sar(best.price)}</b> at ${best.store}` +
+          (item.target && best.price < item.target ? " 🎉 below your target" : "") : "No prices yet"}</div>
+      <table>${rows}</table>
+      <div class="note"><button class="remove" data-name="${esc(item.name)}">Stop tracking this item</button></div>`;
+    box.appendChild(card);
+  }
+  box.addEventListener("click", e => {
+    const b = e.target.closest(".remove");
+    if (b) window.open(issueUrl("Remove: " + b.dataset.name), "_blank");
+  });
+})();
+
+document.getElementById("add").addEventListener("submit", e => {
+  e.preventDefault();
+  const name = document.getElementById("newName").value.trim();
+  const t = document.getElementById("newTarget").value;
+  if (!name) return;
+  window.open(issueUrl("Add: " + name, t ? "target: " + t : ""), "_blank");
+});
+</script>
+</body>
+</html>

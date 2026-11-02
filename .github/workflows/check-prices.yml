@@ -1,0 +1,44 @@
+name: Check prices
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 6:17 am Riyadh time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scraper/**"
+      - "stores.json"
+      - "items.json"
+      - ".github/workflows/check-prices.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install browser
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+      - name: Check prices
+        run: python scraper/scrape.py
+      - name: Save results
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Daily prices $(date -u +%F)"
+          git pull --rebase origin main
+          git push
