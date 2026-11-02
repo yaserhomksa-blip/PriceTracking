@@ -38,7 +38,9 @@ jobs:
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
+          mkdir -p /tmp/out && cp -r data /tmp/out/
+          git fetch origin main && git reset -q --hard origin/main
+          rm -rf data && cp -r /tmp/out/data data
           git add data
           git diff --cached --quiet || git commit -m "Daily prices $(date -u +%F)"
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main

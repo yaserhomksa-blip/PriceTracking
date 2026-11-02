@@ -45,10 +45,13 @@ jobs:
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
+          mkdir -p /tmp/out && cp -r data items.json /tmp/out/ 2>/dev/null || true
+          git fetch origin main && git reset -q --hard origin/main
+          rm -rf data && cp -r /tmp/out/data data 2>/dev/null || true
+          cp /tmp/out/items.json items.json
           git add items.json data
           git diff --cached --quiet || git commit -m "Item update: $ITEM_NAME [skip ci]"
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main
       - name: Close the request
         env:
           GH_TOKEN: ${{ github.token }}
