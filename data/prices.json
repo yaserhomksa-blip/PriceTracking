@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T13:03+03:00",
+  "updated": "2026-11-02T13:08+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -15,7 +15,11 @@
         "status": "unreachable"
       },
       "lulu": {
-        "status": "not_found"
+        "status": "found",
+        "price": 14.35,
+        "old_price": null,
+        "product": "Ocean Spray No Added Sugar Cranberry Drink 1 Litre",
+        "url": "https://gcc.luluhypermarket.com/en-sa/ocean-spray-no-added-sugar-cranberry-drink-1-litre/p/20726/"
       },
       "ninja": {
         "status": "app_only"
