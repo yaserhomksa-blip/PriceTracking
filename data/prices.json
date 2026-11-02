@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T12:57+03:00",
+  "updated": "2026-11-02T12:59+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -15,7 +15,7 @@
         "status": "unreachable"
       },
       "lulu": {
-        "status": "unreachable"
+        "status": "not_found"
       },
       "ninja": {
         "status": "app_only"
