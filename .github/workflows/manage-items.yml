@@ -42,13 +42,31 @@ jobs:
       - name: Save
         env:
           ITEM_NAME: ${{ steps.items.outputs.name }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
-          mkdir -p /tmp/out && cp -r data items.json /tmp/out/ 2>/dev/null || true
+          mkdir -p /tmp/out && cp data/prices.json /tmp/out/prices.json 2>/dev/null || true
+          # start again from the latest saved version, so nothing else gets overwritten
           git fetch origin main && git reset -q --hard origin/main
-          rm -rf data && cp -r /tmp/out/data data 2>/dev/null || true
-          cp /tmp/out/items.json items.json
+          python scraper/manage_items.py
+          # copy over only the new item's prices
+          python - <<'PY'
+          import json, os, pathlib
+          name = os.environ["ITEM_NAME"]
+          src = pathlib.Path("/tmp/out/prices.json")
+          dst = pathlib.Path("data/prices.json")
+          cur = json.loads(dst.read_text(encoding="utf-8")) if dst.exists() else {"items": {}}
+          if src.exists():
+              new = json.loads(src.read_text(encoding="utf-8")).get("items", {})
+              if name in new:
+                  cur.setdefault("items", {})[name] = new[name]
+          names = {i["name"] for i in json.loads(pathlib.Path("items.json").read_text(encoding="utf-8"))}
+          cur["items"] = {k: v for k, v in cur.get("items", {}).items() if k in names}
+          dst.parent.mkdir(exist_ok=True)
+          dst.write_text(json.dumps(cur, ensure_ascii=False, indent=2), encoding="utf-8")
+          PY
           git add items.json data
           git diff --cached --quiet || git commit -m "Item update: $ITEM_NAME [skip ci]"
           git push origin HEAD:main

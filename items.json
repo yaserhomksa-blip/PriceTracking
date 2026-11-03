@@ -31,7 +31,15 @@
         "1 lt"
       ]
     ],
-    "target": 15
+    "target": 15,
+    "pages": {
+      "danube": "https://danube.sa/en/products/ocean-spray-cranberry-mixed-fruit-drink-no-sugar-added-1l"
+    },
+    "extra_searches": [
+      "ocean spray no sugar",
+      "ocean spray",
+      "cranberry no sugar"
+    ]
   },
   {
     "name": "Dari Frozen Raspberry 350g",
