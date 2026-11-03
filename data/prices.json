@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-03T06:58+03:00",
+  "updated": "2026-11-03T10:55+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
-        "status": "not_found"
+        "status": "found",
+        "price": 18.5,
+        "old_price": null,
+        "product": "Ocean Spray Cranberry Mixed Fruit Drink No Sugar Added 1L",
+        "url": "https://danube.sa/en/products/ocean-spray-cranberry-mixed-fruit-drink-no-sugar-added-1l"
       },
       "tamimi": {
         "status": "not_found"
