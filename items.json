@@ -60,5 +60,30 @@
       "carrefour": "https://www.carrefourksa.com/mafsau/en/frozen-fruits/dari-rasberry-350g/p/644122",
       "tamimi": "https://shop.tamimimarkets.com/en/product/raspberry-26"
     }
+  },
+  {
+    "name": "Goody Natural Peanut Butter No Sugar",
+    "search": "goody peanut butter",
+    "extra_searches": [
+      "goody natural peanut butter",
+      "goody peanut butter no sugar"
+    ],
+    "require": [
+      [
+        "goody"
+      ],
+      [
+        "peanut butter"
+      ],
+      [
+        "no sugar",
+        "no added sugar",
+        "sugar free",
+        "zero sugar",
+        "sugar-free",
+        "unsweetened",
+        "natural"
+      ]
+    ]
   }
 ]
