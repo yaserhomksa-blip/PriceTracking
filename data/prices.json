@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:59+03:00",
+  "updated": "2026-11-05T07:00+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -20,7 +20,7 @@
       },
       "lulu": {
         "status": "found",
-        "price": 13.35,
+        "price": 12.95,
         "old_price": null,
         "product": "Ocean Spray No Added Sugar Cranberry Drink 1 Litre",
         "url": "https://gcc.luluhypermarket.com/en-sa/ocean-spray-no-added-sugar-cranberry-drink-1-litre/p/20726/"
@@ -55,7 +55,7 @@
         "price": 25.7,
         "old_price": null,
         "product": "Dari Frozen Raspberry 350 g",
-        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223/"
+        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223"
       },
       "ninja": {
         "status": "not_found"
