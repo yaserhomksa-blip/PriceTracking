@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T07:00+03:00",
+  "updated": "2026-11-05T14:31+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -61,13 +61,9 @@
         "status": "not_found"
       }
     },
-    "Goody natural peanut butter no sugar": {
+    "Goody Melty Peanut Butter No Sugar Added 454g": {
       "danube": {
-        "status": "found",
-        "price": 46.5,
-        "old_price": null,
-        "product": "Goody Natural Peanut Butter With No Added Sugar 2*340 g",
-        "url": null
+        "status": "not_found"
       },
       "tamimi": {
         "status": "found",
@@ -87,7 +83,11 @@
         "status": "unreachable"
       },
       "lulu": {
-        "status": "not_found"
+        "status": "found",
+        "price": 28.8,
+        "old_price": null,
+        "product": "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
+        "url": "https://gcc.luluhypermarket.com/en-sa/goody-no-added-sugar-melty-peanut-butter-spread-454-g/p/2642765/"
       },
       "ninja": {
         "status": "not_found"
