@@ -62,18 +62,19 @@
     }
   },
   {
-    "name": "Goody Natural Peanut Butter No Sugar",
+    "name": "Goody Melty Peanut Butter No Sugar Added 454g",
     "search": "goody peanut butter",
     "extra_searches": [
-      "goody natural peanut butter",
-      "goody peanut butter no sugar"
+      "goody melty peanut butter",
+      "goody peanut butter no sugar",
+      "goody peanut"
     ],
     "require": [
       [
         "goody"
       ],
       [
-        "peanut butter"
+        "peanut"
       ],
       [
         "no sugar",
@@ -81,9 +82,19 @@
         "sugar free",
         "zero sugar",
         "sugar-free",
-        "unsweetened",
-        "natural"
+        "no sugar added"
+      ],
+      [
+        "454g",
+        "454 g",
+        "454gm",
+        "454 gm",
+        "454 gr",
+        "454gr",
+        "454 grams",
+        "454"
       ]
-    ]
+    ],
+    "target": 15
   }
 ]
