@@ -96,5 +96,29 @@
       ]
     ],
     "target": 15
+  },
+  {
+    "name": "Goody natural peanut butter no sugar",
+    "search": "Goody natural peanut butter no sugar",
+    "require": [
+      [
+        "goody"
+      ],
+      [
+        "natural"
+      ],
+      [
+        "peanut"
+      ],
+      [
+        "butter"
+      ],
+      [
+        "no"
+      ],
+      [
+        "sugar"
+      ]
+    ]
   }
 ]
