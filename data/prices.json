@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T14:31+03:00",
+  "updated": "2026-11-06T07:05+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -55,7 +55,7 @@
         "price": 25.7,
         "old_price": null,
         "product": "Dari Frozen Raspberry 350 g",
-        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223"
+        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223/"
       },
       "ninja": {
         "status": "not_found"
@@ -88,6 +88,38 @@
         "old_price": null,
         "product": "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
         "url": "https://gcc.luluhypermarket.com/en-sa/goody-no-added-sugar-melty-peanut-butter-spread-454-g/p/2642765/"
+      },
+      "ninja": {
+        "status": "not_found"
+      }
+    },
+    "Goody natural peanut butter no sugar": {
+      "danube": {
+        "status": "found",
+        "price": 46.5,
+        "old_price": null,
+        "product": "Goody Natural Peanut Butter With No Added Sugar 2*340 g",
+        "url": null
+      },
+      "tamimi": {
+        "status": "found",
+        "price": 20.99,
+        "old_price": null,
+        "product": "Goody Natural Peanut Butter No Sugar-454g",
+        "url": "https://shop.tamimimarkets.com/product/natural-peanut-butter-no-sugar"
+      },
+      "panda": {
+        "status": "found",
+        "price": 33.99,
+        "old_price": null,
+        "product": "Goody Natural Peanut Butter No Sugar Added 454g",
+        "url": null
+      },
+      "carrefour": {
+        "status": "unreachable"
+      },
+      "lulu": {
+        "status": "not_found"
       },
       "ninja": {
         "status": "not_found"
