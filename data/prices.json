@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:58+03:00",
+  "updated": "2026-11-09T07:02+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -23,7 +23,7 @@
         "price": 12.95,
         "old_price": null,
         "product": "Ocean Spray No Added Sugar Cranberry Drink 1 Litre",
-        "url": "https://gcc.luluhypermarket.com/en-sa/ocean-spray-no-added-sugar-cranberry-drink-1-litre/p/20726/"
+        "url": null
       },
       "ninja": {
         "status": "not_found"
@@ -87,7 +87,7 @@
         "price": 28.8,
         "old_price": null,
         "product": "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
-        "url": "https://gcc.luluhypermarket.com/en-sa/goody-no-added-sugar-melty-peanut-butter-spread-454-g/p/2642765/"
+        "url": null
       },
       "ninja": {
         "status": "not_found"
