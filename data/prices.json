@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:59+03:00",
+  "updated": "2026-11-14T06:58+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -55,7 +55,7 @@
         "price": 25.7,
         "old_price": null,
         "product": "Dari Frozen Raspberry 350 g",
-        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223/"
+        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223"
       },
       "ninja": {
         "status": "not_found"
@@ -87,7 +87,7 @@
         "price": 28.8,
         "old_price": null,
         "product": "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
-        "url": "https://gcc.luluhypermarket.com/en-sa/goody-no-added-sugar-melty-peanut-butter-spread-454-g/p/2642765/"
+        "url": null
       },
       "ninja": {
         "status": "not_found"
@@ -119,7 +119,7 @@
         "status": "unreachable"
       },
       "lulu": {
-        "status": "unreachable"
+        "status": "not_found"
       },
       "ninja": {
         "status": "not_found"
