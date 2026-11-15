@@ -14,12 +14,12 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Ocean Spray Cranberry Mixed Fruit Drink No Sugar Added 1L  18.50 19 pts Quantity Add To Cart Ocean Spray Zero Sugar Cranberry Juice Drink is made with real fruit juice, delivering the crisp, refreshing taste of cranberries with no added ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794628716518",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=664798cb-b3cf-401c-9118-88c1a27b068b",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794715143063",
           "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794628716560",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=7a00766f-2657-459b-a2e0-298b9f4a89d0",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2684&s=0&ref=https://danube.sa/en/products/ocean-spra",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=8fd2c451d2b5cdac"
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794715143124",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=bbbc6d6ad6287526",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1780&s=0&ref=https://danube.sa/en/products/ocean-spra"
         ],
         "products_seen": 1
       }
@@ -37,8 +37,8 @@
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
           "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
         ],
@@ -156,9 +156,9 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/announcement",
           "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
-          "https://shop.tamimimarkets.com/api/announcement",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20cranberry&page=2&orderType="
         ],
@@ -276,10 +276,10 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
+          "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=2&orderType=",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=3&orderType=",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=4&orderType="
@@ -317,10 +317,10 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/organization",
-          "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/announcement",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=2&orderType=",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=3&orderType=",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray%20no%20sugar&page=4&orderType="
@@ -358,8 +358,8 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray&page=2&orderType="
@@ -450,8 +450,8 @@
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
           "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/nav",
+          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=ocean%20spray&page=2&orderType="
         ],
@@ -540,8 +540,8 @@
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/announcement",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=cranberry%20no%20sugar&page=2&orderType="
@@ -580,8 +580,8 @@
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
           "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=cranberry%20no%20sugar&page=2&orderType="
         ],
@@ -711,10 +711,10 @@
         "title": "Shop Ocean spray cranberry Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray cranberry Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Oce",
         "json_urls": [
-          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
@@ -747,21 +747,20 @@
         "title": "Shop Ocean spray no sugar Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray no sugar Search Results: \"Ocean spray no sugar\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 11% Off 1 kg Al Osra Brown Sugar Fine 1kg Su",
         "json_urls": [
-          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
-        "products_seen": 63,
+        "products_seen": 62,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
           "100 Pieces",
           "11% Off",
           "31% Off",
-          "33% Off",
           "36% Off",
           "42% Off",
           "43% Off",
@@ -772,7 +771,8 @@
           "Al Osra Brown Sugar Fine 1kg",
           "Al Osra Brown Sugar Fine 500g",
           "Al Osra Brown Sugar Sachets 500g",
-          "Al Osra Natural Brown Sugar 2kg"
+          "Al Osra Natural Brown Sugar 2kg",
+          "Any 2 For 25 SR"
         ]
       },
       {
@@ -783,8 +783,8 @@
         "title": "Shop Ocean spray Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray Search Results: \"Ocean spray\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Ocean Breeze 450ml Clea",
         "json_urls": [
-          "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
@@ -819,10 +819,10 @@
         "title": "Shop Cranberry no sugar Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Cranberry no sugar Search Results: \"Cranberry no sugar\" 31 Products Found 11% Off 1 kg Al Osra Brown Sugar Fine 1kg Sugar & Sweeteners 11 9.75 1 500 gm Al Osra Icing Sugar 500G Sugar & Sweeten",
         "json_urls": [
-          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
@@ -873,11 +873,11 @@
         "title": "Shop Ocean spray cranberry Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray cranberry Search Results: \"Ocean spray cranberry\" 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 450 mL Jif Hygienic Foam Kitchen Spray Oce",
         "json_urls": [
-          "https://panda.sa/api/interactions",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
-          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus",
+          "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right"
         ],
         "all_products": [],
@@ -966,18 +966,60 @@
         "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry",
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry",
-        "title": "ocean spray cranberry | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (79) Men's Anti-Perspirant (73) Anti-Perspirant (62) Aerosols (49) Hair Cream (47) View All Brand ABC (1) Adidas (8) Adriana (1",
+        "title": "Attention Required! | Cloudflare",
+        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
         "json_urls": [
-          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa"
+        ],
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
+        "matches": 0,
+        "sample_names": []
+      },
+      {
+        "mode": "url",
+        "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+no+sugar",
+        "status": 200,
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+no+sugar",
+        "title": "ocean spray | LuLu KSA",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (82) Men's Anti-Perspirant (74) Anti-Perspirant (70) Eau de Parfum (62) Aerosols (55) View All Brand ABC (1) Adidas (7) Adriana",
+        "json_urls": [
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/auth/session",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/client/list/?search_text=ocean+spray+no+sugar&page_size=20",
           "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17946291"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17947155"
         ],
         "all_products": [
+          [
+            "Ocean Spray Cranberry Classic Juice Drink 1 Litre",
+            13.9
+          ],
+          [
+            "Ocean Spray Cranberry & Cherry Juice Drink 1.89 Litres",
+            36.0
+          ],
+          [
+            "Ocean Spray Light Cranberry Juice Drink With 2 Other Juices 1.89 Litres",
+            44.25
+          ],
+          [
+            "Ocean Spray Cranberry & Raspberry Juice Drink 1.89 Litres",
+            36.0
+          ],
+          [
+            "Ocean Spray Diet Cranberry Juice Drink 1.89 Litres",
+            44.25
+          ],
+          [
+            "Ocean Spray Sparkling Cranberry Drink 340 ml",
+            8.2
+          ],
           [
             "Ocean Spray",
             13.9
@@ -991,8 +1033,58 @@
             1.89
           ],
           [
+            "Ocean Spray",
+            8.2
+          ],
+          [
+            "Ocean Spray Sparkling Cranberry Drink 340 ml",
+            8.2
+          ]
+        ],
+        "products_seen": 52,
+        "relevant": 11,
+        "matches": 0,
+        "sample_names": [
+          "Ocean Spray",
+          "Ocean Spray Cranberry & Cherry Juice Drink 1.89 Litres",
+          "Ocean Spray Cranberry & Raspberry Juice Drink 1.89 Litres",
+          "Ocean Spray Cranberry Classic Juice Drink 1 Litre",
+          "Ocean Spray Diet Cranberry Juice Drink 1.89 Litres",
+          "Ocean Spray Light Cranberry Juice Drink With 2 Other Juices 1.89 Litres",
+          "Ocean Spray Sparkling Cranberry Drink 340 ml"
+        ]
+      },
+      {
+        "mode": "url",
+        "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray",
+        "status": 200,
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray",
+        "title": "ocean spray | LuLu KSA",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (78) Men's Anti-Perspirant (73) Anti-Perspirant (61) Aerosols (50) Hair Cream (47) View All Brand ABC (1) Adidas (8) Adriana (1",
+        "json_urls": [
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
+          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17947156"
+        ],
+        "all_products": [
+          [
+            "Ocean Spray",
+            13.9
+          ],
+          [
+            "Ocean Spray Cranberry Classic Juice Drink 1 Litre",
+            13.9
+          ],
+          [
             "Ocean Spray No Added Sugar Cranberry Drink 1 Litre",
             13.9
+          ],
+          [
+            "Ocean Spray",
+            1.89
           ]
         ],
         "products_seen": 29,
@@ -1012,22 +1104,22 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+cranberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Minerals Fabric Softener Anti static - starch Dried Fruits Eyeshadow Foundation Highlighter Mixed Nuts Healthy Juices Spary Sun Care Face Eyes Makeup Reed diffusers Card Games Kids Perfumes Water Flask Colored Pencils Fix Plus Color Mark",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Dried Fruits Eyeshadow Foundation Highlighter Face Eyes Makeup Reed diffusers Fix Plus Water Flask Colored Pencils Color Markers Hair Mist Car Care Car Fresheners Best Offers Hair Care Cleaning and Laundry Household & Gathering Essential",
         "json_urls": [
-          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=506951336&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=765758655&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629184473&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794715635180&dep=2%2CPAGE_LOAD",
+          "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A06%3A25.330Z%2B0300&sent_at=2026-11-14T07%3A06%3A27."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A07%3A16.749Z%2B0300&sent_at=2026-11-15T07%3A07%3A18."
         ],
         "all_products": [],
-        "products_seen": 209,
+        "products_seen": 211,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -1054,19 +1146,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Minerals Size 5 Croissant Fabric Softener Anti static - starch Dried Fruits Brow Pencil Eyeshadow Foundation Blusher & Bronzer Highlighter Lipstick Tint Plumpers Nails Polish Coffee Beans Blend Body Scrub Specialty Coffee Healthy Bakery ",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Fix Plus Plumpers Specialty Espresso Candles Car Care Car Fresheners AXIS-Y Card Games Kids Perfumes Roasting House Best Offers Water Flask Colored Pencils Nasal Care Pre-Workout & Energy Color Markers Mega Saving Packs Party Supplies Br",
         "json_urls": [
-          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=361369760&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=707474751&appName=ninja-website&environment=default",
-          "https://graphql.ananinja.com/graphql",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629210319&dep=2%2CPAGE_LOAD",
-          "https://graphql.ananinja.com/graphql",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794715661699&dep=2%2CPAGE_LOAD",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A06%3A51.963Z%2B0300&sent_at=2026-11-14T07%3A06%3A53."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A07%3A43.054Z%2B0300&sent_at=2026-11-15T07%3A07%3A45."
         ],
         "all_products": [],
         "products_seen": 300,
@@ -1075,19 +1167,19 @@
         "sample_names": [
           "6X Spray Perfume London",
           "6X Spray Perfume Vienna",
+          "ALALALI Pasta Cuts No.105 450 gm",
           "AXIS-Y Physical Sunscreen Renewal Complete No-Stress 50 ml",
           "Al Bustan Egyptian Seeds No Salt 24 pcs 15 gm",
           "Al Bustan Egyptian Seeds No Salt 30 pcs 30 gm",
           "Al Bustan Egyptian Seeds No Salt 55 pcs 8 gm",
           "Al Bustan Premium Mix Nuts No Salt 210 gm",
           "Al Bustan Premium Mix Nuts No Salt 410 gm",
+          "Al Nahla White Sugar 100 Sticks 500 gm",
           "AlKhair Karak Tea Coffee Sugar Free 12 Saches",
           "Albayt White Fine Sugar 1 kg",
           "Alkhair Sugar 100 Envelop",
           "All Health Kids Sunscreen Spray 50+ SPF 200ml",
-          "Almarai Juice Apple No Added Sugar 200 ml",
-          "Almarai Juice Apple No Added Sugar 300 ml",
-          "Almarai Juice Apple Premium No Added Sugar 1.4 L"
+          "Almarai Berry & Mix Fruits Nectar No Added Sugar 200 ml"
         ]
       },
       {
@@ -1096,22 +1188,22 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Clothes Fresheners Party Supplies Assorted Cleaning Antiseptics & Sanitizers Sun Tan Edit.b Hot Offers Irons & Steamers Best Offers Topical Treatments Layala Lenses Detergents & Cleaning Makeup Lenses Hair Care Skin Care Personal Care Cl",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Intimate Care & Hygiene Hair Colorant Juices Single Pack Cleansers Butter Condoms Topping & Filling Breath Fresheners Premium Deodorant Topping & Filling Assorted Cleansers Topical back pain Immunity & Vitamin C Sun Care Spary Minerals F",
         "json_urls": [
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=920671944&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=650822685&appName=ninja-website&environment=default",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629235110&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794715686403&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A07%3A16.051Z%2B0300&sent_at=2026-11-14T07%3A07%3A18."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A08%3A07.465Z%2B0300&sent_at=2026-11-15T07%3A08%3A09."
         ],
         "all_products": [],
-        "products_seen": 169,
+        "products_seen": 170,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -1138,25 +1230,26 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=cranberry+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Minerals Size 2 Size 5 Croissant Dried Fruits Brow Pencil Eyeshadow Eyeliner Foundation Blusher & Bronzer Lipstick Tint Gloss Plumpers Nails Polish Coffee Beans Blend Body Scrub Specialty Coffee Healthy Bakery Mixed Nuts Karak Tea Health",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Face Eyes Lips Brows Nails Makeup Kitchen Tools Coffee Beans Blend Dried Fruits Brow Pencil Eyeshadow Eyeliner Foundation Blusher & Bronzer Lipstick Tint Gloss Nails Polish Body Scrub Specialty Coffee Healthy Bakery Candles Crackers AXIS",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://api64.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=115941006&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=817504309&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629260845&dep=2%2CPAGE_LOAD",
-          "https://app.adjust.com/session",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794715711732&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A07%3A42.082Z%2B0300&sent_at=2026-11-14T07%3A07%3A44."
+          "https://app.adjust.com/session",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A08%3A33.418Z%2B0300&sent_at=2026-11-15T07%3A08%3A35."
         ],
         "all_products": [],
         "products_seen": 300,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
+          "ALALALI Pasta Cuts No.105 450 gm",
           "AXIS-Y Physical Sunscreen Renewal Complete No-Stress 50 ml",
           "Al Bustan Egyptian Seeds No Salt 24 pcs 15 gm",
           "Al Bustan Egyptian Seeds No Salt 30 pcs 30 gm",
@@ -1166,12 +1259,11 @@
           "Al Hatab Maamoul Whole Wheat Large Sugar Free Box 550 gm",
           "Al Hatab Rusk Sticks Whole Wheat Bran Sugar Free 300 gm",
           "Al Hatab Rusk Yellow Sugar Free Box 230 gm",
+          "Al Nahla White Sugar 100 Sticks 500 gm",
           "AlKhair Karak Tea Coffee Sugar Free 12 Saches",
           "Albayt White Fine Sugar 1 kg",
           "Alkhair Sugar 100 Envelop",
-          "Almarai Juice Apple No Added Sugar 200 ml",
-          "Almarai Juice Apple No Added Sugar 300 ml",
-          "Almarai Juice Apple Premium No Added Sugar 1.4 L"
+          "Almarai Berry & Mix Fruits Nectar No Added Sugar 200 ml"
         ]
       },
       {
@@ -1188,25 +1280,52 @@
             true
           ]
         ],
-        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
+        "final_url": "https://ananinja.com/sa/en/product/search?q=ocean%20spray%20cranberry",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Dried Fruits Eyeshadow Foundation Highlighter Face Eyes Makeup Reed diffusers Hair Mist Car Care Car Fresheners Card Games Kids Perfumes Best Offers Water Flask Colored Pencils Color Markers Fix Plus Nasal Care Clothes Fresheners Flavore",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://api64.ipify.org/?format=json",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=844079588&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=237024006&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629284845&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794715734840&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A08%3A05.898Z%2B0300&sent_at=2026-11-14T07%3A08%3A07."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A08%3A56.122Z%2B0300&sent_at=2026-11-15T07%3A08%3A58.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=237024006&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU5qTTROR1JqTkRndE0yWmxZUzAwWWpNekxUZzBaV0V0WmpCbE1XUXpPRFl3WWpNMw%22%7D&cb=179",
+          "https://graphql.ananinja.com/graphql"
         ],
         "all_products": [],
-        "products_seen": 0,
+        "products_seen": 211,
         "relevant": 0,
         "matches": 0,
-        "sample_names": []
+        "sample_names": [
+          "6X Spray Perfume London",
+          "6X Spray Perfume Vienna",
+          "Afle Daily Contact Lenses Ocean 2 Pcs",
+          "Air Wick Autospray Refill Sparkling Citrus Fragrance 250 ml 3 pcs",
+          "All Health Kids Sunscreen Spray 50+ SPF 200ml",
+          "Almehbaj Dried Cranberry 200 gm",
+          "Almehbaj Tropical Fruits 200 gm",
+          "Alrifai Dried Fruit Apricot 250 gm",
+          "Alrifai Dried Fruit Berry Tropical 60 gm",
+          "Alrifai Dried Fruit Figs 250 gm",
+          "Armaf Club De Nuit Body Spray For Women 200 ml",
+          "Aroma Spray Earth 50 ml",
+          "Asmaco Foaming Spray Ac Cleaner 2 In 1 Cleans And Disinfects",
+          "Avalon Active Muscle Pain Relief Cold Spray 118 ml",
+          "Axe Men Deodorant Body Spray for long lasting odour protection Black Night 150ml"
+        ]
       }
     ]
   },
@@ -1225,12 +1344,12 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Dari Frozen Raspberry 350g  32.50 33 pts Quantity Add To Cart With Dari Frozen Raspberry, you can shop for Raspberry anytime of the year despite the season. It is packed in such a way that the nutrient value is not altered. RATING No re",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794629325224",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=8e17c50d-3896-4cd0-bf6b-d590688fba59",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794715779142",
           "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794629325394",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=1acc0e32-e450-405e-ab4b-5571e8c4fd96",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=3288&s=0&ref=https://danube.sa/en/products/rz-byry-tw",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=540dbe90f2e2401f"
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1794715779273",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1697&s=0&ref=https://danube.sa/en/products/rz-byry-tw",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=fbdafa75c504d209"
         ],
         "products_seen": 1
       }
@@ -1249,8 +1368,8 @@
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
           "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category"
         ],
         "products_seen": 0
@@ -1267,8 +1386,8 @@
           "https://sessions.bugsnag.com/",
           "https://sessions.bugsnag.com/",
           "https://shop.tamimimarkets.com/api/announcement",
-          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/organization",
+          "https://shop.tamimimarkets.com/api/nav",
           "https://shop.tamimimarkets.com/api/category",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=dari%20raspberry&page=2&orderType="
         ],
@@ -1332,8 +1451,8 @@
         "json_urls": [
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cheart-outline%2Cminus%2Cplus",
           "https://api.iconify.design/ic.json?icons=round-arrow-drop-down"
         ],
@@ -1456,12 +1575,11 @@
         "json_urls": [
           "https://panda.sa/api/interactions",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
-          "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cheart-outline%2Cminus%2Cplus",
           "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
-          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
-          "https://api.iconify.design/mdi.json?icons=chevron-down"
+          "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right"
         ],
         "all_products": [
           [
@@ -1600,15 +1718,18 @@
         "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Home > Grocery > Food Cupboard > Frozen Food > Fruits & Vegetables Dari Dari Frozen Raspberry 350 g 25.70 ( Inclusive of VAT ) ADD TO CART Product Highlights Specificati",
         "json_urls": [
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://gcc.luluhypermarket.com/api/auth/session",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
+          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
+          "https://availability.loadbee.com/v3/EAN/6281051007345/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration=v2026-06-02&payload=eyJyZWYiO",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review/?sku=1710223&status=approved&limit=2",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://media.flixcar.com/modular/web-api/d2/14565/6281051007345Z2NjLmx1bHVoeXBlcm1hcmtldC5jb20/t.json?mpn=&ean=6281051007345&distId=14565&iso=d2&flIso=",
-          "https://availability.loadbee.com/v3/EAN/6281051007345/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration=v2026-06-02&payload=eyJyZWYiO",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17946295"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17947159"
         ],
         "products_seen": 1
       }
@@ -1620,19 +1741,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=dari+raspberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Fresh Juices Family Pack Soft Drinks Single Pack Fresh Juices Single Pack Energy Drinks Single Pack Malt Drinks Single Pack Soft Drinks Family Pack Fresh Juice Family Pack Ice Cream Sticks Ice Cream Bars Cups & Tubs Family Packs Ice Crea",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Beverages Cheese & Milk Chocolate & Candy Frozen Food Hair & Skin Care Personal Care Sweets & Specialty Coffee Yoghurt & Fresh Milk Baby Food & Cereals Candies Chocolate Bars Chocolate & Candies Hair Care Skin Care Personal Care Malt Dri",
         "json_urls": [
-          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=102910321&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=359178634&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629561077&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716010841&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A12%3A42.116Z%2B0300&sent_at=2026-11-14T07%3A12%3A44."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A13%3A32.058Z%2B0300&sent_at=2026-11-15T07%3A13%3A34."
         ],
         "all_products": [
           [
@@ -1660,20 +1781,12 @@
             20.95
           ],
           [
-            "Dari Very Berry Mix 350 gm",
-            23.95
-          ],
-          [
             "Dari Low Fat Halloumi Cheese 200 gm",
             18.95
           ],
           [
-            "Dari Molokhia 400 gm",
-            7.25
-          ],
-          [
-            "Dari Full Fat Halloumi Cheese 200 gm",
-            18.95
+            "Dari Very Berry Mix 350 gm",
+            23.95
           ],
           [
             "Dari Original Potato Fries Frozen 1 kg",
@@ -1684,11 +1797,19 @@
             36.95
           ],
           [
+            "Dari Full Fat Halloumi Cheese 200 gm",
+            18.95
+          ],
+          [
+            "Dari Molokhia 400 gm",
+            7.25
+          ],
+          [
             "Dari Mayonnaise 300 ml",
             12.95
           ]
         ],
-        "products_seen": 87,
+        "products_seen": 88,
         "relevant": 13,
         "matches": 0,
         "sample_names": [
@@ -1721,25 +1842,103 @@
             true
           ]
         ],
-        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
+        "final_url": "https://ananinja.com/sa/en/product/search?q=dari%20raspberry",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Beverages Cheese & Milk Chocolate & Candy Frozen Food Hair & Skin Care Personal Care Sweets & Specialty Coffee Yoghurt & Fresh Milk Baby Food & Cereals Candies Chocolate Bars Chocolate & Candies Hair Care Skin Care Personal Care Malt Dri",
         "json_urls": [
-          "https://graphql.ananinja.com/graphql",
-          "https://api64.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=869216965&appName=ninja-website&environment=default",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=135244913&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629585615&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716034689&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A13%3A06.940Z%2B0300&sent_at=2026-11-14T07%3A13%3A08."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A13%3A56.050Z%2B0300&sent_at=2026-11-15T07%3A13%3A58.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=135244913&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://api64.ipify.org/?format=json",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPVlUaGpOR1V4WkdFdFlqQmlNaTAwTVRJd0xUa3pOekV0WXpNd05EWXpaR1kyTldRdw%22%7D&cb=179",
+          "https://graphql.ananinja.com/graphql"
         ],
-        "all_products": [],
-        "products_seen": 0,
-        "relevant": 0,
+        "all_products": [
+          [
+            "Dari Strawberry 1 kg",
+            15.95
+          ],
+          [
+            "Dari BlueBerry Frozen 350 gm",
+            23.95
+          ],
+          [
+            "Dari Mozarilla Cheese Shreded 180 gr",
+            6.95
+          ],
+          [
+            "Dari Chicken Breast Tenderized 1 kg",
+            22.95
+          ],
+          [
+            "Dari Canned Red Beans Kidney 400 gm",
+            3.95
+          ],
+          [
+            "Dari Whole Chicken Frozen 900 gm",
+            20.95
+          ],
+          [
+            "Dari Low Fat Halloumi Cheese 200 gm",
+            18.95
+          ],
+          [
+            "Dari Very Berry Mix 350 gm",
+            23.95
+          ],
+          [
+            "Dari Original Potato Fries Frozen 1 kg",
+            17.95
+          ],
+          [
+            "Dari Medium Frozen Shrimp 400 gm",
+            36.95
+          ],
+          [
+            "Dari Full Fat Halloumi Cheese 200 gm",
+            18.95
+          ],
+          [
+            "Dari Molokhia 400 gm",
+            7.25
+          ],
+          [
+            "Dari Mayonnaise 300 ml",
+            12.95
+          ]
+        ],
+        "products_seen": 88,
+        "relevant": 13,
         "matches": 0,
-        "sample_names": []
+        "sample_names": [
+          "Dari BlueBerry Frozen 350 gm",
+          "Dari Canned Red Beans Kidney 400 gm",
+          "Dari Chicken Breast Tenderized 1 kg",
+          "Dari Full Fat Halloumi Cheese 200 gm",
+          "Dari Low Fat Halloumi Cheese 200 gm",
+          "Dari Mayonnaise 300 ml",
+          "Dari Medium Frozen Shrimp 400 gm",
+          "Dari Molokhia 400 gm",
+          "Dari Mozarilla Cheese Shreded 180 gr",
+          "Dari Original Potato Fries Frozen 1 kg",
+          "Dari Strawberry 1 kg",
+          "Dari Very Berry Mix 350 gm",
+          "Dari Whole Chicken Frozen 900 gm"
+        ]
       }
     ]
   },
@@ -1751,14 +1950,14 @@
         "status": 200,
         "final_url": "https://www.danube.sa/en/search?query=goody+peanut+butter",
         "title": "Danube - Danube",
-        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (2) Chefz (43) Departments (46) Hungerstation (22) Jahez V2 (43) Mrsool (4) Mrsool V2 (21) Recommended Products (1) Price  0.00 -  10.00  10.00 -  17.00  17.00 -  24.00  24.00 -  31.00  31.0",
+        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (2) Chefz (38) Departments (41) Hungerstation (18) Jahez V2 (38) Mrsool (4) Mrsool V2 (16) Recommended Products (1) Price  0.00 -  10.00  10.00 -  17.00  17.00 -  24.00  24.00 -  31.00  31.0",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=84325f66-e968-4dbd-a783-f393366b09c1",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=daa03976-6a66-4d20-b50b-b444cebc8a98",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
           "https://www.danube.sa/en/store_selector",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=3704&s=0&ref=https://www.danube.sa/en/search&ptid=bd9",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=09cc628c1a014546"
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2490&s=0&ref=https://www.danube.sa/en/search&ptid=a1e",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=c626019330973477"
         ],
         "all_products": [
           [
@@ -1781,11 +1980,11 @@
         "title": "Danube - Danube",
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By Chefz (6) Departments (6) Hungerstation (2) Jahez V2 (6) Mrsool (2) Mrsool V2 (3) Price  0.00 -  16.00  16.00 -  19.00  19.00 -  22.00  22.00 -  25.00  25.00 -  28.00  28.00 or greater SAR to ",
         "json_urls": [
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=009e1caf-9709-42b0-9456-4593e0d793e5",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=9ee1cb28-b88c-4c9a-9a4a-ae6d636e5592",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1991&s=0&ref=https://www.danube.sa/en/search&ptid=959",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=cbf3cac6173070c4",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1572&s=0&ref=https://www.danube.sa/en/search&ptid=fdb",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=ee7b646c5f2e9776",
           "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [],
@@ -1808,12 +2007,12 @@
         "title": "Danube - Danube",
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (8) Brands (1) Chefz (25) Departments (26) Hungerstation (18) Jahez (10) Jahez V2 (25) Mrsool (15) Mrsool V2 (24) Price  0.00 -  1.00  1.00 -  10.00  10.00 -  19.00  19.00 -  28.00  28.00 - ",
         "json_urls": [
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=03672054-422e-46cc-93d4-8619c4918de3",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=8fc22145-a98e-45b1-a009-f7217b5a2b42",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1110&s=0&ref=https://www.danube.sa/en/search&ptid=a1c",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=b363cf4f428e797d",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1893&s=0&ref=https://www.danube.sa/en/search&ptid=404",
-          "https://www.danube.sa/en/store_selector",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=32095666a26c60f9"
+          "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [
           [
@@ -1834,14 +2033,14 @@
         "status": 200,
         "final_url": "https://www.danube.sa/en/search?query=goody+peanut",
         "title": "Danube - Danube",
-        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (2) Chefz (58) Departments (63) Hungerstation (31) Jahez V2 (58) Mrsool (4) Mrsool V2 (25) Recommended Products (2) Price  0.00 -  3.00  3.00 -  11.00  11.00 -  19.00  19.00 -  27.00  27.00 ",
+        "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (2) Chefz (53) Departments (58) Hungerstation (27) Jahez V2 (53) Mrsool (4) Mrsool V2 (20) Recommended Products (2) Price  0.00 -  3.00  3.00 -  11.00  11.00 -  19.00  19.00 -  27.00  27.00 ",
         "json_urls": [
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=61829a9c-3d50-4d9f-b017-db17eba30fa9",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=33d8156e-3ada-4511-876b-e36f71c50dfa",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://www.danube.sa/en/store_selector",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2189&s=0&ref=https://www.danube.sa/en/search&ptid=f96",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=1ae39f6db60332d1"
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1337&s=0&ref=https://www.danube.sa/en/search&ptid=3d2",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=e8227628e7afa805",
+          "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [
           [
@@ -1979,10 +2178,10 @@
         "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=6e99a2dd-05ea-4c5d-ba4c-12904d62a26f",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2701&s=0&ref=https://www.danube.sa/en&ptid=a95ac35397",
-          "https://www.danube.sa/en/store_selector",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=3a001cea39c3f7b7"
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=37afc074-4747-4f67-b5c7-0ebd0dd66b02",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2274&s=0&ref=https://www.danube.sa/en&ptid=2347348f35",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=542b901bc4a6dee5",
+          "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [],
         "products_seen": 0,
@@ -2005,8 +2204,8 @@
           "https://sessions.bugsnag.com/",
           "https://shop.tamimimarkets.com/api/announcement",
           "https://shop.tamimimarkets.com/api/nav",
-          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/category",
+          "https://shop.tamimimarkets.com/api/organization",
           "https://shop.tamimimarkets.com/api/product?facetSort=A-Z&layoutType=GRID&loadMoreType=INFINITE&sorting=POPULARITY&q=goody%20peanut%20butter&page=2&orderType="
         ],
         "all_products": [
@@ -2035,12 +2234,12 @@
             32.95
           ],
           [
-            "Goody Peanut Butter Cinnamon Spread 454g",
-            22.5
-          ],
-          [
             "Goody Natural Peanut Butter Chia & Flaxseed 454g",
             29.95
+          ],
+          [
+            "Goody Peanut Butter Cinnamon Spread 454g",
+            22.5
           ],
           [
             "Goody Chunky Peanut Butter 800g",
@@ -2083,12 +2282,12 @@
             32.95
           ],
           [
-            "Goody Peanut Butter Cinnamon Spread-454g",
-            16.99
-          ],
-          [
             "Goody Natural Peanut Butter Chia & Flaxseed-454g",
             29.95
+          ],
+          [
+            "Goody Peanut Butter Cinnamon Spread-454g",
+            16.99
           ],
           [
             "Goody Chunky Peanut Butter-800g",
@@ -2134,8 +2333,8 @@
         "title": "Shop Goody peanut butter Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Goody peanut butter Search Results: \"Goody peanut butter\" 31 Products Found 39% Off 510 gm Goody Peanut Butter Creamy Jar 510 g Jams & Spreads 22.99 13.99 1 39% Off 510 gm Goody Peanut Butter ",
         "json_urls": [
-          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
@@ -2174,11 +2373,11 @@
             34.99
           ],
           [
-            "Goody Natural Peanut Butter Original 454g",
+            "Goody Natural Chocolate Peanut Butter 454g",
             33.99
           ],
           [
-            "Goody Natural Chocolate Peanut Butter 454g",
+            "Goody Natural Peanut Butter Original 454g",
             33.99
           ],
           [
@@ -2268,15 +2467,16 @@
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=goody+peanut+butter",
         "title": "goody peanut butter | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Peanut Butter (51) Body Cream & Moisturizers (42) Laban (39) Unsalted Butter (30) Cookies (26) View All Brand Act II (1) Activia (8) Afi",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Peanut Butter (53) Body Cream & Moisturizers (42) Laban (42) Unsalted Butter (32) Body Lotion (25) View All Brand Act II (1) Activia (8)",
         "json_urls": [
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://gcc.luluhypermarket.com/api/auth/session",
           "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
-          "https://gcc.luluhypermarket.com/api/client/list/?search_text=goody+peanut+butter&page_size=20",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17946299"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17947164"
         ],
         "all_products": [
           [
@@ -2330,63 +2530,11 @@
           [
             "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
             28.8
-          ],
-          [
-            "Goody Creamy Peanut Butter 510 g",
-            23.65
-          ],
-          [
-            "Goody Chunky Peanut Butter 510 g",
-            23.65
-          ],
-          [
-            "Goody Creamy Peanut Butter 340 g",
-            16.4
-          ],
-          [
-            "Goody Chunky Peanut Butter 340 g",
-            16.4
-          ],
-          [
-            "Goody Creamy Peanut Butter 800 g",
-            32.7
-          ],
-          [
-            "Goody Chunky Peanut Butter 800 g",
-            32.7
-          ],
-          [
-            "Goody Break Original Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Cinnamon Peanut Butter Spread 454 g",
-            23.65
-          ],
-          [
-            "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
-            32.9
-          ],
-          [
-            "Goody Original Melty Peanut Butter Spread 454 g",
-            28.8
-          ],
-          [
-            "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
-            28.8
           ]
         ],
-        "products_seen": 47,
-        "relevant": 26,
-        "matches": 2,
+        "products_seen": 25,
+        "relevant": 13,
+        "matches": 1,
         "sample_names": [
           "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
           "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
@@ -2411,19 +2559,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+peanut+butter",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Croissant Butter Soap Body Scrub Fish & Sea Food Buy Together The Best Seller & Offers Ice Cream Sandwich Organic Dairy Speciality Breakfast Chocolates Grain Bars Microwave Popcorn Butter Ice Cream Sticks Cups & Tubs Family Packs Ice Cre",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Best Offers Best Offers Best Offers Best Offers Hard Candies & Lollipops Personal Care Protein Bars Chips & Puffs Wafers Canned Food Chocolate Oil & Ghee Confectionary Fresh Poultry Ice Cream Toppings & Serving Ghee Sweet Snacks Mayonnai",
         "json_urls": [
-          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=388398356&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=790988431&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794629996235&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716433759&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A19%3A57.104Z%2B0300&sent_at=2026-11-14T07%3A19%3A59."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A20%3A34.903Z%2B0300&sent_at=2026-11-15T07%3A20%3A36."
         ],
         "all_products": [
           [
@@ -2459,10 +2607,6 @@
             14.95
           ],
           [
-            "Goody Lite Mayonnaise 946 ml",
-            27.95
-          ],
-          [
             "Goody Thousand Island Dressing 250 ml",
             9.95
           ],
@@ -2471,19 +2615,15 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
           ],
           [
-            "Goody Pasta Elbow 450gm",
+            "Goody Pasta Fusilli 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
+            "Goody Pasta Elbow 450gm",
             6.95
           ],
           [
@@ -2499,7 +2639,7 @@
             9.95
           ],
           [
-            "Goody Pasta Ditalini Lisce 450 gm",
+            "Goody Chopped Tomatoes 400 gm",
             6.95
           ],
           [
@@ -2507,52 +2647,44 @@
             9.95
           ],
           [
-            "Goody Chopped Tomatoes 400 gm",
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
             6.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
             6.95
           ],
           [
-            "Goody Break Popcorn Pops BBQ Curry 70 gm",
-            9.95
-          ],
-          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
           ],
           [
-            "Goody Pasta Pipe Rings 450 gm",
-            6.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ],
           [
             "Goody Mayonnaise 237 ml",
             14.95
           ],
           [
-            "Goody Whole Black Olive 240gm",
-            9.95
-          ],
-          [
             "Goody Stuffed Green Olive 240gm",
             9.95
           ],
           [
+            "Goody Pasta Pipe Rings 450 gm",
+            6.95
+          ],
+          [
             "Goody Sieved Tomatoes 700 gm",
             15.95
-          ],
-          [
-            "Goody Pasta Penne Lisce 450 gm",
-            6.95
-          ],
-          [
-            "Goody Pasta Conchigli 450gm",
-            6.95
           ],
           [
             "Goody Light Meat Tuna With Chili 185 gm",
@@ -2575,7 +2707,11 @@
             9.95
           ],
           [
-            "Goody Pasta Vermicelli Cut 450gm",
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Conchigli 450gm",
             6.95
           ],
           [
@@ -2583,12 +2719,24 @@
             9.95
           ],
           [
-            "Goody Sliced Green Olive 240gm",
+            "Goody Whole Black Olive 240gm",
             9.95
+          ],
+          [
+            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
+            13.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
+            6.95
+          ],
+          [
+            "Goody Hot Sauce 88 ml",
+            2.95
           ]
         ],
-        "products_seen": 202,
-        "relevant": 64,
+        "products_seen": 201,
+        "relevant": 62,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -2614,19 +2762,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+melty+peanut+butter",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Gathering Sweet Keto Keto Diet Sweets Body Butter Moisturizers Butter Soap Body Scrub Fish & Sea Food New Arrival Melto Baja Flick Salty Snacks & Nuts Baby Toiletries Salty Snacks & Nuts Chocolate& Candies Biscuits & Cake Chocolate & Swe",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Keto Diet Sweets Body Butter Moisturizers New Arrival Melto Baja Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Hair & Skin Care Healthy Snacks & Food Spices & Sauces Sweets & Specialty Coffee Fresh Poultry & Mea",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=754113031&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=972674946&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://api64.ipify.org/?format=json",
           "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794630021525&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716457604&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A20%3A22.179Z%2B0300&sent_at=2026-11-14T07%3A20%3A24."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A20%3A58.500Z%2B0300&sent_at=2026-11-15T07%3A21%3A00."
         ],
         "all_products": [
           [
@@ -2662,10 +2810,6 @@
             14.95
           ],
           [
-            "Goody Lite Mayonnaise 946 ml",
-            27.95
-          ],
-          [
             "Goody Thousand Island Dressing 250 ml",
             9.95
           ],
@@ -2674,19 +2818,15 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
           ],
           [
-            "Goody Pasta Elbow 450gm",
+            "Goody Pasta Fusilli 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
+            "Goody Pasta Elbow 450gm",
             6.95
           ],
           [
@@ -2702,7 +2842,7 @@
             9.95
           ],
           [
-            "Goody Pasta Ditalini Lisce 450 gm",
+            "Goody Chopped Tomatoes 400 gm",
             6.95
           ],
           [
@@ -2710,7 +2850,15 @@
             9.95
           ],
           [
-            "Goody Chopped Tomatoes 400 gm",
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
             6.95
           ],
           [
@@ -2718,44 +2866,28 @@
             6.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
-          ],
-          [
-            "Goody Break Popcorn Pops BBQ Curry 70 gm",
-            9.95
-          ],
-          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
           ],
           [
-            "Goody Pasta Pipe Rings 450 gm",
-            6.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ],
           [
             "Goody Mayonnaise 237 ml",
             14.95
           ],
           [
-            "Goody Whole Black Olive 240gm",
-            9.95
-          ],
-          [
             "Goody Stuffed Green Olive 240gm",
             9.95
           ],
           [
+            "Goody Pasta Pipe Rings 450 gm",
+            6.95
+          ],
+          [
             "Goody Sieved Tomatoes 700 gm",
             15.95
-          ],
-          [
-            "Goody Pasta Penne Lisce 450 gm",
-            6.95
-          ],
-          [
-            "Goody Pasta Conchigli 450gm",
-            6.95
           ],
           [
             "Goody Light Meat Tuna With Chili 185 gm",
@@ -2778,7 +2910,11 @@
             9.95
           ],
           [
-            "Goody Pasta Vermicelli Cut 450gm",
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Conchigli 450gm",
             6.95
           ],
           [
@@ -2788,10 +2924,22 @@
           [
             "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Whole Black Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
+            6.95
+          ],
+          [
+            "Goody Hot Sauce 88 ml",
+            2.95
           ]
         ],
-        "products_seen": 216,
-        "relevant": 64,
+        "products_seen": 215,
+        "relevant": 62,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -2817,19 +2965,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+peanut+butter+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Body Cream Body Lotion Fresh Juices Family Pack Bread & Bakery Soft Drinks Single Pack Fresh Juices Single Pack Butter Cakes Shower Gel Body Lotion Iced Coffee Popcorn Cream Wafer Chocolate Coated Wafer Long Life Milk Single Pack Iced Co",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Flick Beverages Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Hair & Skin Care Healthy Snacks & Food Home & Kitchen Pantry Essentials Spices & Sauces Sweets & Specialty Coffee Fresh Poultry & Meat Juices Baby To",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=507544653&appName=ninja-website&environment=default",
-          "https://api64.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=646838405&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794630047994&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716483018&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A20%3A49.370Z%2B0300&sent_at=2026-11-14T07%3A20%3A51."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A21%3A24.407Z%2B0300&sent_at=2026-11-15T07%3A21%3A26."
         ],
         "all_products": [
           [
@@ -2869,10 +3017,6 @@
             14.95
           ],
           [
-            "Goody Lite Mayonnaise 946 ml",
-            27.95
-          ],
-          [
             "Goody Thousand Island Dressing 250 ml",
             9.95
           ],
@@ -2881,19 +3025,15 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
           ],
           [
-            "Goody Pasta Elbow 450gm",
+            "Goody Pasta Fusilli 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
+            "Goody Pasta Elbow 450gm",
             6.95
           ],
           [
@@ -2909,7 +3049,7 @@
             9.95
           ],
           [
-            "Goody Pasta Ditalini Lisce 450 gm",
+            "Goody Chopped Tomatoes 400 gm",
             6.95
           ],
           [
@@ -2917,7 +3057,19 @@
             9.95
           ],
           [
-            "Goody Chopped Tomatoes 400 gm",
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Vermicelli Nest 250 gm",
             6.95
           ],
           [
@@ -2925,11 +3077,11 @@
             5.95
           ],
           [
-            "Goody Vermicelli Nest 250 gm",
-            6.95
+            "Goody Mayonnaise 237 ml",
+            14.95
           ],
           [
-            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            "Goody Stuffed Green Olive 240gm",
             9.95
           ],
           [
@@ -2937,28 +3089,8 @@
             6.95
           ],
           [
-            "Goody Mayonnaise 237 ml",
-            14.95
-          ],
-          [
-            "Goody Whole Black Olive 240gm",
-            9.95
-          ],
-          [
-            "Goody Stuffed Green Olive 240gm",
-            9.95
-          ],
-          [
             "Goody Sieved Tomatoes 700 gm",
             15.95
-          ],
-          [
-            "Goody Pasta Penne Lisce 450 gm",
-            6.95
-          ],
-          [
-            "Goody Pasta Conchigli 450gm",
-            6.95
           ],
           [
             "Goody Light Meat Tuna With Chili 185 gm",
@@ -2981,20 +3113,36 @@
             9.95
           ],
           [
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
             "Goody Pasta Penne Rigate (No.31) 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Vermicelli Cut 450gm",
+            "Goody Pasta Conchigli 450gm",
             6.95
           ],
           [
             "Goody Break Popcorn Pops Sour Cream 70 gm",
             9.95
+          ],
+          [
+            "Goody Whole Black Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
+            13.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
+            6.95
           ]
         ],
         "products_seen": 300,
-        "relevant": 64,
+        "relevant": 62,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3020,19 +3168,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+peanut",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Flick Breakfast Chocolate & Candy Healthy Snacks & Food Spices & Sauces Sweets & Specialty Coffee Chocolate & Candies Chocolate Bars Chocolate & Sweets Healthy Food Salty Snacks & Nuts Salty Snacks & Nuts Salty Snacks & Nuts Chocolate& C",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Chocolate & Candies Healthy Food Salty Snacks & Nuts Chocolate & Sweets Salty Snacks & Nuts Salty Snacks & Nuts Chocolate& Candies Healthy Bars & Snacks Healthy Sweet Snacks Protein Bars Chips & Puffs Wafers Canned Food Chips in Bags Can",
         "json_urls": [
-          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=986510455&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794630072532&dep=2%2CPAGE_LOAD",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=532579228&appName=ninja-website&environment=default",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716506080&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://graphql.ananinja.com/graphql",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A21%3A14.006Z%2B0300&sent_at=2026-11-14T07%3A21%3A16."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A21%3A46.926Z%2B0300&sent_at=2026-11-15T07%3A21%3A48."
         ],
         "all_products": [
           [
@@ -3068,10 +3216,6 @@
             14.95
           ],
           [
-            "Goody Lite Mayonnaise 946 ml",
-            27.95
-          ],
-          [
             "Goody Thousand Island Dressing 250 ml",
             9.95
           ],
@@ -3088,10 +3232,6 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
             "Goody Whole Kernel Golden Corn 340 gm",
             8.95
           ],
@@ -3104,7 +3244,7 @@
             9.95
           ],
           [
-            "Goody Pasta Ditalini Lisce 450 gm",
+            "Goody Chopped Tomatoes 400 gm",
             6.95
           ],
           [
@@ -3112,7 +3252,15 @@
             9.95
           ],
           [
-            "Goody Chopped Tomatoes 400 gm",
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
             6.95
           ],
           [
@@ -3120,44 +3268,28 @@
             6.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
-          ],
-          [
-            "Goody Break Popcorn Pops BBQ Curry 70 gm",
-            9.95
-          ],
-          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
           ],
           [
-            "Goody Pasta Pipe Rings 450 gm",
-            6.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ],
           [
             "Goody Mayonnaise 237 ml",
             14.95
           ],
           [
-            "Goody Whole Black Olive 240gm",
-            9.95
-          ],
-          [
             "Goody Stuffed Green Olive 240gm",
             9.95
           ],
           [
+            "Goody Pasta Pipe Rings 450 gm",
+            6.95
+          ],
+          [
             "Goody Sieved Tomatoes 700 gm",
             15.95
-          ],
-          [
-            "Goody Pasta Penne Lisce 450 gm",
-            6.95
-          ],
-          [
-            "Goody Pasta Conchigli 450gm",
-            6.95
           ],
           [
             "Goody Light Meat Tuna With Chili 185 gm",
@@ -3180,11 +3312,15 @@
             9.95
           ],
           [
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
           ],
           [
-            "Goody Pasta Vermicelli Cut 450gm",
+            "Goody Pasta Conchigli 450gm",
             6.95
           ],
           [
@@ -3194,10 +3330,22 @@
           [
             "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Whole Black Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
+            6.95
+          ],
+          [
+            "Goody Sliced Green Olive 240gm",
+            9.95
           ]
         ],
         "products_seen": 122,
-        "relevant": 64,
+        "relevant": 62,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3231,25 +3379,213 @@
             true
           ]
         ],
-        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
+        "final_url": "https://ananinja.com/sa/en/product/search?q=goody%20peanut%20butter",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Keto Body Butter Moisturizers Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Hair & Skin Care Healthy Snacks & Food Spices & Sauces Sweets & Specialty Coffee Fresh Poultry & Meat Baby Toiletries Chocolate Bars Sa",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
-          "https://api64.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=135748690&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=602330595&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794630097337&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716527105&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A21%3A38.344Z%2B0300&sent_at=2026-11-14T07%3A21%3A40."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A22%3A08.474Z%2B0300&sent_at=2026-11-15T07%3A22%3A10.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=135748690&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU9ETTRZemxtWmpJdE5qWmpNQzAwTVdSa0xXRTBNamN0TmpVeU5XTTJZVGt3TjJFNA%22%7D&cb=179",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://graphql.ananinja.com/graphql"
         ],
-        "all_products": [],
-        "products_seen": 0,
-        "relevant": 0,
+        "all_products": [
+          [
+            "Goody Creamy Peanut Butter 510 gm",
+            19.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            19.95
+          ],
+          [
+            "Goody French Dressing 250 ml",
+            9.95
+          ],
+          [
+            "Goody Sauce Spicy Chipotle 250ml",
+            13.95
+          ],
+          [
+            "Goody Pasta Sauce Pesto 190 gm",
+            18.95
+          ],
+          [
+            "Goody Sauce Tartar 250 ml",
+            13.95
+          ],
+          [
+            "Goody Pasta Sauce Arrabbiata 420 gm",
+            14.95
+          ],
+          [
+            "Goody Pasta Sauce Marinara 420 gm",
+            14.95
+          ],
+          [
+            "Goody Thousand Island Dressing 250 ml",
+            9.95
+          ],
+          [
+            "Goody Pasta Spaghetti 450 gm",
+            6.95
+          ],
+          [
+            "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
+            13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Elbow 450gm",
+            6.95
+          ],
+          [
+            "Goody Whole Kernel Golden Corn 340 gm",
+            8.95
+          ],
+          [
+            "Goody Break Popcorn Pops Caramel 70 gm",
+            9.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna 185 gm",
+            9.95
+          ],
+          [
+            "Goody Chopped Tomatoes 400 gm",
+            6.95
+          ],
+          [
+            "Goody Tuna Light Meat In Oil 185 gm",
+            9.95
+          ],
+          [
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Vermicelli Nest 250 gm",
+            6.95
+          ],
+          [
+            "Goody Natural Sugar Cane Vinegar Tray 473 gm",
+            3.95
+          ],
+          [
+            "Goody Corn Golden Kernel 150gm",
+            5.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Pipe Rings 450 gm",
+            6.95
+          ],
+          [
+            "Goody Sieved Tomatoes 700 gm",
+            15.95
+          ],
+          [
+            "Goody Light Meat Tuna With Chili 185 gm",
+            9.95
+          ],
+          [
+            "Goody White Meat Tuna In Sunflower Oil 90 gm",
+            7.95
+          ],
+          [
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Grilled Olives With Cheese 230gm",
+            19.95
+          ],
+          [
+            "Goody Break Popcorn Pops Dark Chocolate 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Conchigli 450gm",
+            6.95
+          ],
+          [
+            "Goody Break Popcorn Pops Sour Cream 70 gm",
+            9.95
+          ],
+          [
+            "Goody Whole Black Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
+            13.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
+            6.95
+          ],
+          [
+            "Goody Hot Sauce 88 ml",
+            2.95
+          ]
+        ],
+        "products_seen": 201,
+        "relevant": 62,
         "matches": 0,
-        "sample_names": []
+        "sample_names": [
+          "Goody Break Popcorn Pops BBQ Curry 70 gm",
+          "Goody Break Popcorn Pops Caramel 70 gm",
+          "Goody Break Popcorn Pops Dark Chocolate 70 gm",
+          "Goody Break Popcorn Pops Ketchup 70 gm",
+          "Goody Break Popcorn Pops Sour Cream 70 gm",
+          "Goody Chick Peas 425 gm",
+          "Goody Chopped Tomatoes 400 gm",
+          "Goody Chunky Peanut Butter 510 gm",
+          "Goody Corn Golden Kernel 150gm",
+          "Goody Creamy Peanut Butter 510 gm",
+          "Goody Fava Beans Whole Regular 450 gm",
+          "Goody French Dressing 250 ml",
+          "Goody French Dressing 425 ml",
+          "Goody Grape Leaves Plain Stiffed 295gm",
+          "Goody Grilled Olives With Cheese 230gm"
+        ]
       }
     ]
   },
@@ -3264,11 +3600,11 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (8) Brands (1) Chefz (23) Departments (24) Hungerstation (18) Jahez (10) Jahez V2 (23) Mrsool (15) Mrsool V2 (23) Price  0.00 -  1.00  1.00 -  9.00  9.00 -  17.00  17.00 -  25.00  25.00 -  ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=8a90f4ec-7d4f-4383-8c3a-ce940a91676f",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=23a97cb1-c5a6-4eb8-a804-b61eac836ae5",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://www.danube.sa/en/store_selector",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2271&s=0&ref=https://www.danube.sa/en/search&ptid=683",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=f7f92a49a01f7c87"
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2214&s=0&ref=https://www.danube.sa/en/search&ptid=062",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=43f2552a3a9b4906",
+          "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [
           [
@@ -3360,8 +3696,8 @@
         "title": "Shop Goody natural peanut butter no sugar Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Goody natural peanut butter no sugar Search Results: \"Goody natural peanut butter no sugar\" 31 Products Found 454 gm Goody Natural Peanut Butter No Sugar Added 454g Jams & Spreads 33.99 1 454 g",
         "json_urls": [
-          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
+          "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
@@ -3372,11 +3708,11 @@
             33.99
           ],
           [
-            "Goody Natural Peanut Butter Original 454g",
+            "Goody Natural Chocolate Peanut Butter 454g",
             33.99
           ],
           [
-            "Goody Natural Chocolate Peanut Butter 454g",
+            "Goody Natural Peanut Butter Original 454g",
             33.99
           ],
           [
@@ -3471,16 +3807,16 @@
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=Goody+natural+peanut+butter+no+sugar",
         "title": "Goody natural peanut butter | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Permanent Colorants (58) Peanut Butter (48) Body Cream & Moisturizers (45) Shampoo (43) Laban (39) View All Brand Acqua Panna (3) Activi",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Permanent Colorants (57) Peanut Butter (49) Shampoo (46) Body Cream & Moisturizers (44) Laban (42) View All Brand Acqua Panna (3) Activi",
         "json_urls": [
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/client/list/?search_text=Goody+natural+peanut+butter+no+sugar&page_size=20",
           "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://gcc.luluhypermarket.com/api/client/list/?search_text=Goody+natural+peanut+butter+no+sugar&page_size=20",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17946302"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17947167"
         ],
         "all_products": [
           [
@@ -3580,7 +3916,7 @@
             28.8
           ]
         ],
-        "products_seen": 49,
+        "products_seen": 48,
         "relevant": 24,
         "matches": 0,
         "sample_names": [
@@ -3613,25 +3949,18 @@
           ]
         ],
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=goody+natural+peanut+butter+no+sugar",
-        "title": "Best Online Store for Groceries, Fresh foods ,Electronics & Mobiles with free delivery",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Permanent Colorants (57) Peanut Butter (49) Shampoo (45) Body Cream & Moisturizers (44) Laban (39) View All Brand Acqua Panna (3) Activi",
+        "title": "goody natural peanut butter | LuLu KSA",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Permanent Colorants (57) Peanut Butter (49) Shampoo (46) Body Cream & Moisturizers (44) Laban (42) View All Brand Acqua Panna (3) Activi",
         "json_urls": [
-          "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17946303",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17947167",
           "https://gcc.luluhypermarket.com/api/client/autocomplete/?search_text=Goody%20natural%20peanut%20butter%20no%20sugar",
           "https://gcc.luluhypermarket.com/api/search-redirection?search_text=Goody+natural+peanut+butter+no+sugar",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://st-eu.dynamicyield.com/spa/json?sec=9882999&ref=https%3A%2F%2Fgcc.luluhypermarket.com%2Fen-sa%2F&scriptVersion=2.105.0&id=-8773011105955454315&jsession=",
-          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
-          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17946303"
+          "https://st-eu.dynamicyield.com/spa/json?sec=9882999&ref=&scriptVersion=2.105.0&id=1571757225229759530&jsession=7e1es6cmgx6p9edr3mlb28mu3swldo18&isSesNew=false&l"
         ],
         "all_products": [
           [
@@ -3709,19 +4038,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=Goody+natural+peanut+butter+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Plain Cheese Drinking Water - 200ml Body Butter Perfumes Lashes Soil Black Stamp Sulalat Fresh Sliced Cheese Perfumes EDP EDP EDP Gluten Free Hair Care Devices Coffee Beans Coffee Beans Uganda Perfumes Baja Makeup Lenses Hair Care Perfum",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Decaf Coffee Baby Care Beverages Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Healthy Snacks & Food Makeup & Beauty Pantry Essentials Personal Care Spices & Sauces Sweets & Specialty Coffee Water Juices Nurseri",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=9487007&appName=ninja-website&environment=default",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=976370488&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://api64.ipify.org/?format=json",
           "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794630352778&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716773477&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A25%3A54.164Z%2B0300&sent_at=2026-11-14T07%3A25%3A56."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A26%3A14.799Z%2B0300&sent_at=2026-11-15T07%3A26%3A16."
         ],
         "all_products": [
           [
@@ -3765,10 +4094,6 @@
             14.95
           ],
           [
-            "Goody Lite Mayonnaise 946 ml",
-            27.95
-          ],
-          [
             "Goody Thousand Island Dressing 250 ml",
             9.95
           ],
@@ -3777,19 +4102,15 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
           ],
           [
-            "Goody Pasta Elbow 450gm",
+            "Goody Pasta Fusilli 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
+            "Goody Pasta Elbow 450gm",
             6.95
           ],
           [
@@ -3805,7 +4126,7 @@
             9.95
           ],
           [
-            "Goody Pasta Ditalini Lisce 450 gm",
+            "Goody Chopped Tomatoes 400 gm",
             6.95
           ],
           [
@@ -3813,7 +4134,15 @@
             9.95
           ],
           [
-            "Goody Chopped Tomatoes 400 gm",
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
             6.95
           ],
           [
@@ -3825,7 +4154,11 @@
             5.95
           ],
           [
-            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
+            "Goody Stuffed Green Olive 240gm",
             9.95
           ],
           [
@@ -3833,28 +4166,8 @@
             6.95
           ],
           [
-            "Goody Mayonnaise 237 ml",
-            14.95
-          ],
-          [
-            "Goody Whole Black Olive 240gm",
-            9.95
-          ],
-          [
-            "Goody Stuffed Green Olive 240gm",
-            9.95
-          ],
-          [
             "Goody Sieved Tomatoes 700 gm",
             15.95
-          ],
-          [
-            "Goody Pasta Penne Lisce 450 gm",
-            6.95
-          ],
-          [
-            "Goody Pasta Conchigli 450gm",
-            6.95
           ],
           [
             "Goody Light Meat Tuna With Chili 185 gm",
@@ -3877,16 +4190,32 @@
             9.95
           ],
           [
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
             "Goody Pasta Penne Rigate (No.31) 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Vermicelli Cut 450gm",
+            "Goody Pasta Conchigli 450gm",
+            6.95
+          ],
+          [
+            "Goody Break Popcorn Pops Sour Cream 70 gm",
+            9.95
+          ],
+          [
+            "Goody Whole Black Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
             6.95
           ]
         ],
         "products_seen": 300,
-        "relevant": 63,
+        "relevant": 61,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3920,25 +4249,213 @@
             true
           ]
         ],
-        "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
+        "final_url": "https://ananinja.com/sa/en/product/search?q=Goody%20natural%20peanut%20butter%20no%20sugar",
+        "title": "Ninja 🥷 🚀",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Decaf Coffee Baby Care Beverages Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Healthy Snacks & Food Makeup & Beauty Pantry Essentials Personal Care Spices & Sauces Sweets & Specialty Coffee Water Juices Nurseri",
         "json_urls": [
-          "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=603307759&appName=ninja-website&environment=default",
+          "https://api64.ipify.org/?format=json",
           "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=964831419&appName=ninja-website&environment=default",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794630375564&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1794716796456&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-14T07%3A26%3A16.367Z%2B0300&sent_at=2026-11-14T07%3A26%3A18."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-15T07%3A26%3A37.927Z%2B0300&sent_at=2026-11-15T07%3A26%3A39.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=603307759&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://api.ipify.org/?format=json",
+          "https://api64.ipify.org/?format=json",
+          "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU5HSXpaR1prTkdVdE5UUTNNeTAwT1dJNUxUaGpaR010TWpobVlUSTVNRGRoTkRVMA%22%7D&cb=179",
+          "https://graphql.ananinja.com/graphql"
         ],
-        "all_products": [],
-        "products_seen": 0,
-        "relevant": 0,
+        "all_products": [
+          [
+            "Goody Creamy Peanut Butter 510 gm",
+            19.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            19.95
+          ],
+          [
+            "Goody Natural Sugar Cane Vinegar Tray 473 gm",
+            3.95
+          ],
+          [
+            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
+            13.95
+          ],
+          [
+            "Goody French Dressing 250 ml",
+            9.95
+          ],
+          [
+            "Goody Sauce Spicy Chipotle 250ml",
+            13.95
+          ],
+          [
+            "Goody Pasta Sauce Pesto 190 gm",
+            18.95
+          ],
+          [
+            "Goody Sauce Tartar 250 ml",
+            13.95
+          ],
+          [
+            "Goody Pasta Sauce Arrabbiata 420 gm",
+            14.95
+          ],
+          [
+            "Goody Pasta Sauce Marinara 420 gm",
+            14.95
+          ],
+          [
+            "Goody Thousand Island Dressing 250 ml",
+            9.95
+          ],
+          [
+            "Goody Pasta Spaghetti 450 gm",
+            6.95
+          ],
+          [
+            "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
+            13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Elbow 450gm",
+            6.95
+          ],
+          [
+            "Goody Whole Kernel Golden Corn 340 gm",
+            8.95
+          ],
+          [
+            "Goody Break Popcorn Pops Caramel 70 gm",
+            9.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna 185 gm",
+            9.95
+          ],
+          [
+            "Goody Chopped Tomatoes 400 gm",
+            6.95
+          ],
+          [
+            "Goody Tuna Light Meat In Oil 185 gm",
+            9.95
+          ],
+          [
+            "Goody Break Popcorn Pops BBQ Curry 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Ditalini Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Vermicelli Nest 250 gm",
+            6.95
+          ],
+          [
+            "Goody Corn Golden Kernel 150gm",
+            5.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Pipe Rings 450 gm",
+            6.95
+          ],
+          [
+            "Goody Sieved Tomatoes 700 gm",
+            15.95
+          ],
+          [
+            "Goody Light Meat Tuna With Chili 185 gm",
+            9.95
+          ],
+          [
+            "Goody White Meat Tuna In Sunflower Oil 90 gm",
+            7.95
+          ],
+          [
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Grilled Olives With Cheese 230gm",
+            19.95
+          ],
+          [
+            "Goody Break Popcorn Pops Dark Chocolate 70 gm",
+            9.95
+          ],
+          [
+            "Goody Pasta Penne Lisce 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Penne Rigate (No.31) 450 gm",
+            6.95
+          ],
+          [
+            "Goody Pasta Conchigli 450gm",
+            6.95
+          ],
+          [
+            "Goody Break Popcorn Pops Sour Cream 70 gm",
+            9.95
+          ],
+          [
+            "Goody Whole Black Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Tuna Tenderina Hot Buffalo 80 gm",
+            6.95
+          ]
+        ],
+        "products_seen": 300,
+        "relevant": 61,
         "matches": 0,
-        "sample_names": []
+        "sample_names": [
+          "Goody Break Popcorn Pops BBQ Curry 70 gm",
+          "Goody Break Popcorn Pops Caramel 70 gm",
+          "Goody Break Popcorn Pops Dark Chocolate 70 gm",
+          "Goody Break Popcorn Pops Ketchup 70 gm",
+          "Goody Break Popcorn Pops Sour Cream 70 gm",
+          "Goody Chick Peas 425 gm",
+          "Goody Chopped Tomatoes 400 gm",
+          "Goody Chunky Peanut Butter 510 gm",
+          "Goody Corn Golden Kernel 150gm",
+          "Goody Creamy Peanut Butter 510 gm",
+          "Goody Fava Beans Whole Regular 450 gm",
+          "Goody French Dressing 250 ml",
+          "Goody French Dressing 425 ml",
+          "Goody Grilled Olives With Cheese 230gm",
+          "Goody Hot Sauce 88 ml"
+        ]
       }
     ]
   }
