@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:59+03:00",
+  "updated": "2026-11-16T07:22+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -39,10 +39,10 @@
       },
       "tamimi": {
         "status": "found",
-        "price": 23.99,
+        "price": 7.48,
         "old_price": null,
-        "product": "Dari Raspberry-350g",
-        "url": "https://shop.tamimimarkets.com/product/raspberry-26"
+        "product": "Made for Your Next BBQ",
+        "url": "https://shop.tamimimarkets.com/en/product/raspberry-26"
       },
       "panda": {
         "status": "not_found"
@@ -66,11 +66,7 @@
         "status": "not_found"
       },
       "tamimi": {
-        "status": "found",
-        "price": 29.95,
-        "old_price": null,
-        "product": "Goody Natural Peanut Butter No Sugar 454g",
-        "url": null
+        "status": "not_found"
       },
       "panda": {
         "status": "found",
@@ -102,11 +98,7 @@
         "url": null
       },
       "tamimi": {
-        "status": "found",
-        "price": 29.95,
-        "old_price": null,
-        "product": "Goody Natural Peanut Butter No Sugar 454g",
-        "url": null
+        "status": "not_found"
       },
       "panda": {
         "status": "found",
