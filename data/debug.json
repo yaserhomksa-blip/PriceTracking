@@ -14,12 +14,12 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Ocean Spray Cranberry Mixed Fruit Drink No Sugar Added 1L  18.50 19 pts Quantity Add To Cart Ocean Spray Zero Sugar Cranberry Juice Drink is made with real fruit juice, delivering the crisp, refreshing taste of cranberries with no added ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=296e25b4-5d52-402c-9911-29d899370ad7",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795061116141",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=4b561171-d4c8-4721-bc45-b4fffbf6e3bd",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795147238276",
           "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795061116280",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1831&s=0&ref=https://danube.sa/en/products/ocean-spra",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=18fc9da78f6a208f"
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795147238347",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2360&s=0&ref=https://danube.sa/en/products/ocean-spra",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=dfd73a8a54983b5c"
         ],
         "products_seen": 1
       }
@@ -31,30 +31,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
-          "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -81,30 +81,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
+          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -131,10 +131,10 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
-          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
+          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
@@ -143,18 +143,19 @@
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
+          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -181,30 +182,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -231,30 +232,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
-          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -281,30 +282,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
-          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -331,12 +332,12 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
@@ -346,15 +347,15 @@
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -381,19 +382,19 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
@@ -404,7 +405,7 @@
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -449,19 +450,19 @@
         ],
         "final_url": "https://www.tamimimarkets.com/search?q=ocean%20spray%20cranberry",
         "title": "Search | Tamimi Markets",
-        "page_start": "Categories Clear العربية Select store Sign in Themari deals Imported New releases Filters Clear Brand Any brand Al Mehbaj 1 Biona 1 Ceres 1 Dari 1 Georgia 1 Natureland 1 Ocean Spray 9 Safeway 2 Show all (10) Package size 1.89L 9 12 x 1L 1 1L 3 2.04L 1 200g 1 250g 1 330ml 2 350g 1 Show all (10) Co",
+        "page_start": "Categories Clear العربية Select store Sign in Themari deals Imported New releases Filters Clear Brand Any brand Biona 1 Ceres 1 Dari 1 Georgia 1 Natureland 1 Ocean Spray 9 Safeway 2 Sainsbury's 2 Show all (9) Package size 1.89L 9 12 x 1L 1 1L 3 2.04L 1 200g 1 330ml 2 350g 1 64oz 1 Show all (9) Co",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
@@ -470,7 +471,7 @@
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://ac.cnstrc.com/recommendations/v1/pods/popular-searches?key=key_87HUpZO6lbVJRtwV&section=Search+Suggestions&num_results=5&fmt_options%5Bvariations_return",
           "https://ac.cnstrc.com/recommendations/v1/pods/popular-products?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=12&fmt_options%5Bvariations_return_type%5D=",
-          "https://ac.cnstrc.com/autocomplete/ocean%20spray%20cranberry?c=ciojs-client-2.94.1&key=key_87HUpZO6lbVJRtwV&i=ad0cff24-1e72-4209-a29e-15e9f12d88f4&s=1&us=V152&n"
+          "https://ac.cnstrc.com/autocomplete/ocean%20spray%20cranberry?c=ciojs-client-2.94.1&key=key_87HUpZO6lbVJRtwV&i=7002c2cd-428b-4650-9077-744b54f764eb&s=1&us=V152&n"
         ],
         "all_products": [
           [
@@ -490,7 +491,7 @@
             73.99
           ]
         ],
-        "products_seen": 111,
+        "products_seen": 106,
         "relevant": 4,
         "matches": 0,
         "sample_names": [
@@ -514,7 +515,7 @@
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
-        "products_seen": 42,
+        "products_seen": 43,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -541,7 +542,7 @@
         "status": 200,
         "final_url": "https://panda.sa/en/plp?search_key=ocean+spray+no+sugar",
         "title": "Shop Ocean spray no sugar Online | Panda KSA",
-        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray no sugar Ocean spray no sugar 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 43% Off 500 gm Al Osra Icing Sugar 500G Sugar & Sweeteners 10",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Ocean spray no sugar Ocean spray no sugar 31 Products Found 1.89 L Ocean Spray 100% Cranberry Pineapple Juice 1.89L Juices 49.99 1 52% Off 500 gm Al Osra Brown Sugar Fine 500g Sugar & Sweetener",
         "json_urls": [
           "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
@@ -550,7 +551,7 @@
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
-        "products_seen": 56,
+        "products_seen": 54,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -561,12 +562,12 @@
           "35% Off",
           "41% Off",
           "42% Off",
-          "43% Off",
           "52% Off",
           "Air Freshener",
           "Al Osra Brown Sugar Fine 500g",
           "Al Osra Brown Sugar Sachets 500g",
-          "Al Osra Icing Sugar 500G",
+          "Al Osra Coarse Sugar Bag 5kg",
+          "Al Osra Fine Sugar Bag 5kg",
           "Al Osra Natural Brown Sugar 2kg",
           "Al Osra Sugar Fine 5Kg"
         ]
@@ -581,8 +582,8 @@
         "json_urls": [
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
           "https://panda.sa/api/interactions",
-          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
@@ -613,16 +614,16 @@
         "status": 200,
         "final_url": "https://panda.sa/en/plp?search_key=cranberry+no+sugar",
         "title": "Shop Cranberry no sugar Online | Panda KSA",
-        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Cranberry no sugar Cranberry no sugar 31 Products Found 52% Off 500 gm Al Osra Brown Sugar Fine 500g Sugar & Sweeteners 7.25 3.49 1 43% Off 500 gm Al Osra Icing Sugar 500G Sugar & Sweeteners ",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Cranberry no sugar Cranberry no sugar 31 Products Found 52% Off 500 gm Al Osra Brown Sugar Fine 500g Sugar & Sweeteners 7.25 3.49 1 35% Off 2 kg Al Osra Natural Brown Sugar 2kg Sugar & Sweeten",
         "json_urls": [
-          "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
+          "https://panda.sa/api/interactions",
           "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
           "https://api.iconify.design/mdi.json?icons=cart%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [],
-        "products_seen": 46,
+        "products_seen": 45,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -630,17 +631,17 @@
           "15% Off",
           "35% Off",
           "42% Off",
-          "43% Off",
           "52% Off",
           "Al Mehbag Cranberry Bag 250 g",
           "Al Osra Brown Sugar Fine 500g",
           "Al Osra Brown Sugar Sachets 500g",
           "Al Osra Coarse Sugar Bag 5kg",
           "Al Osra Fine Sugar Bag 5kg",
-          "Al Osra Icing Sugar 500G",
           "Al Osra Natural Brown Sugar 2kg",
           "Al Osra Sugar Fine 1Kg",
-          "Al Osra Sugar Fine 5Kg"
+          "Al Osra Sugar Fine 5Kg",
+          "Al Osra White Sugar Cubes 500g",
+          "Cereal"
         ]
       },
       {
@@ -677,7 +678,7 @@
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right"
         ],
         "all_products": [],
-        "products_seen": 42,
+        "products_seen": 43,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -763,14 +764,14 @@
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=ocean+spray+cranberry",
         "title": "ocean spray cranberry | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (82) Men's Anti-Perspirant (76) Anti-Perspirant (71) Eau de Parfum (64) Aerosols (55) View All Brand ABC (1) Adidas (7) Adriana",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Hair Oil (84) Men's Anti-Perspirant (77) Anti-Perspirant (71) Eau de Parfum (64) Aerosols (55) View All Brand ABC (1) Adidas (7) Adriana",
         "json_urls": [
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/client/list/?search_text=ocean+spray+cranberry&page_size=20",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17950615"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17951476"
         ],
         "all_products": [
           [
@@ -867,31 +868,28 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+cranberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Ghee & butter Hair Care Personal Care Lenses Juices Salty Snacks Sweet Snacks Nuts, Dried Fruits & Seeds Protein & Cereal Bars Gummy & Chewy Candy Mehbaj Glass Cleansers Carpet & Furniture Cleansers Pest Control Floor Cleansers & Disinfe",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Best Seller & Offers Mehbaj Makeup And Accessories Glass Cleansers Toilet Cleansers Kitchen Cleansers Carpet & Furniture Cleansers Air fresheners Best Offers Hand Tools Protein Bars Chips & Puffs Afle Lenses Malt Drinks Multi Pack Gummy ",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=378952368&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=876146466&appName=ninja-website&environment=default",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061567687&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795147690036&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A12%3A49.096Z%2B0300&sent_at=2026-11-19T07%3A12%3A51."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A08%3A11.491Z%2B0300&sent_at=2026-11-20T07%3A08%3A13."
         ],
         "all_products": [],
         "products_seen": 300,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
-          "6X Spray Perfume London",
-          "6X Spray Perfume Vienna",
           "ANHAR Oil Spray Bottle Glass 210 ml",
           "Ady Elixir Moroccan Mint & Sicilian Lemon 250 ml",
           "Afle Daily Contact Lenses Ocean 2 Pcs",
-          "All Health Buttery Cooking Spray Vegan 190 ml",
           "All Health Kids Sunscreen Spray 50+ SPF 200ml",
           "Almarai Nectar Mango & Grape 140 ml",
           "Almehbaj Dried Cranberry 200 gm",
@@ -900,7 +898,10 @@
           "Alrabie 100% Mixed Fruit & Orange Juice No Added Sugar 185 ml",
           "Alrabie 100% Pineapple & Mixed Fruit Juice No Added Sugar 1 L",
           "Alrabie 100% Pineapple & Mixed Fruit Juice No Added Sugar 250 ml",
-          "Alrabie Apple Drink 18 pcs 125 ml"
+          "Alrabie Apple Drink 18 pcs 125 ml",
+          "Alrabie Apple Juice 1 L",
+          "Alrabie Apple Juice 120 ml",
+          "Alrabie Apple Juice 18 pcs 120 ml"
         ]
       },
       {
@@ -909,27 +910,28 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Healthy Spreads Iced Coffe & Tea Hydration & Wellness Salty Snacks Sweet Snacks Protein & Cereal Bars Milk Hair Care Personal Care Creamers & Chocolate Accessories Jam Sparkling Water Single Pack Canned Fruits & Vegetables Hair Removers ",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Detergents & Cleaning Pets Essentials Pantry Spices & Seasoning Home Care Healthy Food Beverages Pantry Healthy Bars & Snacks Healthy Salty Snacks Healthy Sweet Snacks Healthy Drinks Bakery & Breakfast Protein Bars Wafers Afle Lenses Hai",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=523795931&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=684708250&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061592780&dep=2%2CPAGE_LOAD",
-          "https://graphql.ananinja.com/graphql",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795147715591&dep=2%2CPAGE_LOAD",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A13%3A14.142Z%2B0300&sent_at=2026-11-19T07%3A13%3A16."
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A08%3A36.934Z%2B0300&sent_at=2026-11-20T07%3A08%3A38."
         ],
         "all_products": [],
         "products_seen": 300,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
+          "6X Spray Perfume London",
+          "6X Spray Perfume Vienna",
           "ALALALI Pasta Cuts No.105 450 gm",
-          "ALALALI Pasta Cuts No.201 450 gm",
           "ANHAR Oil Spray Bottle Glass 210 ml",
           "AXIS-Y Physical Sunscreen Renewal Complete No-Stress 50 ml",
           "Ady Elixir Moroccan Mint & Sicilian Lemon 250 ml",
@@ -938,7 +940,6 @@
           "Al Bustan Egyptian Seeds No Salt 55 pcs 8 gm",
           "Al Bustan Premium Mix Nuts No Salt 210 gm",
           "Al Bustan Premium Mix Nuts No Salt 410 gm",
-          "Al Bustan Seeds No Salt 230 gm",
           "Al Nahla White Sugar 100 Sticks 500 gm",
           "AlKhair Karak Tea Coffee Sugar Free 12 Saches",
           "Albayt White Fine Sugar 1 kg",
@@ -951,22 +952,22 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean+spray",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Makeup Skin Care Skin Care Detergents & Cleaning Lenses Hair Care Personal Care Cleaning & Laundry Hair & Skin Care Home & Kitchen Home Textiles & Clothing Makeup & Beauty Personal Care Pet Food & Supplies Vitamins & Supplements Home Tex",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Ghee & butter Wet Food Body Mist Pest Control Floor Cleansers & Disinfectants Makeup And Accessories Organic Cooking Needs Accessories Organic Intimate Care & Hygiene Hair Colorant Juices Single Pack Cleansers Oil Sprays Premium Deodoran",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=722020920&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=999602238&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061617461&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795147740155&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A13%3A38.461Z%2B0300&sent_at=2026-11-19T07%3A13%3A40."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A09%3A01.160Z%2B0300&sent_at=2026-11-20T07%3A09%3A03."
         ],
         "all_products": [],
-        "products_seen": 166,
+        "products_seen": 219,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -981,10 +982,10 @@
           "Aroma Spray Earth 50 ml",
           "Asmaco Foaming Spray Ac Cleaner 2 In 1 Cleans And Disinfects",
           "Avalon Active Muscle Pain Relief Cold Spray 118 ml",
+          "Axe Fine Fragrance Premium Deodorant Body Spray Black Vanilla 150 ml",
           "Axe Men Deodorant Body Spray for long lasting odour protection Black Night 150ml",
-          "Axe Mini Men Deodorant Body Spray Dark Temptation 120ml",
-          "Beauty Mafia Intensive Tanning Oil Spf 6 Spray 140 ml",
-          "Bebeto Jelly Candy Ocean Park 80 gm"
+          "Axe Mini Men Deodorant Body Spray Anarchy 120ml",
+          "Axe Mini Men Deodorant Body Spray Dark Temptation 120ml"
         ]
       },
       {
@@ -993,19 +994,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=cranberry+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Healthy Spreads Sauces & Dressing Sugar & Sweetner Iced Coffe & Tea Hydration & Wellness Juices Salty Snacks Sweet Snacks Nuts, Dried Fruits & Seeds Protein & Cereal Bars Milk Hair Care Personal Care Creamers & Chocolate Jam Sparkling Wa",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Beverages Bread & Bakery Breakfast Chocolate & Candy Healthy Snacks & Food Home & Kitchen Pantry Essentials Personal Care Vitamins & Supplements Beverages Breakfast Bread & Bakery Soft Drinks Pantry Juices Coffee & Tea Gloss Multivitamin",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=547259951&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=611699938&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061641644&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795147766439&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A14%3A03.373Z%2B0300&sent_at=2026-11-19T07%3A14%3A05."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A09%3A27.740Z%2B0300&sent_at=2026-11-20T07%3A09%3A29."
         ],
         "all_products": [],
         "products_seen": 300,
@@ -1020,13 +1021,13 @@
           "Al Bustan Egyptian Seeds No Salt 55 pcs 8 gm",
           "Al Bustan Premium Mix Nuts No Salt 210 gm",
           "Al Bustan Premium Mix Nuts No Salt 410 gm",
-          "Al Bustan Seeds No Salt 230 gm",
           "Al Hatab Maamoul Whole Wheat Large Sugar Free Box 550 gm",
           "Al Hatab Rusk Sticks Whole Wheat Bran Sugar Free 300 gm",
-          "Al Hatab Rusk Yellow Sugar Free Box 230 gm",
           "Al Khair Karak Tea with Coffee Sugar Free 3 sachets15 gm",
           "Al Nahla White Sugar 100 Sticks 500 gm",
-          "AlKhair Karak Tea Coffee Sugar Free 12 Saches"
+          "AlKhair Karak Tea Coffee Sugar Free 12 Saches",
+          "Albayt White Fine Sugar 1 kg",
+          "Alkhair Karak Tea With Cardamom Without Sugar 12 Envelop 180 gm"
         ]
       },
       {
@@ -1045,27 +1046,27 @@
         ],
         "final_url": "https://ananinja.com/sa/en/product/search?q=ocean%20spray%20cranberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Ghee & butter Lenses Juices Salty Snacks Sweet Snacks Nuts, Dried Fruits & Seeds Protein & Cereal Bars Hair Care Personal Care Accessories Conditioner Jam Intimate Care & Hygiene Hair Styling Hair Colorant Cleansers Hair Oils & Serums Ha",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Best Offers Halawa & Jam Household & Gathering Essentials Organic Drink Organic Cooking Needs Biscuits & Cookies Accessories Organic Nuts & Seeds Intimate Care & Hygiene Hair Colorant Juices Single Pack Cleansers Dried Fruits Juices Best",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=424518744&appName=ninja-website&environment=default",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=251393701&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061664938&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795147789673&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A14%3A25.990Z%2B0300&sent_at=2026-11-19T07%3A14%3A27.",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=424518744&appName=ninja-website&environment=default",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A09%3A50.677Z%2B0300&sent_at=2026-11-20T07%3A09%3A52.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=251393701&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU1XSXdPREV4T0RZdFlqQXpZeTAwTmpGaUxUaGhaREF0TUdSaU1UWXlaVGxpWkdWaw%22%7D&cb=179",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU5ERmhaVEl6WVRVdFpHSTVNQzAwTkdJMkxXSmxOMk10WVRCbFlUTm1OMkkxTkRVMQ%22%7D&cb=179",
           "https://graphql.ananinja.com/graphql"
         ],
         "all_products": [],
@@ -1073,12 +1074,9 @@
         "relevant": 0,
         "matches": 0,
         "sample_names": [
-          "6X Spray Perfume London",
-          "6X Spray Perfume Vienna",
           "ANHAR Oil Spray Bottle Glass 210 ml",
           "Ady Elixir Moroccan Mint & Sicilian Lemon 250 ml",
           "Afle Daily Contact Lenses Ocean 2 Pcs",
-          "All Health Buttery Cooking Spray Vegan 190 ml",
           "All Health Kids Sunscreen Spray 50+ SPF 200ml",
           "Almarai Nectar Mango & Grape 140 ml",
           "Almehbaj Dried Cranberry 200 gm",
@@ -1087,7 +1085,10 @@
           "Alrabie 100% Mixed Fruit & Orange Juice No Added Sugar 185 ml",
           "Alrabie 100% Pineapple & Mixed Fruit Juice No Added Sugar 1 L",
           "Alrabie 100% Pineapple & Mixed Fruit Juice No Added Sugar 250 ml",
-          "Alrabie Apple Drink 18 pcs 125 ml"
+          "Alrabie Apple Drink 18 pcs 125 ml",
+          "Alrabie Apple Juice 1 L",
+          "Alrabie Apple Juice 120 ml",
+          "Alrabie Apple Juice 18 pcs 120 ml"
         ]
       }
     ]
@@ -1107,12 +1108,12 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Dari Frozen Raspberry 350g  32.50 33 pts Quantity Add To Cart With Dari Frozen Raspberry, you can shop for Raspberry anytime of the year despite the season. It is packed in such a way that the nutrient value is not altered. RATING No re",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=f87ee75e-6393-458d-b784-9762e67cb0e9",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795061702284",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=danube.sa&ceid=3ab6c476-e181-41a7-9713-388cf49152a7",
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795147834857",
           "https://cdn.tamara.co/widget-v2/assets/en.6d3177ae.json",
-          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795061702347",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2136&s=0&ref=https://danube.sa/en/products/rz-byry-tw",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=86418f1301e11832"
+          "https://cdn.tamara.co/merchant_widget_config/3070c8ff-4950-4300-9f1f-2838131d129e_sa_sar_tamara_summary.json?v=1795147834923",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1684&s=0&ref=https://danube.sa/en/products/rz-byry-tw",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=ed1eb0ae003b1e4c"
         ],
         "products_seen": 1
       }
@@ -1130,7 +1131,7 @@
           "old_price": 6.48,
           "out_of_stock": false
         },
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
@@ -1138,16 +1139,16 @@
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
@@ -1164,12 +1165,12 @@
         "title": "Shop Dari raspberry Online | Panda KSA",
         "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Dari raspberry Dari raspberry 31 Products Found 350 gm Dari Frozen Raspberries 350g Fruits & Vegetables 27.5 1 28% Off 2.75 kg Dari Labneh 2.75kg Cheese & Labneh 89.99 65 1 55% Off 340 gm Da",
         "json_urls": [
-          "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
-          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://panda.sa/api/interactions",
           "https://api.iconify.design/mynaui.json?icons=arrow-left%2Carrow-right",
-          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cheart-outline%2Cminus%2Cplus",
-          "https://api.iconify.design/ic.json?icons=round-arrow-drop-down"
+          "https://api.iconify.design/mdi.json?icons=domain%2Cfile-document-outline%2Cmap-marker%2Creceipt-text-outline%2Cwhatsapp",
+          "https://api.iconify.design/ic.json?icons=round-arrow-drop-down",
+          "https://api.iconify.design/mdi.json?icons=cart%2Cchevron-down%2Cheart-outline%2Cminus%2Cplus"
         ],
         "all_products": [
           [
@@ -1203,6 +1204,10 @@
           [
             "Dari Halloumi Burger Slice 200G",
             19.99
+          ],
+          [
+            "Dari Analogue White Cheese 500 g",
+            14.99
           ],
           [
             "Dari Frozen Tender Chicken Breast 2kg",
@@ -1249,11 +1254,12 @@
             79.99
           ]
         ],
-        "products_seen": 45,
-        "relevant": 19,
+        "products_seen": 47,
+        "relevant": 20,
         "matches": 0,
         "sample_names": [
           "Dari Aloha Mixchunks 350g",
+          "Dari Analogue White Cheese 500 g",
           "Dari Chicken Alfredo Frozen Pasta 400g",
           "Dari Frozen Blackberries 350g",
           "Dari Frozen Chicken Biryani 400g",
@@ -1266,8 +1272,7 @@
           "Dari Frozen Tender Chicken Breast 1kg",
           "Dari Frozen Tender Chicken Breast 2kg",
           "Dari Guava Pulp (1kg)",
-          "Dari Halloumi Burger Slice 200G",
-          "Dari Lamb Mince 400G"
+          "Dari Halloumi Burger Slice 200G"
         ]
       },
       {
@@ -1339,6 +1344,10 @@
             19.99
           ],
           [
+            "Dari Analogue White Cheese 500 g",
+            14.99
+          ],
+          [
             "Dari Frozen Tender Chicken Breast 2kg",
             56.99
           ],
@@ -1383,11 +1392,12 @@
             79.99
           ]
         ],
-        "products_seen": 45,
-        "relevant": 19,
+        "products_seen": 47,
+        "relevant": 20,
         "matches": 0,
         "sample_names": [
           "Dari Aloha Mixchunks 350g",
+          "Dari Analogue White Cheese 500 g",
           "Dari Chicken Alfredo Frozen Pasta 400g",
           "Dari Frozen Blackberries 350g",
           "Dari Frozen Chicken Biryani 400g",
@@ -1400,8 +1410,7 @@
           "Dari Frozen Tender Chicken Breast 1kg",
           "Dari Frozen Tender Chicken Breast 2kg",
           "Dari Guava Pulp (1kg)",
-          "Dari Halloumi Burger Slice 200G",
-          "Dari Lamb Mince 400G"
+          "Dari Halloumi Burger Slice 200G"
         ]
       }
     ],
@@ -1442,97 +1451,29 @@
         "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223",
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223/",
-        "title": "Attention Required! | Cloudflare",
+        "title": "Dari Frozen Raspberry 350 g Online at Best Price | Lulu KSA",
         "product_read": {
-          "name": "Sorry, you have been blocked",
+          "name": "Dari Frozen Raspberry 350 g",
           "price": null
         },
-        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Home > Grocery > Food Cupboard > Frozen Food > Fruits & Vegetables Dari Dari Frozen Raspberry 350 g 25.70 ( Inclusive of VAT ) ADD TO CART Product Highlights Specificati",
         "json_urls": [
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/rate-review/product-review-rating/?sku=1710223&status=approved",
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2"
-        ],
-        "products_seen": 0
-      },
-      {
-        "mode": "url",
-        "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=dari+raspberry",
-        "status": 200,
-        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=dari+raspberry",
-        "title": "dari raspberry | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Chocolate Bars (56) Jam (44) Permanent Colorants (38) Frozen Fruits (12) Cereal Bars (5) View All Brand 2be Bio (1) Activia (1) Al Alali",
-        "json_urls": [
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/auth/session",
+          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
+          "https://gcc.luluhypermarket.com/api/client/products/202056/similar-by-id/?page_size=20",
+          "https://gcc.luluhypermarket.com/api/rate-review/product-review/?sku=1710223&status=approved&limit=2",
           "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
-          "https://gcc.luluhypermarket.com/api/client/list/?search_text=dari+raspberry&page_size=20",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://media.flixcar.com/modular/web-api/d2/14565/6281051007345Z2NjLmx1bHVoeXBlcm1hcmtldC5jb20/t.json?mpn=&ean=6281051007345&distId=14565&iso=d2&flIso=",
+          "https://availability.loadbee.com/v3/EAN/6281051007345/en_AE?template=default&apiKey=9TJp7BxWvds4ndCTCCrn4J9fkcPH9rz9&__integration=v2026-06-02&payload=eyJyZWYiO",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17950619"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17951480"
         ],
-        "all_products": [
-          [
-            "Dari Frozen Raspberry 350 g",
-            25.7
-          ],
-          [
-            "Dari Strawberry 1 kg",
-            9.25
-          ],
-          [
-            "Dari Frozen Molokhia 400 g",
-            3.6
-          ],
-          [
-            "Dari Frozen Tender Chicken Breast 1 kg",
-            22.65
-          ],
-          [
-            "Dari Frozen Tender Chicken Breast 2 kg",
-            43.25
-          ],
-          [
-            "Dari Shredded Mozzarella Cheese 900g",
-            40.95
-          ],
-          [
-            "Dari Frozen Raspberry 350 g",
-            25.7
-          ],
-          [
-            "Dari Strawberry 1 kg",
-            9.25
-          ],
-          [
-            "Dari Frozen Molokhia 400 g",
-            3.6
-          ],
-          [
-            "Dari Frozen Tender Chicken Breast 1 kg",
-            22.65
-          ],
-          [
-            "Dari Frozen Tender Chicken Breast 2 kg",
-            43.25
-          ],
-          [
-            "Dari Shredded Mozzarella Cheese 900g",
-            40.95
-          ]
-        ],
-        "products_seen": 54,
-        "relevant": 12,
-        "matches": 2,
-        "sample_names": [
-          "Dari Frozen Molokhia 400 g",
-          "Dari Frozen Raspberry 350 g",
-          "Dari Frozen Tender Chicken Breast 1 kg",
-          "Dari Frozen Tender Chicken Breast 2 kg",
-          "Dari Shredded Mozzarella Cheese 900g",
-          "Dari Strawberry 1 kg"
-        ]
+        "products_seen": 1
       }
     ],
     "ninja": [
@@ -1542,19 +1483,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=dari+raspberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Frozen Food Spices & Seasoning Chocolate & Sweets Fresh Dairy Keto & Low-Carb Foods Healthy Drinks Healthy Spreads Healthy Ice Cream Coffee & Tea Hair Care Personal Care Sweet Snacks Protein & Cereal Bars Baby Food & Cereals Baby Puree B",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Chocolate & Sweets Fresh Dairy Frozen Food Spices & Seasoning Keto & Low-Carb Foods Healthy Drinks Halawa & Jam Coffee & Tea & Matcha Organic Breakfast Organic Sparkling Water Single Pack Flavoured Water Hand Moisturizer Jam Best Offers ",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=668853321&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=555286857&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061934652&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148054720&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A18%3A55.573Z%2B0300&sent_at=2026-11-19T07%3A18%3A57."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A14%3A15.964Z%2B0300&sent_at=2026-11-20T07%3A14%3A17."
         ],
         "all_products": [
           [
@@ -1614,7 +1555,7 @@
             12.95
           ]
         ],
-        "products_seen": 90,
+        "products_seen": 98,
         "relevant": 14,
         "matches": 0,
         "sample_names": [
@@ -1650,27 +1591,27 @@
         ],
         "final_url": "https://ananinja.com/sa/en/product/search?q=dari%20raspberry",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Healthy Spreads Healthy Ice Cream Coffee & Tea Sweet Snacks Protein & Cereal Bars Personal Care Berries Jam Sparkling Water Single Pack Flavoured Water Canned Beans Shredded Cheese Frozen Vegetables Fries & Potato Frozen Fruits Cheese Bl",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Personal Care Baby Food & Cereals Hand Wash Coffee Capsules Baby Food & Cereals Filled Chocolate Air fresheners Best Offers Best Offers Protein Bars Malt Drinks Multi Pack Gummy & Chewy Candy Best Offers Yoghurt Whole Frozen Poultry Buy ",
         "json_urls": [
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=358615309&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=146401011&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795061959767&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148078711&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A19%3A20.626Z%2B0300&sent_at=2026-11-19T07%3A19%3A22.",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=358615309&appName=ninja-website&environment=default",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A14%3A40.129Z%2B0300&sent_at=2026-11-20T07%3A14%3A42.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=146401011&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
           "https://api64.ipify.org/?format=json",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU1qWTFZbU0zTTJVdE56bGtOaTAwTlRRM0xXRmtOVEl0T1RobU5UaGtOelkxTUdKaw%22%7D&cb=179",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPVpXTmhPVGhpTjJVdE1tUmhaQzAwWW1NNExXRmtZV0V0TXpjMlpqYzJPV1EyWkdRMA%22%7D&cb=179",
           "https://graphql.ananinja.com/graphql"
         ],
         "all_products": [
@@ -1683,12 +1624,32 @@
             18.95
           ],
           [
+            "Dari Very Berry Mix 350 gm",
+            15.95
+          ],
+          [
             "Dari Chicken Breast Tenderized 1 kg",
             22.95
           ],
           [
+            "Dari Peas 400 gm",
+            6.95
+          ],
+          [
+            "Dari Four Cheese Pizza 320 gm",
+            20.95
+          ],
+          [
             "Dari Full Fat Halloumi Cheese 200 gm",
             14.95
+          ],
+          [
+            "Dari Chicken Biryani Ready Meal 400 gm",
+            19.95
+          ],
+          [
+            "Dari Mushroom And Truffle Oil 320 gm",
+            20.95
           ],
           [
             "Dari Original Potato Fries Frozen 1 kg",
@@ -1715,25 +1676,48 @@
             18.95
           ],
           [
+            "Dari Plain Paratha 5 Pcs 400 gm",
+            7.95
+          ],
+          [
             "Dari Molokhia 400 gm",
             7.25
+          ],
+          [
+            "Dari Frozen Whole Chicken 1000 gm",
+            21.95
+          ],
+          [
+            "Dari Original Potato Fries Frozen 2.5 kg",
+            31.95
           ],
           [
             "Dari Halloumi Cheese With Red Chilli 200 gm",
             18.95
           ],
           [
+            "Dari Puff Pastry 400 gm",
+            11.95
+          ],
+          [
+            "Dari Puff Pastry 800 gm",
+            23.95
+          ],
+          [
             "Dari Medium Frozen Shrimp 400 gm",
             36.95
           ]
         ],
-        "products_seen": 98,
-        "relevant": 13,
+        "products_seen": 120,
+        "relevant": 23,
         "matches": 0,
         "sample_names": [
           "Dari BlueBerry Frozen 350 gm",
           "Dari Canned Red Beans Kidney 400 gm",
+          "Dari Chicken Biryani Ready Meal 400 gm",
           "Dari Chicken Breast Tenderized 1 kg",
+          "Dari Four Cheese Pizza 320 gm",
+          "Dari Frozen Whole Chicken 1000 gm",
           "Dari Full Fat Halloumi Cheese 200 gm",
           "Dari Halloumi Cheese With Red Chilli 200 gm",
           "Dari Low Fat Halloumi Cheese 200 gm",
@@ -1741,9 +1725,8 @@
           "Dari Medium Frozen Shrimp 400 gm",
           "Dari Molokhia 400 gm",
           "Dari Mozarilla Cheese Shreded 180 gr",
-          "Dari Original Potato Fries Frozen 1 kg",
-          "Dari Strawberry 1 kg",
-          "Dari Whole Chicken Frozen 900 gm"
+          "Dari Mushroom And Truffle Oil 320 gm",
+          "Dari Original Potato Fries Frozen 1 kg"
         ]
       }
     ]
@@ -1759,11 +1742,11 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (2) Chefz (37) Departments (40) Hungerstation (17) Jahez V2 (37) Mrsool (4) Mrsool V2 (17) Recommended Products (1) Price  0.00 -  10.00  10.00 -  17.00  17.00 -  24.00  24.00 -  31.00  31.0",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=8b9ca71f-1c4c-4a95-8594-025c2d3a92df",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1420&s=0&ref=https://www.danube.sa/en/search&ptid=bb4",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=4b66cc2d-4435-45d2-bcf5-dfc3fbb8b442",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=bc14659ce9e22055",
-          "https://www.danube.sa/en/store_selector"
+          "https://www.danube.sa/en/store_selector",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2252&s=0&ref=https://www.danube.sa/en/search&ptid=6d0",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=bc1d7b33cf61ea42"
         ],
         "all_products": [
           [
@@ -1786,11 +1769,11 @@
         "title": "Danube - Danube",
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By Chefz (6) Departments (6) Hungerstation (2) Jahez V2 (6) Mrsool (2) Mrsool V2 (3) Price  0.00 -  16.00  16.00 -  19.00  19.00 -  22.00  22.00 -  25.00  25.00 -  28.00  28.00 or greater SAR to ",
         "json_urls": [
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=24cc5423-7d4b-44cb-ae55-2a94f96a0718",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=b9554d8b-06de-48ce-87d8-1ea0a0ee6cc6",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1278&s=0&ref=https://www.danube.sa/en/search&ptid=0f8",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=2ad406b13349001e",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1230&s=0&ref=https://www.danube.sa/en/search&ptid=987",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=bb6614644e04e716",
           "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [],
@@ -1813,11 +1796,11 @@
         "title": "Danube - Danube",
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (8) Brands (1) Chefz (25) Departments (26) Hungerstation (18) Jahez (10) Jahez V2 (25) Mrsool (15) Mrsool V2 (24) Price  0.00 -  1.00  1.00 -  10.00  10.00 -  19.00  19.00 -  28.00  28.00 - ",
         "json_urls": [
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=b7e50aab-74c2-4d30-8815-99e1a4a21426",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1126&s=0&ref=https://www.danube.sa/en/search&ptid=202",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=7dbf3461-42cd-47f4-9619-6d362f30f106",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=ff381b42858e916d",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1517&s=0&ref=https://www.danube.sa/en/search&ptid=0a4",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=5007f7ae85fa62a4",
           "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [
@@ -1842,10 +1825,10 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (2) Chefz (51) Departments (56) Hungerstation (25) Jahez V2 (51) Mrsool (4) Mrsool V2 (21) Recommended Products (2) Price  0.00 -  3.00  3.00 -  10.00  10.00 -  17.00  17.00 -  24.00  24.00 ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=84d00357-e079-42be-8a0c-e5b094dffa47",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1235&s=0&ref=https://www.danube.sa/en/search&ptid=a35",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=9f1cf440-6d04-4830-beec-d4b7d81640be",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=14dbd9eb3e4ad027",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1320&s=0&ref=https://www.danube.sa/en/search&ptid=b63",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=30ddebda9e222f8c",
           "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [
@@ -1983,10 +1966,10 @@
         ],
         "error": "TimeoutError: ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\nattempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is visible, enabled and stable\n  -   scrollin",
         "json_urls": [
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=d77987bc-ec0d-42dd-9c49-e8473a2bc35c",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=ca5dee86-6bd1-4d87-a5ce-54ee40b8dd57",
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2711&s=0&ref=https://www.danube.sa/en&ptid=26d73f6035",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=9fc1ec3a44af25e5",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1999&s=0&ref=https://www.danube.sa/en&ptid=d418bfdc59",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=afdbb15b9b2fa48b",
           "https://www.danube.sa/en/store_selector"
         ],
         "all_products": [],
@@ -2003,30 +1986,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
-          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
+          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2053,30 +2036,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2103,30 +2086,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2153,30 +2136,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
+          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2203,12 +2186,12 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
@@ -2218,15 +2201,15 @@
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
+          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2253,30 +2236,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2303,30 +2286,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
+          "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2353,30 +2336,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 959,
+        "products_seen": 958,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -2423,26 +2406,26 @@
         "title": "Search | Tamimi Markets",
         "page_start": "Categories Clear العربية Select store Sign in Themari deals Imported New releases Filters Clear Brand Any brand Goody 13 Package size 340g 2 4 x 20g 1 454g 6 510g 2 800g 2 Country Any country Canada 2 Greece 1 United States 6 South Africa 4 Most relevant Results for “goody peanut butter” 13 prod",
         "json_urls": [
-          "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://ac.cnstrc.com/recommendations/v1/pods/popular-searches?key=key_87HUpZO6lbVJRtwV&section=Search+Suggestions&num_results=5&fmt_options%5Bvariations_return",
           "https://ac.cnstrc.com/recommendations/v1/pods/popular-products?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=12&fmt_options%5Bvariations_return_type%5D=",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
-          "https://ac.cnstrc.com/autocomplete/goody%20peanut%20butter?c=ciojs-client-2.94.1&key=key_87HUpZO6lbVJRtwV&i=eabea8fe-fd16-4947-ad8b-20e6a2be28c7&s=1&us=V152&num"
+          "https://ac.cnstrc.com/autocomplete/goody%20peanut%20butter?c=ciojs-client-2.94.1&key=key_87HUpZO6lbVJRtwV&i=c12ff7af-6888-4d54-8b0c-73126d73863f&s=1&us=V152&num"
         ],
         "all_products": [],
         "products_seen": 50,
@@ -2474,7 +2457,7 @@
         "status": 200,
         "final_url": "https://panda.sa/en/plp?search_key=goody+peanut+butter",
         "title": "Shop Goody peanut butter Online | Panda KSA",
-        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Goody peanut butter Goody peanut butter 31 Products Found 41% Off 454 gm Goody Natural Chocolate Peanut Butter 454g Jams & Spreads 33.99 20 1 41% Off 454 gm Goody Natural Peanut Butter Origina",
+        "page_start": "Express Scheduled Click & Collect Card Store English Delivery Your address Welcome Login / Signup Shop Goody peanut butter Goody peanut butter 31 Products Found 41% Off 454 gm Goody Natural Peanut Butter Original 454g Jams & Spreads 33.99 20 1 41% Off 454 gm Goody Natural Chocolate Peanut Butte",
         "json_urls": [
           "https://panda.sa/api/interactions",
           "https://bzrcdn.openai.com/pixel-config/v1/A3y875FCdy2jNxtyMDAMfK.json",
@@ -2484,11 +2467,11 @@
         ],
         "all_products": [
           [
-            "Goody Natural Chocolate Peanut Butter 454g",
+            "Goody Natural Peanut Butter Original 454g",
             33.99
           ],
           [
-            "Goody Natural Peanut Butter Original 454g",
+            "Goody Natural Chocolate Peanut Butter 454g",
             33.99
           ],
           [
@@ -2520,7 +2503,7 @@
             10.99
           ]
         ],
-        "products_seen": 33,
+        "products_seen": 34,
         "relevant": 9,
         "matches": 1,
         "sample_names": [
@@ -2600,16 +2583,15 @@
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=goody+peanut+butter",
         "title": "goody peanut butter | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Peanut Butter (53) Body Cream & Moisturizers (43) Laban (42) Unsalted Butter (28) Body Lotion (25) View All Brand Act II (1) Activia (8)",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Peanut Butter (54) Body Cream & Moisturizers (40) Laban (38) Unsalted Butter (31) Cookies (27) View All Brand Act II (1) Activia (8) Afi",
         "json_urls": [
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://gcc.luluhypermarket.com/api/auth/session",
-          "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
+          "https://gcc.luluhypermarket.com/api/client/list/?search_text=goody+peanut+butter&page_size=20",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17950624"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17951485"
         ],
         "all_products": [
           [
@@ -2641,6 +2623,62 @@
             9.8
           ],
           [
+            "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
+            9.8
+          ],
+          [
+            "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
+            9.8
+          ],
+          [
+            "Goody Cinnamon Peanut Butter Spread 454 g",
+            23.65
+          ],
+          [
+            "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
+            32.9
+          ],
+          [
+            "Goody Original Melty Peanut Butter Spread 454 g",
+            28.8
+          ],
+          [
+            "Goody No Added Sugar Melty Peanut Butter Spread 454 g",
+            28.8
+          ],
+          [
+            "Goody Creamy Peanut Butter 510 g",
+            15.99
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 g",
+            15.99
+          ],
+          [
+            "Goody Creamy Peanut Butter 340 g",
+            16.4
+          ],
+          [
+            "Goody Chunky Peanut Butter 340 g",
+            16.4
+          ],
+          [
+            "Goody Creamy Peanut Butter 800 g",
+            32.7
+          ],
+          [
+            "Goody Chunky Peanut Butter 800 g",
+            32.7
+          ],
+          [
+            "Goody Break Original Flavor Peanut Butter Bites 80 g",
+            9.8
+          ],
+          [
+            "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
+            9.8
+          ],
+          [
             "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
             9.8
           ],
@@ -2661,11 +2699,12 @@
             28.8
           ]
         ],
-        "products_seen": 29,
-        "relevant": 12,
-        "matches": 1,
+        "products_seen": 48,
+        "relevant": 26,
+        "matches": 2,
         "sample_names": [
           "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
+          "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
           "Goody Break Original Flavor Peanut Butter Bites 80 g",
           "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
           "Goody Chunky Peanut Butter 340 g",
@@ -2687,19 +2726,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+peanut+butter",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Filled Chocolate Hard Candies & Lollipops Chips in Bags Shampoo Sweet Snacks Protein Bars Chips & Puffs Wafers Hair Care Chocolate Breakfast and Bakery Spreads Pasta Oil & Ghee Confectionary Fresh Poultry Ice Cream Toppings & Serving Ghe",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Keto Moisturizers Body Butter BBQ Sauce Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Hair & Skin Care Healthy Snacks & Food Pantry Essentials Spices & Sauces Sweets & Specialty Coffee Fresh Poultry & Meat Pantr",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=181357988&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=471794195&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062462916&dep=2%2CPAGE_LOAD",
-          "https://graphql.ananinja.com/graphql",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148588065&dep=2%2CPAGE_LOAD",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A27%3A44.173Z%2B0300&sent_at=2026-11-19T07%3A27%3A46."
+          "https://graphql.ananinja.com/graphql",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A23%3A09.136Z%2B0300&sent_at=2026-11-20T07%3A23%3A11."
         ],
         "all_products": [
           [
@@ -2711,24 +2750,24 @@
             23.95
           ],
           [
-            "Goody Chunky Peanut Butter 510 gm",
-            23.95
-          ],
-          [
             "Goody Creamy Peanut Butter 510 gm",
             22.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            23.95
           ],
           [
             "Goody Pasta Spaghetti 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
           ],
           [
             "Goody Whole Kernel Golden Corn 340 gm",
@@ -2747,12 +2786,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -2763,16 +2798,16 @@
             6.95
           ],
           [
+            "Goody Pasta Elbow 450gm",
+            6.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna 185 gm",
+            9.95
+          ],
+          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
-          ],
-          [
-            "Goody Mayonnaise 237 ml",
-            14.95
-          ],
-          [
-            "Goody Stuffed Green Olive 240gm",
-            9.95
           ],
           [
             "Goody French Dressing 250 ml",
@@ -2807,14 +2842,6 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
-            "Goody Sliced Black Olive 240gm",
-            8.95
-          ],
-          [
             "Goody Sauce Spicy Chipotle 250ml",
             19.95
           ],
@@ -2823,12 +2850,28 @@
             15.95
           ],
           [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
             "Goody Pasta Sauce Pesto 190 gm",
             24.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
+            6.95
           ],
           [
             "Goody Whole Black Olive 240gm",
@@ -2855,16 +2898,12 @@
             9.95
           ],
           [
-            "Goody Hot Sauce 88 ml",
-            2.95
-          ],
-          [
-            "Goody Garlic Mayonnaise 250 ml",
-            17.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ]
         ],
-        "products_seen": 237,
-        "relevant": 77,
+        "products_seen": 245,
+        "relevant": 78,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -2890,19 +2929,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+melty+peanut+butter",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Healthy Spreads Canned Food Ghee & butter Salty Snacks Sweet Snacks Protein & Cereal Bars Baby Skin & Personal Care Hair Care Personal Care Conditioner Sweet Snacks Spreadables Ghee Canned meat & Seafood Canned Beans Canned Fruits & Vege",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Protein Bars Chips & Puffs Wafers Canned Food Chips in Bags Ghee Canned meat & Seafood Canned Beans Marinated Chicken Canned Olives & Pickels Hair Styling Sweet Snacks Baby Skin Care Conditioner Sweet Snacks Hair Care Ketchup Mayonnaise ",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=905449182&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=357454607&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062488250&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148612714&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A28%3A09.766Z%2B0300&sent_at=2026-11-19T07%3A28%3A11."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A23%3A34.038Z%2B0300&sent_at=2026-11-20T07%3A23%3A36."
         ],
         "all_products": [
           [
@@ -2926,12 +2965,12 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
           ],
           [
             "Goody Whole Kernel Golden Corn 340 gm",
@@ -2950,12 +2989,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -2966,16 +3001,16 @@
             6.95
           ],
           [
+            "Goody Pasta Elbow 450gm",
+            6.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna 185 gm",
+            9.95
+          ],
+          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
-          ],
-          [
-            "Goody Mayonnaise 237 ml",
-            14.95
-          ],
-          [
-            "Goody Stuffed Green Olive 240gm",
-            9.95
           ],
           [
             "Goody French Dressing 250 ml",
@@ -3010,28 +3045,36 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
             "Goody Sauce Spicy Chipotle 250ml",
             19.95
           ],
           [
-            "Goody Sliced Black Olive 240gm",
-            8.95
+            "Goody Stuffed Green Olive 240gm",
+            9.95
           ],
           [
             "Goody Sieved Tomatoes 700 gm",
             15.95
           ],
           [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
             "Goody Pasta Sauce Pesto 190 gm",
             24.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
+            6.95
           ],
           [
             "Goody Whole Black Olive 240gm",
@@ -3058,16 +3101,12 @@
             9.95
           ],
           [
-            "Goody Garlic Mayonnaise 250 ml",
-            17.95
-          ],
-          [
-            "Goody Hot Sauce 88 ml",
-            2.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ]
         ],
-        "products_seen": 254,
-        "relevant": 77,
+        "products_seen": 264,
+        "relevant": 78,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3093,19 +3132,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+peanut+butter+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Healthy Spreads Ghee & butter Iced Coffe & Tea Hydration & Wellness Salty Snacks Sweet Snacks Protein & Cereal Bars Baby Skin & Personal Care Hair Care Personal Care Creamers & Chocolate Conditioner Jam Sweet Snacks Sparkling Water Singl",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Flick Lips Makeup Baby Toiletries Baby Food & Cereals Biscuits & Wafer Chocolate Bars Salty Snacks & Nuts Kashta Makeup Hair Care Perfumes Personal Care Lip Care Skin Care Baby Skin & Personal Care Hair Care Personal Care Special Offer S",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=215349482&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=300928309&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062512412&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148640825&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A28%3A33.934Z%2B0300&sent_at=2026-11-19T07%3A28%3A35."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A24%3A02.042Z%2B0300&sent_at=2026-11-20T07%3A24%3A04."
         ],
         "all_products": [
           [
@@ -3113,12 +3152,12 @@
             23.95
           ],
           [
-            "Goody Chunky Peanut Butter 510 gm",
-            23.95
-          ],
-          [
             "Goody Creamy Peanut Butter 510 gm",
             22.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            23.95
           ],
           [
             "Goody Peanut Butter Creamy 800 gm",
@@ -3141,12 +3180,12 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
           ],
           [
             "Goody Whole Kernel Golden Corn 340 gm",
@@ -3165,12 +3204,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -3181,11 +3216,11 @@
             6.95
           ],
           [
-            "Goody Mayonnaise 237 ml",
-            14.95
+            "Goody Pasta Elbow 450gm",
+            6.95
           ],
           [
-            "Goody Stuffed Green Olive 240gm",
+            "Goody Tenderina Soft Tuna 185 gm",
             9.95
           ],
           [
@@ -3217,11 +3252,31 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
+            "Goody Pasta Pipe Rings 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Pipe Rings 450 gm",
+            "Goody Sauce Spicy Chipotle 250ml",
+            19.95
+          ],
+          [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Sieved Tomatoes 700 gm",
+            15.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
+            "Goody Pasta Sauce Pesto 190 gm",
+            24.95
+          ],
+          [
+            "Goody Pasta Ditalini Rigate 450 gm",
             6.95
           ],
           [
@@ -3229,23 +3284,7 @@
             8.95
           ],
           [
-            "Goody Sauce Spicy Chipotle 250ml",
-            19.95
-          ],
-          [
-            "Goody Sieved Tomatoes 700 gm",
-            15.95
-          ],
-          [
-            "Goody Pasta Sauce Pesto 190 gm",
-            24.95
-          ],
-          [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
-          ],
-          [
-            "Goody Pasta Penne Rigate (No.31) 450 gm",
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
             6.95
           ],
           [
@@ -3270,7 +3309,7 @@
           ]
         ],
         "products_seen": 300,
-        "relevant": 76,
+        "relevant": 77,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3296,19 +3335,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody+peanut",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Filled Chocolate Chips in Bags Sweet Snacks Protein Bars Chips & Puffs Wafers Chocolate Breakfast and Bakery Spreads Pasta Confectionary Ice Cream Toppings & Serving Pasta Healthy Spreads Salty Snacks Sweet Snacks Protein & Cereal Bars S",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Filled Chocolate Healthy Spreads Salty Snacks Sweet Snacks Protein & Cereal Bars Al-Bustan Better Together Spreadables Organic Breakfast Biscuits & Cookies Organic Spreadables Canned Fruits & Vegetables Pasta Vinegar & Concentrates Salad",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=846493665&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=963343306&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062536355&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148666961&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A28%3A57.481Z%2B0300&sent_at=2026-11-19T07%3A28%3A59."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A24%3A28.287Z%2B0300&sent_at=2026-11-20T07%3A24%3A30."
         ],
         "all_products": [
           [
@@ -3320,12 +3359,12 @@
             23.95
           ],
           [
-            "Goody Chunky Peanut Butter 510 gm",
-            23.95
-          ],
-          [
             "Goody Creamy Peanut Butter 510 gm",
             22.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            23.95
           ],
           [
             "Goody Pasta Spaghetti 450 gm",
@@ -3352,12 +3391,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -3368,20 +3403,20 @@
             6.95
           ],
           [
+            "Goody Pasta Elbow 450gm",
+            6.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna 185 gm",
+            9.95
+          ],
+          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
           ],
           [
-            "Goody Mayonnaise 237 ml",
-            14.95
-          ],
-          [
             "Goody French Dressing 250 ml",
             12.95
-          ],
-          [
-            "Goody Stuffed Green Olive 240gm",
-            9.95
           ],
           [
             "Goody Sauce Smoked BBQ 250 ml",
@@ -3412,32 +3447,40 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
             "Goody Sauce Spicy Chipotle 250ml",
             19.95
-          ],
-          [
-            "Goody Sliced Black Olive 240gm",
-            8.95
           ],
           [
             "Goody Sieved Tomatoes 700 gm",
             15.95
           ],
           [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
             "Goody Pasta Sauce Pesto 190 gm",
             24.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Sliced Black Olive 240gm",
+            8.95
           ],
           [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
+            6.95
           ],
           [
             "Goody Whole Black Olive 240gm",
@@ -3464,16 +3507,12 @@
             9.95
           ],
           [
-            "Goody Garlic Mayonnaise 250 ml",
-            17.95
-          ],
-          [
-            "Goody Hot Sauce 88 ml",
-            2.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ]
         ],
-        "products_seen": 142,
-        "relevant": 77,
+        "products_seen": 146,
+        "relevant": 78,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3509,27 +3548,27 @@
         ],
         "final_url": "https://ananinja.com/sa/en/product/search?q=goody%20peanut%20butter",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Breakfast Bread & Bakery Breakfast Cheese & Milk Chips & Snacks Chocolate & Candy Hair & Skin Care Healthy Snacks & Food Pantry Essentials Spices & Sauces Sweets & Specialty Coffee Fresh Poultry & Meat Skin Care Pantry Essentials Kashta ",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Body Scrub Butter Soap Keto BBQ Sauce Moisturizers Body Butter Flick Baby Toiletries Biscuits & Wafer Chocolate Bars Salty Snacks & Nuts Kashta Hair Care Personal Care Shampoo Face Mask & Scrub Best Seller & Offers Filled Chocolate Bette",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=605717357&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=260850549&appName=ninja-website&environment=default",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062558538&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148690632&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A29%3A19.997Z%2B0300&sent_at=2026-11-19T07%3A29%3A21.",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=260850549&appName=ninja-website&environment=default",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A24%3A51.869Z%2B0300&sent_at=2026-11-20T07%3A24%3A53.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=605717357&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
           "https://api64.ipify.org/?format=json",
-          "https://graphql.ananinja.com/graphql",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU9ETTNZMk15TURBdFl6ZGpNaTAwWlRBNUxUZzJaakV0WTJObVpXUTBOVFJqWXpaaA%22%7D&cb=179",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU5HWXdaamRpWm1NdFpUZzJZeTAwTWpZNExUbGxPV1F0TkRrME5UY3hZVFl4TlRZeQ%22%7D&cb=179",
           "https://graphql.ananinja.com/graphql"
         ],
         "all_products": [
@@ -3542,24 +3581,24 @@
             23.95
           ],
           [
-            "Goody Chunky Peanut Butter 510 gm",
-            23.95
-          ],
-          [
             "Goody Creamy Peanut Butter 510 gm",
             22.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            23.95
           ],
           [
             "Goody Pasta Spaghetti 450 gm",
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
           ],
           [
             "Goody Whole Kernel Golden Corn 340 gm",
@@ -3578,12 +3617,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -3594,16 +3629,16 @@
             6.95
           ],
           [
+            "Goody Pasta Elbow 450gm",
+            6.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna 185 gm",
+            9.95
+          ],
+          [
             "Goody Natural Sugar Cane Vinegar Tray 473 gm",
             3.95
-          ],
-          [
-            "Goody Mayonnaise 237 ml",
-            14.95
-          ],
-          [
-            "Goody Stuffed Green Olive 240gm",
-            9.95
           ],
           [
             "Goody French Dressing 250 ml",
@@ -3638,14 +3673,6 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
-            "Goody Sliced Black Olive 240gm",
-            8.95
-          ],
-          [
             "Goody Sauce Spicy Chipotle 250ml",
             19.95
           ],
@@ -3654,12 +3681,28 @@
             15.95
           ],
           [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
             "Goody Pasta Sauce Pesto 190 gm",
             24.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
+          ],
+          [
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
+            6.95
           ],
           [
             "Goody Whole Black Olive 240gm",
@@ -3686,16 +3729,12 @@
             9.95
           ],
           [
-            "Goody Hot Sauce 88 ml",
-            2.95
-          ],
-          [
-            "Goody Garlic Mayonnaise 250 ml",
-            17.95
+            "Goody Corn Golden Kernel 150gm",
+            5.95
           ]
         ],
-        "products_seen": 237,
-        "relevant": 77,
+        "products_seen": 245,
+        "relevant": 78,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -3728,11 +3767,11 @@
         "page_start": " My Account 0 Cart Departments عربى Al Shati, Jeddah Clear filters Refine By BigBag (8) Brands (1) Chefz (23) Departments (24) Hungerstation (18) Jahez (10) Jahez V2 (23) Mrsool (15) Mrsool V2 (23) Price  0.00 -  1.00  1.00 -  9.00  9.00 -  17.00  17.00 -  25.00  25.00 -  ",
         "json_urls": [
           "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=fe096401-dd07-4702-a75c-11cc3760fb7e",
-          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=1937&s=0&ref=https://www.danube.sa/en/search&ptid=4a8",
+          "https://gum.criteo.com/sid/json?origin=onetag&domain=danube.sa&sn=ChromeSyncframe&so=undefined&topUrl=www.danube.sa&ceid=b7f47d4d-1213-40f2-adc4-14810e54e0f7",
           "https://1d2iewlqad-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.27.0%3Binstantsearch.js%202.10.3%3BJS%2",
-          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=c794c72f55d506ca",
-          "https://www.danube.sa/en/store_selector"
+          "https://www.danube.sa/en/store_selector",
+          "https://bam.nr-data.net/browser/connect/2/d81bc572c4?a=34147115&v=1.324.1&s=6fc7800763f9181a",
+          "https://bam.nr-data.net/1/NRJS-60f97436de1ea8965cd?a=1120576348&sa=1&v=1.323.0&t=Unnamed%20Transaction&rst=2274&s=0&ref=https://www.danube.sa/en/search&ptid=e80"
         ],
         "all_products": [
           [
@@ -3755,21 +3794,22 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
-          "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
@@ -3778,7 +3818,7 @@
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 958,
+        "products_seen": 959,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -3805,28 +3845,30 @@
         "status": 200,
         "final_url": "https://www.tamimimarkets.com/",
         "title": "Tamimi Markets Online – Supermarket Delivery , Click & Collect in KSA",
-        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat SAME QUALITY YOU LIKE WITH PRICE YOU LOVE Explore now Make everyday a healthy ",
+        "page_start": "Categories العربية Select store Sign in Themari deals Imported New releases Made for Your Next BBQ From local farms to trusted producers around the world. Freshly prepared, just the way you like it. Explore Our Meat ONLINE EXCLUSIVE DEALS Explore now Make everyday a healthy choice Shop now We",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:857933532856:web:2149768b9cf65647592e4d/webConfig",
           "https://firebaseinstallations.googleapis.com/v1/projects/tamimi-markets-online/installations"
         ],
         "all_products": [],
-        "products_seen": 958,
+        "products_seen": 959,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -3871,31 +3913,31 @@
         ],
         "final_url": "https://www.tamimimarkets.com/search?q=Goody%20natural%20peanut%20butter%20no%20sugar",
         "title": "Search | Tamimi Markets",
-        "page_start": "Categories Clear العربية Select store Sign in Themari deals Imported New releases Filters Clear Brand Any brand Biona 1 Goody 11 Natureland 1 Peanut Butter & Co 3 Safeway 1 Skippy 2 Whole Earth 1 Package size 16.3oz 2 16oz 1 170g 1 250g 1 28oz 1 340g 3 454g 7 510g 2 Show all (9) Country Any count",
+        "page_start": "Categories Clear العربية Select store Sign in Themari deals Imported New releases Filters Clear Brand Any brand Biona 1 Goody 11 Natureland 1 Peanut Butter & Co 2 Safeway 2 Skippy 2 Whole Earth 1 Package size 16.3oz 2 170g 1 250g 1 28oz 2 340g 3 454g 7 510g 2 800g 2 Country Any country Canada 2 G",
         "json_urls": [
           "https://ac.cnstrc.com/recommendations/v1/pods/special-deals-for-you?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=10&fmt_options%5Bvariations_return_typ",
           "https://ac.cnstrc.com/browse/brand/Pepsi?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=all&fm",
-          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ac.cnstrc.com/browse/tm_code_dept/TM1?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
+          "https://ac.cnstrc.com/browse/tm_code_dept/TM3?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_options%5Bvariations_return_type%5D=a",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/AppVersion/Check?companyCode=TF01&appType=CUSTOMER&platform=WEB&version=1.0.0&lang=en",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/WebSyncServices/GetWebSyncData",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetHeroBanners",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Recipe/GetAllRecipes",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Home/GetBanners",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
-          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/User/AddGuestUser",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Order/GetAllCartItemV1",
+          "https://ecomadmin.tamimimarkets.com/webmobileapi/api/Brand/GetAllBrands",
           "https://ecomadmin.tamimimarkets.com/webmobileapi/api/activitylog/log/batch",
           "https://ac.cnstrc.com/recommendations/v1/pods/popular-searches?key=key_87HUpZO6lbVJRtwV&section=Search+Suggestions&num_results=5&fmt_options%5Bvariations_return",
-          "https://ac.cnstrc.com/recommendations/v1/pods/popular-products?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=12&fmt_options%5Bvariations_return_type%5D="
+          "https://ac.cnstrc.com/recommendations/v1/pods/popular-products?key=key_87HUpZO6lbVJRtwV&section=Products&num_results=12&fmt_options%5Bvariations_return_type%5D=",
+          "https://ac.cnstrc.com/v1/search/Goody%20natural%20peanut%20butter%20no%20sugar?key=key_87HUpZO6lbVJRtwV&section=Products&page=1&num_results_per_page=10&fmt_opti"
         ],
         "all_products": [],
-        "products_seen": 88,
+        "products_seen": 85,
         "relevant": 0,
         "matches": 0,
         "sample_names": [
@@ -3938,11 +3980,11 @@
             33.99
           ],
           [
-            "Goody Natural Chocolate Peanut Butter 454g",
+            "Goody Natural Peanut Butter Original 454g",
             33.99
           ],
           [
-            "Goody Natural Peanut Butter Original 454g",
+            "Goody Natural Chocolate Peanut Butter 454g",
             33.99
           ],
           [
@@ -3978,7 +4020,7 @@
             7.99
           ]
         ],
-        "products_seen": 41,
+        "products_seen": 39,
         "relevant": 11,
         "matches": 1,
         "sample_names": [
@@ -4026,132 +4068,16 @@
         "url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=Goody+natural+peanut+butter+no+sugar",
         "status": 200,
         "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=Goody+natural+peanut+butter+no+sugar",
-        "title": "Goody natural peanut butter | LuLu KSA",
-        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Permanent Colorants (58) Peanut Butter (50) Shampoo (44) Body Cream & Moisturizers (43) Still Water (23) View All Brand Acqua Panna (3) ",
+        "title": "Attention Required! | Cloudflare",
+        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
         "json_urls": [
-          "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://gcc.luluhypermarket.com/api/client/list/?search_text=Goody+natural+peanut+butter+no+sugar&page_size=20",
-          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
-          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
-          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17950627"
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa"
         ],
-        "all_products": [
-          [
-            "Goody Creamy Peanut Butter 510 g",
-            15.99
-          ],
-          [
-            "Goody Chunky Peanut Butter 510 g",
-            15.99
-          ],
-          [
-            "Goody Creamy Peanut Butter 340 g",
-            16.4
-          ],
-          [
-            "Goody Chunky Peanut Butter 340 g",
-            16.4
-          ],
-          [
-            "Goody Creamy Peanut Butter 800 g",
-            32.7
-          ],
-          [
-            "Goody Chunky Peanut Butter 800 g",
-            32.7
-          ],
-          [
-            "Goody Break Original Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Cinnamon Peanut Butter Spread 454 g",
-            23.65
-          ],
-          [
-            "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
-            32.9
-          ],
-          [
-            "Goody Original Melty Peanut Butter Spread 454 g",
-            28.8
-          ],
-          [
-            "Goody Creamy Peanut Butter 510 g",
-            15.99
-          ],
-          [
-            "Goody Chunky Peanut Butter 510 g",
-            15.99
-          ],
-          [
-            "Goody Creamy Peanut Butter 340 g",
-            16.4
-          ],
-          [
-            "Goody Chunky Peanut Butter 340 g",
-            16.4
-          ],
-          [
-            "Goody Creamy Peanut Butter 800 g",
-            32.7
-          ],
-          [
-            "Goody Chunky Peanut Butter 800 g",
-            32.7
-          ],
-          [
-            "Goody Break Original Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
-            9.8
-          ],
-          [
-            "Goody Cinnamon Peanut Butter Spread 454 g",
-            23.65
-          ],
-          [
-            "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
-            32.9
-          ],
-          [
-            "Goody Original Melty Peanut Butter Spread 454 g",
-            28.8
-          ]
-        ],
-        "products_seen": 49,
-        "relevant": 24,
+        "all_products": [],
+        "products_seen": 0,
+        "relevant": 0,
         "matches": 0,
-        "sample_names": [
-          "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
-          "Goody Break Cocoa Flavor Peanut Butter Bites 80 g",
-          "Goody Break Original Flavor Peanut Butter Bites 80 g",
-          "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
-          "Goody Chunky Peanut Butter 340 g",
-          "Goody Chunky Peanut Butter 510 g",
-          "Goody Chunky Peanut Butter 800 g",
-          "Goody Cinnamon Peanut Butter Spread 454 g",
-          "Goody Creamy Peanut Butter 340 g",
-          "Goody Creamy Peanut Butter 510 g",
-          "Goody Creamy Peanut Butter 800 g",
-          "Goody Original Melty Peanut Butter Spread 454 g"
-        ]
+        "sample_names": []
       },
       {
         "mode": "box",
@@ -4167,24 +4093,87 @@
             true
           ]
         ],
-        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=Goody+natural+peanut+butter+no+sugar",
-        "title": "Attention Required! | Cloudflare",
-        "page_start": "Sorry, you have been blocked You are unable to access luluhypermarket.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block i",
+        "final_url": "https://gcc.luluhypermarket.com/en-sa/list/?search_text=goody+natural+peanut+butter+no+sugar",
+        "title": "Best Online Store for Groceries, Fresh foods ,Electronics & Mobiles with free delivery",
+        "page_start": "HYPERMARKET MINUTES Search for \"Anything\" Tomorrow Al Khaleej EN All Categories Grocery Fresh Food Electronics Home & Living Deals Filter Clear Filter Product Type Permanent Colorants (56) Peanut Butter (49) Shampoo (46) Body Cream & Moisturizers (45) Laban (40) View All Brand Acqua Panna (3) Activi",
         "json_urls": [
-          "https://gcc.luluhypermarket.com/api/auth/session",
           "https://gcc.luluhypermarket.com/api/hot-food-config/v2",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://gcc.luluhypermarket.com/api/get-storewise-delivery/?storeCode=3734",
           "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
           "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
           "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
-          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17950628"
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17951489",
+          "https://gcc.luluhypermarket.com/api/client/autocomplete/?search_text=Goody%20natural%20peanut%20butter%20no%20sugar",
+          "https://gcc.luluhypermarket.com/api/search-redirection?search_text=Goody+natural+peanut+butter+no+sugar",
+          "https://gcc.luluhypermarket.com/api/yellow-chat?locale=sa",
+          "https://st-eu.dynamicyield.com/spa/json?sec=9882999&ref=&scriptVersion=2.105.0&id=-2778719984744936343&jsession=es71f21uyxcrpw5v3uq9dxzw19lvbmaf&isSesNew=false&",
+          "https://cloud.yellow.ai/api/plugin/bot-redirection?bot=x1656342799654",
+          "https://r0.cloud.yellow.ai/api/plugin/bot-load-details?bot=x1772628437604",
+          "https://r0.cloud.yellow.ai/api/plugin/push-to-metrics?bot=x1772628437604&linkType=web&payload=[object%20Object]&source=yellowmessenger&subSource=null&_=17951489"
         ],
-        "all_products": [],
-        "products_seen": 0,
-        "relevant": 0,
+        "all_products": [
+          [
+            "Goody Creamy Peanut Butter 510 g",
+            15.99
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 g",
+            15.99
+          ],
+          [
+            "Goody Creamy Peanut Butter 340 g",
+            16.4
+          ],
+          [
+            "Goody Chunky Peanut Butter 340 g",
+            16.4
+          ],
+          [
+            "Goody Creamy Peanut Butter 800 g",
+            32.7
+          ],
+          [
+            "Goody Chunky Peanut Butter 800 g",
+            32.7
+          ],
+          [
+            "Goody Break Original Flavor Peanut Butter Bites 80 g",
+            9.8
+          ],
+          [
+            "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
+            9.8
+          ],
+          [
+            "Goody Cinnamon Peanut Butter Spread 454 g",
+            23.65
+          ],
+          [
+            "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
+            32.9
+          ],
+          [
+            "Goody Original Melty Peanut Butter Spread 454 g",
+            28.8
+          ]
+        ],
+        "products_seen": 30,
+        "relevant": 11,
         "matches": 0,
-        "sample_names": []
+        "sample_names": [
+          "Goody Break Caramel Flavor Peanut Butter Bites 80 g",
+          "Goody Break Original Flavor Peanut Butter Bites 80 g",
+          "Goody Chia & Flaxseed Melty Peanut Butter Spread 454 g",
+          "Goody Chunky Peanut Butter 340 g",
+          "Goody Chunky Peanut Butter 510 g",
+          "Goody Chunky Peanut Butter 800 g",
+          "Goody Cinnamon Peanut Butter Spread 454 g",
+          "Goody Creamy Peanut Butter 340 g",
+          "Goody Creamy Peanut Butter 510 g",
+          "Goody Creamy Peanut Butter 800 g",
+          "Goody Original Melty Peanut Butter Spread 454 g"
+        ]
       }
     ],
     "ninja": [
@@ -4194,19 +4183,19 @@
         "status": 200,
         "final_url": "https://ananinja.com/sa/en/product/search?q=Goody+natural+peanut+butter+no+sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Spreadables Ghee Canned meat & Seafood Canned Beans Canned Fruits & Vegetables Canned Olives & Pickels Bar Soap Sliced Cheese Hair Styling Hair Colorant Pasta Cleansers Face Care Hair Oils & Serums Hair Care Chips in Bags Baking Ingredie",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Halawa & Jam Honey Spreadables Cheese & Butter Household & Gathering Essentials Green Tea Creamers & Chocolate Coffee & Tea & Matcha Organic Breakfast Organic Cooking Needs Sweetners Biscuits & Cookies Cake & Brownies Nuts & Seeds Honey ",
         "json_urls": [
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=325163015&appName=ninja-website&environment=default",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=663387692&appName=ninja-website&environment=default",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062836777&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148963788&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A33%3A57.837Z%2B0300&sent_at=2026-11-19T07%3A33%3A59."
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A29%3A25.693Z%2B0300&sent_at=2026-11-20T07%3A29%3A27."
         ],
         "all_products": [
           [
@@ -4214,12 +4203,12 @@
             23.95
           ],
           [
-            "Goody Chunky Peanut Butter 510 gm",
-            23.95
-          ],
-          [
             "Goody Creamy Peanut Butter 510 gm",
             22.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            23.95
           ],
           [
             "Goody Peanut Butter Creamy 800 gm",
@@ -4234,12 +4223,12 @@
             8.95
           ],
           [
-            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
-            13.95
-          ],
-          [
             "Goody Pasta Sedani No.12 450 gm",
             6.95
+          ],
+          [
+            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
+            13.95
           ],
           [
             "Goody Natural Cider Vinegar 473 ml",
@@ -4250,12 +4239,12 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
           ],
           [
             "Goody Whole Kernel Golden Corn 340 gm",
@@ -4274,12 +4263,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -4290,11 +4275,11 @@
             6.95
           ],
           [
-            "Goody Mayonnaise 237 ml",
-            14.95
+            "Goody Pasta Elbow 450gm",
+            6.95
           ],
           [
-            "Goody Stuffed Green Olive 240gm",
+            "Goody Tenderina Soft Tuna 185 gm",
             9.95
           ],
           [
@@ -4330,14 +4315,6 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
-            "Goody Sliced Black Olive 240gm",
-            8.95
-          ],
-          [
             "Goody Sauce Spicy Chipotle 250ml",
             19.95
           ],
@@ -4346,15 +4323,27 @@
             15.95
           ],
           [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
             "Goody Pasta Sauce Pesto 190 gm",
             24.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
           ],
           [
-            "Goody Pasta Penne Rigate (No.31) 450 gm",
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
             6.95
           ],
           [
@@ -4371,7 +4360,7 @@
           ]
         ],
         "products_seen": 300,
-        "relevant": 75,
+        "relevant": 76,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
@@ -4407,27 +4396,27 @@
         ],
         "final_url": "https://ananinja.com/sa/en/product/search?q=Goody%20natural%20peanut%20butter%20no%20sugar",
         "title": "Ninja 🥷 🚀",
-        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Beverages Breakfast Bread & Bakery Baby Care Beverages Breakfast Chips & Snacks Chocolate & Candy Healthy Snacks & Food Makeup & Beauty Pantry Essentials Personal Care Spices & Sauces Sweets & Specialty Coffee Spices & Sauces Cheese & Mi",
+        "page_start": "Delivery to: Select Address My Cart العربية KSA Register All Ice Cream Sticks Cups & Tubs Family Packs Ice Cream Sun Care Seeds Water Ice Cream Cones Hair Mask Fresh Juices Iphone Screen Protectors Brow Pencil Eyeshadow Foundation Concealers & Correctors Blusher & Bronzer Highlighter Lipstick Nail",
         "json_urls": [
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
-          "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=457792394&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=188178606&appName=ninja-website&environment=default",
+          "https://graphql.ananinja.com/graphql",
+          "https://graphql.ananinja.com/graphql",
           "https://api64.ipify.org/?format=json",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795062859902&dep=2%2CPAGE_LOAD",
+          "https://ct.pinterest.com/user/?tid=2613964999201&cb=1795148987393&dep=2%2CPAGE_LOAD",
           "https://graphql.ananinja.com/graphql",
           "https://app.adjust.com/session",
-          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-19T07%3A34%3A21.342Z%2B0300&sent_at=2026-11-19T07%3A34%3A23.",
-          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=457792394&appName=ninja-website&environment=default",
+          "https://app.adjust.com/attribution?app_token=b6oj3bkl2m80&environment=production&created_at=2026-11-20T07%3A29%3A48.462Z%2B0300&sent_at=2026-11-20T07%3A29%3A50.",
+          "https://eu.app.unleash-hosted.com/euee0008/api/frontend?sessionId=188178606&appName=ninja-website&environment=default",
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://graphql.ananinja.com/graphql",
           "https://api.ipify.org/?format=json",
           "https://api64.ipify.org/?format=json",
+          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU5EYzBOVGhsWkdFdE0ySmpaQzAwTkdGaUxXSmhabUV0WVRjNE1HVXhOR1E1T0dReg%22%7D&cb=179",
           "https://bzrcdn.openai.com/pixel-config/v1/C8o15pdeb2LrrzbTV9X9eb.json",
-          "https://ct.pinterest.com/user/?tid=2613964999201&pd=%7B%22pin_unauth%22%3A%22dWlkPU5UTTVObUpsTUdVdE5ERmpPQzAwTW1SaUxXSTRaVGd0WmpsaFlUWTBNVFpoT1dRMw%22%7D&cb=179",
           "https://graphql.ananinja.com/graphql"
         ],
         "all_products": [
@@ -4436,12 +4425,12 @@
             23.95
           ],
           [
-            "Goody Chunky Peanut Butter 510 gm",
-            23.95
-          ],
-          [
             "Goody Creamy Peanut Butter 510 gm",
             22.95
+          ],
+          [
+            "Goody Chunky Peanut Butter 510 gm",
+            23.95
           ],
           [
             "Goody Peanut Butter Creamy 800 gm",
@@ -4456,12 +4445,12 @@
             8.95
           ],
           [
-            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
-            13.95
-          ],
-          [
             "Goody Pasta Sedani No.12 450 gm",
             6.95
+          ],
+          [
+            "Goody Microwavable Popcorn Natural Flavor 3 pcs 85 gm",
+            13.95
           ],
           [
             "Goody Natural Cider Vinegar 473 ml",
@@ -4472,12 +4461,12 @@
             6.95
           ],
           [
-            "Goody Pasta Fusilli 450 gm",
-            6.95
-          ],
-          [
             "Goody Microwavable Popcorn Butter Flavor 3 pcs 85 gm",
             13.95
+          ],
+          [
+            "Goody Pasta Fusilli 450 gm",
+            6.95
           ],
           [
             "Goody Whole Kernel Golden Corn 340 gm",
@@ -4496,12 +4485,8 @@
             9.95
           ],
           [
-            "Goody Tenderina Soft Tuna 185 gm",
+            "Goody Sliced Green Olive 240gm",
             9.95
-          ],
-          [
-            "Goody Pasta Elbow 450gm",
-            6.95
           ],
           [
             "Goody Vermicelli Nest 250 gm",
@@ -4512,11 +4497,11 @@
             6.95
           ],
           [
-            "Goody Mayonnaise 237 ml",
-            14.95
+            "Goody Pasta Elbow 450gm",
+            6.95
           ],
           [
-            "Goody Stuffed Green Olive 240gm",
+            "Goody Tenderina Soft Tuna 185 gm",
             9.95
           ],
           [
@@ -4552,14 +4537,6 @@
             6.95
           ],
           [
-            "Goody Pasta Ditalini Rigate 450 gm",
-            6.95
-          ],
-          [
-            "Goody Sliced Black Olive 240gm",
-            8.95
-          ],
-          [
             "Goody Sauce Spicy Chipotle 250ml",
             19.95
           ],
@@ -4568,15 +4545,27 @@
             15.95
           ],
           [
+            "Goody Stuffed Green Olive 240gm",
+            9.95
+          ],
+          [
+            "Goody Mayonnaise 237 ml",
+            14.95
+          ],
+          [
             "Goody Pasta Sauce Pesto 190 gm",
             24.95
           ],
           [
-            "Goody Corn Golden Kernel 150gm",
-            5.95
+            "Goody Pasta Ditalini Rigate 450 gm",
+            6.95
           ],
           [
-            "Goody Pasta Penne Rigate (No.31) 450 gm",
+            "Goody Sliced Black Olive 240gm",
+            8.95
+          ],
+          [
+            "Goody Tenderina Soft Tuna In Sunflower Oil 80 gm",
             6.95
           ],
           [
@@ -4593,7 +4582,7 @@
           ]
         ],
         "products_seen": 300,
-        "relevant": 75,
+        "relevant": 76,
         "matches": 0,
         "sample_names": [
           "Goody Break Popcorn Pops BBQ Curry 70 gm",
