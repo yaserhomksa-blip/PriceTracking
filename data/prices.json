@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:08+03:00",
+  "updated": "2026-11-25T07:16+03:00",
   "items": {
     "Ocean Spray Cranberry No Sugar Added 1L": {
       "danube": {
@@ -20,7 +20,7 @@
       },
       "lulu": {
         "status": "found",
-        "price": 13.9,
+        "price": 15.95,
         "old_price": null,
         "product": "Ocean Spray No Added Sugar Cranberry Drink 1 Litre",
         "url": null
@@ -39,13 +39,17 @@
       },
       "tamimi": {
         "status": "found",
-        "price": 6.75,
-        "old_price": null,
+        "price": 6.48,
+        "old_price": 12.95,
         "product": "Made for Your Next BBQ",
         "url": "https://shop.tamimimarkets.com/en/product/raspberry-26"
       },
       "panda": {
-        "status": "not_found"
+        "status": "found",
+        "price": 27.99,
+        "old_price": null,
+        "product": "Dari Frozen Raspberries 350g",
+        "url": null
       },
       "carrefour": {
         "status": "unreachable"
@@ -55,7 +59,7 @@
         "price": 25.7,
         "old_price": null,
         "product": "Dari Frozen Raspberry 350 g",
-        "url": "https://gcc.luluhypermarket.com/en-sa/dari-frozen-raspberry-350-g/p/1710223"
+        "url": null
       },
       "ninja": {
         "status": "not_found"
